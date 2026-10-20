@@ -1,0 +1,1005 @@
+{
+  "schema_version": "1.1",
+  "tier": 1,
+  "practices": [
+    {
+      "id": "tier1-practice01",
+      "tier": 1,
+      "practice": 1,
+      "title": "Preparing for Entrance Exams",
+      "master_topic": 1,
+      "topic": "Education",
+      "status": "qc_revised",
+      "instructions": "For questions 17–24, use the word given in capitals to form a word that fits the gap. There is an example (0). Write answers in CAPITAL LETTERS.",
+      "passage": "Good (0) {{0}} is essential for students who are getting ready for important examinations.\n\nMany students believe that success depends mainly on natural (17) {{17}}, but teachers often disagree.\n\n(18) {{18}}, there are many study techniques that can help students make progress even if they initially find a subject difficult.\n\nA solid (19) {{19}} of the main concepts is important, but simply memorising facts is rarely enough.\n\nWith regular revision, there is a real (20) {{20}} of improving even a weak subject before the final examination.\n\nTime management should also be taken into (21) {{21}}. Students who leave all their revision until the last minute usually experience unnecessary stress.\n\nThere is strong (22) {{22}} that reviewing material several times over a longer period is more effective than studying everything in one night.\n\nStudents therefore need to take (23) {{23}} for organising their own study schedule.\n\nThose who revise consistently are (24) {{24}} better prepared when exam day finally arrives.",
+      "example": {
+        "number": 0,
+        "base_word": "PREPARE",
+        "answer": "PREPARATION"
+      },
+      "items": [
+        {
+          "number": 17,
+          "base_word": "ABLE",
+          "answer": "ABILITY",
+          "answer_provenance": "source_provided",
+          "word_class": "noun",
+          "formation_path": "ABLE → ABILITY",
+          "explanation": "Needed word class: noun. ABLE → ABILITY. Key feature: noun formation. Check how the completed phrase fits the surrounding grammar and meaning.",
+          "qc_flags": []
+        },
+        {
+          "number": 18,
+          "base_word": "FORTUNE",
+          "answer": "FORTUNATELY",
+          "answer_provenance": "source_provided",
+          "word_class": "adverb",
+          "formation_path": "FORTUNE → FORTUNATELY",
+          "explanation": "Needed word class: adverb. FORTUNE → FORTUNATELY. Key feature: adverb formation. Check how the completed phrase fits the surrounding grammar and meaning.",
+          "qc_flags": []
+        },
+        {
+          "number": 19,
+          "base_word": "KNOW",
+          "answer": "KNOWLEDGE",
+          "answer_provenance": "source_provided",
+          "word_class": "noun",
+          "formation_path": "KNOW → KNOWLEDGE",
+          "explanation": "Needed word class: noun. KNOW → KNOWLEDGE. Key feature: noun formation. Check how the completed phrase fits the surrounding grammar and meaning.",
+          "qc_flags": []
+        },
+        {
+          "number": 20,
+          "base_word": "POSSIBLE",
+          "answer": "POSSIBILITY",
+          "answer_provenance": "source_provided",
+          "word_class": "noun",
+          "formation_path": "POSSIBLE → POSSIBILITY",
+          "explanation": "Needed word class: noun. POSSIBLE → POSSIBILITY. Key feature: noun formation. Check how the completed phrase fits the surrounding grammar and meaning.",
+          "qc_flags": []
+        },
+        {
+          "number": 21,
+          "base_word": "CONSIDER",
+          "answer": "CONSIDERATION",
+          "answer_provenance": "source_provided",
+          "word_class": "noun",
+          "formation_path": "CONSIDER → CONSIDERATION",
+          "explanation": "Needed word class: noun. CONSIDER → CONSIDERATION. Key feature: noun formation. Check how the completed phrase fits the surrounding grammar and meaning.",
+          "qc_flags": []
+        },
+        {
+          "number": 22,
+          "base_word": "EVIDENT",
+          "answer": "EVIDENCE",
+          "answer_provenance": "source_provided",
+          "word_class": "noun",
+          "formation_path": "EVIDENT → EVIDENCE",
+          "explanation": "Needed word class: noun. EVIDENT → EVIDENCE. Key feature: noun formation. Check how the completed phrase fits the surrounding grammar and meaning.",
+          "qc_flags": []
+        },
+        {
+          "number": 23,
+          "base_word": "RESPONSIBLE",
+          "answer": "RESPONSIBILITY",
+          "answer_provenance": "source_provided",
+          "word_class": "noun",
+          "formation_path": "RESPONSIBLE → RESPONSIBILITY",
+          "explanation": "Needed word class: noun. RESPONSIBLE → RESPONSIBILITY. Key feature: noun formation. Check how the completed phrase fits the surrounding grammar and meaning.",
+          "qc_flags": []
+        },
+        {
+          "number": 24,
+          "base_word": "TRUE",
+          "answer": "TRULY",
+          "answer_provenance": "source_provided",
+          "word_class": "adverb",
+          "formation_path": "TRUE → TRULY",
+          "explanation": "Needed word class: adverb. TRUE → TRULY. Key feature: adverb formation. Check how the completed phrase fits the surrounding grammar and meaning.",
+          "qc_flags": []
+        }
+      ],
+      "qc_status": "approved_content"
+    },
+    {
+      "id": "tier1-practice02",
+      "tier": 1,
+      "practice": 2,
+      "title": "Blended Learning",
+      "master_topic": 1,
+      "topic": "Education",
+      "status": "qc_revised",
+      "instructions": "For questions 17–24, use the word given in capitals to form a word that fits the gap. There is an example (0). Write answers in CAPITAL LETTERS.",
+      "passage": "Blended (0) {{0}} combines classroom teaching with online activities.\n\nAt first, some students are uncertain about using an LMS, but it soon becomes (17) {{17}} that the system can make studying more convenient.\n\nThe (18) {{18}} of online learning platforms has increased rapidly in schools in recent years.\n\nSome revision applications are (19) {{19}} designed to present information again just before learners are likely to forget it.\n\nStudents can also choose from a wide (20) {{20}} of exercises, videos and digital materials.\n\nHowever, students who regularly ignore assignment deadlines are (21) {{21}} to benefit fully from the system.\n\nEven when studying online, it is important to work in quiet (22) {{22}} where there are few distractions.\n\nRegular online (23) {{23}} with teachers and classmates can also help learners feel less isolated.\n\nWhen digital tools are used well, the improvement in students' progress can be extremely (24) {{24}}.",
+      "example": {
+        "number": 0,
+        "base_word": "LEARN",
+        "answer": "LEARNING"
+      },
+      "items": [
+        {
+          "number": 17,
+          "base_word": "APPEAR",
+          "answer": "APPARENT",
+          "answer_provenance": "source_provided",
+          "word_class": "adjective",
+          "formation_path": "APPEAR → APPARENT",
+          "explanation": "Needed word class: adjective. APPEAR → APPARENT. Key feature: adjective / participle formation. Check how the completed phrase fits the surrounding grammar and meaning.",
+          "qc_flags": [],
+          "teacher_qc_note": "Retained per teacher-approved QC decision: APPEAR → APPARENT is valid."
+        },
+        {
+          "number": 18,
+          "base_word": "POPULAR",
+          "answer": "POPULARITY",
+          "answer_provenance": "source_provided",
+          "word_class": "noun",
+          "formation_path": "POPULAR → POPULARITY",
+          "explanation": "Needed word class: noun. POPULAR → POPULARITY. Key feature: noun formation. Check how the completed phrase fits the surrounding grammar and meaning.",
+          "qc_flags": []
+        },
+        {
+          "number": 19,
+          "base_word": "SCIENCE",
+          "answer": "SCIENTIFICALLY",
+          "answer_provenance": "source_provided",
+          "word_class": "adverb",
+          "formation_path": "SCIENCE → SCIENTIFICALLY",
+          "explanation": "Needed word class: adverb. SCIENCE → SCIENTIFICALLY. Key feature: adverb formation. Check how the completed phrase fits the surrounding grammar and meaning.",
+          "qc_flags": []
+        },
+        {
+          "number": 20,
+          "base_word": "VARY",
+          "answer": "VARIETY",
+          "answer_provenance": "source_provided",
+          "word_class": "noun",
+          "formation_path": "VARY → VARIETY",
+          "explanation": "Needed word class: noun. VARY → VARIETY. Key feature: noun formation. Check how the completed phrase fits the surrounding grammar and meaning.",
+          "qc_flags": []
+        },
+        {
+          "number": 21,
+          "base_word": "LIKE",
+          "answer": "UNLIKELY",
+          "answer_provenance": "source_provided",
+          "word_class": "adjective",
+          "formation_path": "LIKE → UNLIKELY",
+          "explanation": "Needed word class: adjective. LIKE → UNLIKELY. Key feature: negative prefix, adjective / participle formation. Check how the completed phrase fits the surrounding grammar and meaning.",
+          "qc_flags": []
+        },
+        {
+          "number": 22,
+          "base_word": "SURROUND",
+          "answer": "SURROUNDINGS",
+          "answer_provenance": "source_provided",
+          "word_class": "plural noun",
+          "formation_path": "SURROUND → SURROUNDINGS",
+          "explanation": "Needed word class: plural noun. SURROUND → SURROUNDINGS. Key feature: plural -s/-es, noun formation. Check how the completed phrase fits the surrounding grammar and meaning.",
+          "qc_flags": []
+        },
+        {
+          "number": 23,
+          "base_word": "ACT",
+          "answer": "INTERACTION",
+          "answer_provenance": "source_provided",
+          "word_class": "noun",
+          "formation_path": "ACT → INTERACTION",
+          "explanation": "Needed word class: noun. ACT → INTERACTION. Key feature: negative prefix, noun formation. Check how the completed phrase fits the surrounding grammar and meaning.",
+          "qc_flags": []
+        },
+        {
+          "number": 24,
+          "base_word": "IMPRESS",
+          "answer": "IMPRESSIVE",
+          "answer_provenance": "source_provided",
+          "word_class": "adjective",
+          "formation_path": "IMPRESS → IMPRESSIVE",
+          "explanation": "Needed word class: adjective. IMPRESS → IMPRESSIVE. Key feature: adjective / participle formation. Check how the completed phrase fits the surrounding grammar and meaning.",
+          "qc_flags": []
+        }
+      ],
+      "qc_status": "approved_content"
+    },
+    {
+      "id": "tier1-practice03",
+      "tier": 1,
+      "practice": 3,
+      "title": "Choosing a University Course",
+      "master_topic": 1,
+      "topic": "Education",
+      "status": "qc_revised",
+      "instructions": "For questions 17–24, use the word given in capitals to form a word that fits the gap. There is an example (0). Write answers in CAPITAL LETTERS.",
+      "passage": "Completing a university (0) {{0}} can require a great deal of planning.\n\nSome school-leavers are (17) {{17}} to decide which degree course would suit them best.\n\n(18) {{18}}, choosing a university simply because it has a famous name does not always lead to the right decision.\n\nAcademic advisers are usually very (19) {{19}} about entry requirements and course structures.\n\nIt is almost (20) {{20}} to judge an entire course from the university website alone, so prospective students should attend an open day if they can.\n\nThe cost of studying away from home also deserves (21) {{21}} attention.\n\nWhen students compare modules carefully, it often becomes (22) {{22}} that two courses with similar titles may actually be quite different.\n\nEntry to some degree programmes is extremely (23) {{23}} , particularly when there are far more applicants than available places.\n\nFor many students, visiting the university in person is therefore one of the most (24) {{24}} stages of making their final choice.",
+      "example": {
+        "number": 0,
+        "base_word": "APPLY",
+        "answer": "APPLICATION"
+      },
+      "items": [
+        {
+          "number": 17,
+          "base_word": "ABLE",
+          "answer": "UNABLE",
+          "answer_provenance": "source_provided",
+          "word_class": "adjective",
+          "formation_path": "ABLE → UNABLE",
+          "explanation": "Needed word class: adjective. ABLE → UNABLE. Key feature: negative prefix, adjective / participle formation. Check how the completed phrase fits the surrounding grammar and meaning.",
+          "qc_flags": []
+        },
+        {
+          "number": 18,
+          "base_word": "FORTUNE",
+          "answer": "UNFORTUNATELY",
+          "answer_provenance": "source_provided",
+          "word_class": "adverb",
+          "formation_path": "FORTUNE → UNFORTUNATELY",
+          "explanation": "Needed word class: adverb. FORTUNE → UNFORTUNATELY. Key feature: negative prefix, adverb formation. Check how the completed phrase fits the surrounding grammar and meaning.",
+          "qc_flags": []
+        },
+        {
+          "number": 19,
+          "base_word": "KNOW",
+          "answer": "KNOWLEDGEABLE",
+          "answer_provenance": "source_provided",
+          "word_class": "adjective",
+          "formation_path": "KNOW → KNOWLEDGEABLE",
+          "explanation": "Needed word class: adjective. KNOW → KNOWLEDGEABLE. Key feature: adjective / participle formation. Check how the completed phrase fits the surrounding grammar and meaning.",
+          "qc_flags": []
+        },
+        {
+          "number": 20,
+          "base_word": "POSSIBLE",
+          "answer": "IMPOSSIBLE",
+          "answer_provenance": "source_provided",
+          "word_class": "adjective",
+          "formation_path": "POSSIBLE → IMPOSSIBLE",
+          "explanation": "Needed word class: adjective. POSSIBLE → IMPOSSIBLE. Key feature: negative prefix, adjective / participle formation. Check how the completed phrase fits the surrounding grammar and meaning.",
+          "qc_flags": []
+        },
+        {
+          "number": 21,
+          "base_word": "CONSIDER",
+          "answer": "CONSIDERABLE",
+          "answer_provenance": "source_provided",
+          "word_class": "adjective",
+          "formation_path": "CONSIDER → CONSIDERABLE",
+          "explanation": "Needed word class: adjective. CONSIDER → CONSIDERABLE. Key feature: adjective / participle formation. Check how the completed phrase fits the surrounding grammar and meaning.",
+          "qc_flags": []
+        },
+        {
+          "number": 22,
+          "base_word": "EVIDENCE",
+          "answer": "EVIDENT",
+          "answer_provenance": "teacher_approved_correction",
+          "word_class": "adjective",
+          "formation_path": "EVIDENCE → EVIDENT",
+          "explanation": "After becomes, an adjective describes what is clear: it becomes EVIDENT that the courses differ. EVIDENCE is a noun; EVIDENT is the adjective. The base word must change.",
+          "qc_flags": [],
+          "teacher_qc_note": "Mandatory fix: change base EVIDENT to EVIDENCE (teacher approval required)."
+        },
+        {
+          "number": 23,
+          "base_word": "COMPETE",
+          "answer": "COMPETITIVE",
+          "answer_provenance": "source_provided",
+          "word_class": "adjective",
+          "formation_path": "COMPETE → COMPETITIVE",
+          "explanation": "Needed word class: adjective. COMPETE → COMPETITIVE. Key feature: adjective / participle formation. Check how the completed phrase fits the surrounding grammar and meaning.",
+          "qc_flags": []
+        },
+        {
+          "number": 24,
+          "base_word": "MEMORY",
+          "answer": "MEMORABLE",
+          "answer_provenance": "source_provided",
+          "word_class": "adjective",
+          "formation_path": "MEMORY → MEMORABLE",
+          "explanation": "Needed word class: adjective. MEMORY → MEMORABLE. Key feature: adjective / participle formation. Check how the completed phrase fits the surrounding grammar and meaning.",
+          "qc_flags": []
+        }
+      ],
+      "qc_status": "approved_content"
+    },
+    {
+      "id": "tier1-practice04",
+      "tier": 1,
+      "practice": 4,
+      "title": "The School Science Fair",
+      "master_topic": 1,
+      "topic": "Education",
+      "status": "qc_revised",
+      "instructions": "For questions 17–24, use the word given in capitals to form a word that fits the gap. There is an example (0). Write answers in CAPITAL LETTERS.",
+      "passage": "Every year our school holds an (0) {{0}} where students present their research projects.\n\nThe overall (17) {{17}} of each display is important, although judges are more interested in the quality of the research.\n\nSome topics which once seemed (18) {{18}}, such as recycling or renewable energy, now attract a large number of students.\n\nThe participants work like young (19) {{19}}, developing questions and testing their ideas.\n\nThey use (20) {{20}} methods to collect information, from surveys to practical experiments.\n\nTeachers carefully check each project to make sure that students are not working with (21) {{21}} substances or equipment.\n\nThe projects that make the strongest (22) {{22}} are usually those which explain a complicated idea clearly.\n\nMany students investigate processes in the (23) {{23}} world, including plant growth, weather and animal behaviour.\n\nThe fair teaches everyone one important (24) {{24}}: good research depends on honest reporting of results.",
+      "example": {
+        "number": 0,
+        "base_word": "EXHIBIT",
+        "answer": "EXHIBITION"
+      },
+      "items": [
+        {
+          "number": 17,
+          "base_word": "APPEAR",
+          "answer": "APPEARANCE",
+          "answer_provenance": "editorially_reviewed_inferred_from_context",
+          "word_class": "noun",
+          "formation_path": "APPEAR → APPEARANCE",
+          "explanation": "Needed word class: noun. APPEAR → APPEARANCE. Key feature: noun formation. Check how the completed phrase fits the surrounding grammar and meaning.",
+          "qc_flags": []
+        },
+        {
+          "number": 18,
+          "base_word": "POPULAR",
+          "answer": "UNPOPULAR",
+          "answer_provenance": "editorially_reviewed_inferred_from_context",
+          "word_class": "adjective",
+          "formation_path": "POPULAR → UNPOPULAR",
+          "explanation": "Needed word class: adjective. POPULAR → UNPOPULAR. Key feature: negative prefix, adjective / participle formation. Check how the completed phrase fits the surrounding grammar and meaning.",
+          "qc_flags": []
+        },
+        {
+          "number": 19,
+          "base_word": "SCIENCE",
+          "answer": "SCIENTISTS",
+          "answer_provenance": "editorially_reviewed_inferred_from_context",
+          "word_class": "plural noun",
+          "formation_path": "SCIENCE → SCIENTISTS",
+          "explanation": "Needed word class: plural noun. SCIENCE → SCIENTISTS. Key feature: plural -s/-es, noun formation. Check how the completed phrase fits the surrounding grammar and meaning.",
+          "qc_flags": []
+        },
+        {
+          "number": 20,
+          "base_word": "VARY",
+          "answer": "VARIOUS",
+          "answer_provenance": "editorially_reviewed_inferred_from_context",
+          "word_class": "adjective",
+          "formation_path": "VARY → VARIOUS",
+          "explanation": "Needed word class: adjective. VARY → VARIOUS. Key feature: adjective / participle formation. Check how the completed phrase fits the surrounding grammar and meaning.",
+          "qc_flags": []
+        },
+        {
+          "number": 21,
+          "base_word": "DANGER",
+          "answer": "DANGEROUS",
+          "answer_provenance": "editorially_reviewed_inferred_from_context",
+          "word_class": "adjective",
+          "formation_path": "DANGER → DANGEROUS",
+          "explanation": "Needed word class: adjective. DANGER → DANGEROUS. Key feature: adjective / participle formation. Check how the completed phrase fits the surrounding grammar and meaning.",
+          "qc_flags": []
+        },
+        {
+          "number": 22,
+          "base_word": "IMPRESS",
+          "answer": "IMPRESSION",
+          "answer_provenance": "editorially_reviewed_inferred_from_context",
+          "word_class": "noun",
+          "formation_path": "IMPRESS → IMPRESSION",
+          "explanation": "Needed word class: noun. IMPRESS → IMPRESSION. Key feature: noun formation. Check how the completed phrase fits the surrounding grammar and meaning.",
+          "qc_flags": []
+        },
+        {
+          "number": 23,
+          "base_word": "NATURE",
+          "answer": "NATURAL",
+          "answer_provenance": "editorially_reviewed_inferred_from_context",
+          "word_class": "adjective",
+          "formation_path": "NATURE → NATURAL",
+          "explanation": "Needed word class: adjective. NATURE → NATURAL. Key feature: adjective / participle formation. Check how the completed phrase fits the surrounding grammar and meaning.",
+          "qc_flags": []
+        },
+        {
+          "number": 24,
+          "base_word": "TRUE",
+          "answer": "TRUTH",
+          "answer_provenance": "editorially_reviewed_inferred_from_context",
+          "word_class": "noun",
+          "formation_path": "TRUE → TRUTH",
+          "explanation": "Needed word class: noun. TRUE → TRUTH. Key feature: noun formation. Check how the completed phrase fits the surrounding grammar and meaning.",
+          "qc_flags": []
+        }
+      ],
+      "qc_status": "approved_content"
+    },
+    {
+      "id": "tier1-practice05",
+      "tier": 1,
+      "practice": 5,
+      "title": "The After-school Study Club",
+      "master_topic": 1,
+      "topic": "Education",
+      "status": "qc_revised",
+      "instructions": "For questions 17–24, use the word given in capitals to form a word that fits the gap. There is an example (0). Write answers in CAPITAL LETTERS.",
+      "passage": "The school created a (0) {{0}} environment where students could revise together after lessons.\n\nTeachers uploaded shared notes and revision materials, (17) {{17}} students to review difficult topics at home.\n\nThe students were (18) {{18}} enough to have several teachers volunteering to answer questions twice a week.\n\nRegular practice helped students identify weaknesses which had previously been (19) {{19}} to them.\n\nChanging the way they revised opened up new (20) {{20}} for improving their results.\n\nAfter only a few weeks, the confidence of several weaker learners had increased (21) {{21}}.\n\nTheir test results provided clear (22) {{22}} that the extra practice was helping.\n\nStudents were also expected to use their study time (23) {{23}} rather than spend the session chatting with friends.\n\nBy the end of the term, the club's weekly (24) {{24}} had become an important part of many students' routines.",
+      "example": {
+        "number": 0,
+        "base_word": "SUPPORT",
+        "answer": "SUPPORTIVE"
+      },
+      "items": [
+        {
+          "number": 17,
+          "base_word": "ABLE",
+          "answer": "ENABLING",
+          "answer_provenance": "editorially_reviewed_inferred_from_context",
+          "word_class": "verb participle",
+          "formation_path": "ABLE → ENABLING",
+          "explanation": "Needed word class: verb participle. ABLE → ENABLING. Key feature: participle -ing. Check how the completed phrase fits the surrounding grammar and meaning.",
+          "qc_flags": []
+        },
+        {
+          "number": 18,
+          "base_word": "FORTUNE",
+          "answer": "FORTUNATE",
+          "answer_provenance": "editorially_reviewed_inferred_from_context",
+          "word_class": "adjective",
+          "formation_path": "FORTUNE → FORTUNATE",
+          "explanation": "Needed word class: adjective. FORTUNE → FORTUNATE. Key feature: adjective / participle formation. Check how the completed phrase fits the surrounding grammar and meaning.",
+          "qc_flags": []
+        },
+        {
+          "number": 19,
+          "base_word": "KNOW",
+          "answer": "UNKNOWN",
+          "answer_provenance": "editorially_reviewed_inferred_from_context",
+          "word_class": "adjective",
+          "formation_path": "KNOW → UNKNOWN",
+          "explanation": "Needed word class: adjective. KNOW → UNKNOWN. Key feature: negative prefix, adjective / participle formation. Check how the completed phrase fits the surrounding grammar and meaning.",
+          "qc_flags": []
+        },
+        {
+          "number": 20,
+          "base_word": "POSSIBLE",
+          "answer": "POSSIBILITIES",
+          "answer_provenance": "teacher_approved_correction",
+          "word_class": "plural noun",
+          "formation_path": "POSSIBLE → POSSIBILITY → POSSIBILITIES",
+          "explanation": "The adjective new modifies a plural noun after opened up: new POSSIBILITIES. The plural -ies is required, and the pattern is open up possibilities for doing something.",
+          "qc_flags": [],
+          "teacher_qc_note": "Avoid redundant could possibly improve; consider rewriting as “it was ______ to improve much faster...” (POSSIBLE → POSSIBLE invalid same form), or replace target word entirely."
+        },
+        {
+          "number": 21,
+          "base_word": "CONSIDER",
+          "answer": "CONSIDERABLY",
+          "answer_provenance": "editorially_reviewed_inferred_from_context",
+          "word_class": "adverb",
+          "formation_path": "CONSIDER → CONSIDERABLY",
+          "explanation": "Needed word class: adverb. CONSIDER → CONSIDERABLY. Key feature: adverb formation. Check how the completed phrase fits the surrounding grammar and meaning.",
+          "qc_flags": []
+        },
+        {
+          "number": 22,
+          "base_word": "EVIDENT",
+          "answer": "EVIDENCE",
+          "answer_provenance": "editorially_reviewed_inferred_from_context",
+          "word_class": "noun",
+          "formation_path": "EVIDENT → EVIDENCE",
+          "explanation": "Needed word class: noun. EVIDENT → EVIDENCE. Key feature: noun formation. Check how the completed phrase fits the surrounding grammar and meaning.",
+          "qc_flags": []
+        },
+        {
+          "number": 23,
+          "base_word": "RESPONSIBLE",
+          "answer": "RESPONSIBLY",
+          "answer_provenance": "editorially_reviewed_inferred_from_context",
+          "word_class": "adverb",
+          "formation_path": "RESPONSIBLE → RESPONSIBLY",
+          "explanation": "Needed word class: adverb. RESPONSIBLE → RESPONSIBLY. Key feature: adverb formation. Check how the completed phrase fits the surrounding grammar and meaning.",
+          "qc_flags": []
+        },
+        {
+          "number": 24,
+          "base_word": "ACT",
+          "answer": "ACTIVITY",
+          "answer_provenance": "editorially_reviewed_inferred_from_context",
+          "word_class": "noun",
+          "formation_path": "ACT → ACTIVITY",
+          "explanation": "Needed word class: noun. ACT → ACTIVITY. Key feature: noun formation. Check how the completed phrase fits the surrounding grammar and meaning.",
+          "qc_flags": []
+        }
+      ],
+      "qc_status": "approved_content"
+    },
+    {
+      "id": "tier1-practice06",
+      "tier": 1,
+      "practice": 6,
+      "title": "The Inter-school Sports Festival",
+      "master_topic": 2,
+      "topic": "Leisure & Hobbies",
+      "status": "qc_revised",
+      "instructions": "For questions 17–24, use the word given in capitals to form a word that fits the gap. There is an example (0). Write answers in CAPITAL LETTERS.",
+      "passage": "Careful (0) {{0}} was needed before hundreds of students could take part in the sports festival.\n\nAlthough there was plenty of friendly (17) {{17}}, the main aim was to encourage students to enjoy being active.\n\nTeachers inspected the equipment beforehand to make sure that nothing was (18) {{18}}.\n\nStudents could choose from several sports and were encouraged to remain physically (19) {{19}} throughout the day.\n\n(20) {{20}}, heavy rain began shortly before the athletics events were due to start.\n\nSome students had outstanding sporting (21) {{21}}, while others were trying an activity for the first time.\n\nEach team was given (22) {{22}} for looking after its own equipment and arriving at events on time.\n\nBecause qualified referees were present, serious accidents were extremely (23) {{23}}.\n\nBy the afternoon, teams from several (24) {{24}} schools had joined the final relay race.",
+      "example": {
+        "number": 0,
+        "base_word": "ORGANISE",
+        "answer": "ORGANISATION"
+      },
+      "items": [
+        {
+          "number": 17,
+          "base_word": "COMPETE",
+          "answer": "COMPETITION",
+          "answer_provenance": "editorially_reviewed_inferred_from_context",
+          "word_class": "noun",
+          "formation_path": "COMPETE → COMPETITION",
+          "explanation": "Needed word class: noun. COMPETE → COMPETITION. Key feature: noun formation. Check how the completed phrase fits the surrounding grammar and meaning.",
+          "qc_flags": []
+        },
+        {
+          "number": 18,
+          "base_word": "DANGER",
+          "answer": "DANGEROUS",
+          "answer_provenance": "editorially_reviewed_inferred_from_context",
+          "word_class": "adjective",
+          "formation_path": "DANGER → DANGEROUS",
+          "explanation": "Needed word class: adjective. DANGER → DANGEROUS. Key feature: adjective / participle formation. Check how the completed phrase fits the surrounding grammar and meaning.",
+          "qc_flags": []
+        },
+        {
+          "number": 19,
+          "base_word": "ACT",
+          "answer": "ACTIVE",
+          "answer_provenance": "editorially_reviewed_inferred_from_context",
+          "word_class": "adjective",
+          "formation_path": "ACT → ACTIVE",
+          "explanation": "Needed word class: adjective. ACT → ACTIVE. Key feature: adjective / participle formation. Check how the completed phrase fits the surrounding grammar and meaning.",
+          "qc_flags": []
+        },
+        {
+          "number": 20,
+          "base_word": "FORTUNE",
+          "answer": "UNFORTUNATELY",
+          "answer_provenance": "editorially_reviewed_inferred_from_context",
+          "word_class": "adverb",
+          "formation_path": "FORTUNE → UNFORTUNATELY",
+          "explanation": "Needed word class: adverb. FORTUNE → UNFORTUNATELY. Key feature: negative prefix, adverb formation. Check how the completed phrase fits the surrounding grammar and meaning.",
+          "qc_flags": []
+        },
+        {
+          "number": 21,
+          "base_word": "ABLE",
+          "answer": "ABILITIES",
+          "answer_provenance": "editorially_reviewed_inferred_from_context",
+          "word_class": "plural noun",
+          "formation_path": "ABLE → ABILITIES",
+          "explanation": "Needed word class: plural noun. ABLE → ABILITIES. Key feature: plural -s/-es, noun formation. Check how the completed phrase fits the surrounding grammar and meaning.",
+          "qc_flags": []
+        },
+        {
+          "number": 22,
+          "base_word": "RESPONSIBLE",
+          "answer": "RESPONSIBILITY",
+          "answer_provenance": "editorially_reviewed_inferred_from_context",
+          "word_class": "noun",
+          "formation_path": "RESPONSIBLE → RESPONSIBILITY",
+          "explanation": "Needed word class: noun. RESPONSIBLE → RESPONSIBILITY. Key feature: noun formation. Check how the completed phrase fits the surrounding grammar and meaning.",
+          "qc_flags": []
+        },
+        {
+          "number": 23,
+          "base_word": "LIKE",
+          "answer": "UNLIKELY",
+          "answer_provenance": "editorially_reviewed_inferred_from_context",
+          "word_class": "adjective",
+          "formation_path": "LIKE → UNLIKELY",
+          "explanation": "Needed word class: adjective. LIKE → UNLIKELY. Key feature: negative prefix, adjective / participle formation. Check how the completed phrase fits the surrounding grammar and meaning.",
+          "qc_flags": []
+        },
+        {
+          "number": 24,
+          "base_word": "SURROUND",
+          "answer": "SURROUNDING",
+          "answer_provenance": "editorially_reviewed_inferred_from_context",
+          "word_class": "adjective",
+          "formation_path": "SURROUND → SURROUNDING",
+          "explanation": "Needed word class: adjective. SURROUND → SURROUNDING. Key feature: adjective / participle formation. Check how the completed phrase fits the surrounding grammar and meaning.",
+          "qc_flags": []
+        }
+      ],
+      "qc_status": "approved_content"
+    },
+    {
+      "id": "tier1-practice07",
+      "tier": 1,
+      "practice": 7,
+      "title": "Our School Book Club",
+      "master_topic": 2,
+      "topic": "Leisure & Hobbies",
+      "status": "qc_revised",
+      "instructions": "For questions 17–24, use the word given in capitals to form a word that fits the gap. There is an example (0). Write answers in CAPITAL LETTERS.",
+      "passage": "The school's (0) {{0}} club meets once a week to discuss novels, biographies and other types of writing.\n\nDespite frequent predictions about the (17) {{17}} of printed books, most members still enjoy reading traditional paper copies.\n\nAt the same time, the (18) {{18}} of e-books and audiobooks has made it easier for students to access new titles.\n\nLast month, the club invited a previously (19) {{19}} local writer to talk about her first novel.\n\nMembers had read a (20) {{20}} selection of books beforehand, including a thriller, a biography and a science-fiction story.\n\nMany students were particularly (21) {{21}} by the author's explanation of how she developed her characters.\n\nHer description of childhood (22) {{22}} showed how real experiences can later become material for fiction.\n\nStudents also discussed a biography which gave a refreshingly (23) {{23}} account of the difficulties faced by a famous athlete.\n\nAttendance at the club increased (24) {{24}} after the school organised its first public book launch.",
+      "example": {
+        "number": 0,
+        "base_word": "LITERATURE",
+        "answer": "LITERARY"
+      },
+      "items": [
+        {
+          "number": 17,
+          "base_word": "APPEAR",
+          "answer": "DISAPPEARANCE",
+          "answer_provenance": "editorially_reviewed_inferred_from_context",
+          "word_class": "noun",
+          "formation_path": "APPEAR → DISAPPEARANCE",
+          "explanation": "Needed word class: noun. APPEAR → DISAPPEARANCE. Key feature: negative prefix, noun formation. Check how the completed phrase fits the surrounding grammar and meaning.",
+          "qc_flags": []
+        },
+        {
+          "number": 18,
+          "base_word": "POPULAR",
+          "answer": "POPULARITY",
+          "answer_provenance": "editorially_reviewed_inferred_from_context",
+          "word_class": "noun",
+          "formation_path": "POPULAR → POPULARITY",
+          "explanation": "Needed word class: noun. POPULAR → POPULARITY. Key feature: noun formation. Check how the completed phrase fits the surrounding grammar and meaning.",
+          "qc_flags": []
+        },
+        {
+          "number": 19,
+          "base_word": "KNOW",
+          "answer": "UNKNOWN",
+          "answer_provenance": "editorially_reviewed_inferred_from_context",
+          "word_class": "adjective",
+          "formation_path": "KNOW → UNKNOWN",
+          "explanation": "Needed word class: adjective. KNOW → UNKNOWN. Key feature: negative prefix, adjective / participle formation. Check how the completed phrase fits the surrounding grammar and meaning.",
+          "qc_flags": []
+        },
+        {
+          "number": 20,
+          "base_word": "VARY",
+          "answer": "VARIED",
+          "answer_provenance": "editorially_reviewed_inferred_from_context",
+          "word_class": "adjective",
+          "formation_path": "VARY → VARIED",
+          "explanation": "Needed word class: adjective. VARY → VARIED. Key feature: adjective / participle formation. Check how the completed phrase fits the surrounding grammar and meaning.",
+          "qc_flags": [],
+          "teacher_qc_note": "Retained per teacher-approved QC decision: a varied selection of books."
+        },
+        {
+          "number": 21,
+          "base_word": "IMPRESS",
+          "answer": "IMPRESSED",
+          "answer_provenance": "editorially_reviewed_inferred_from_context",
+          "word_class": "adjective",
+          "formation_path": "IMPRESS → IMPRESSED",
+          "explanation": "Needed word class: adjective. IMPRESS → IMPRESSED. Key feature: adjective / participle formation. Check how the completed phrase fits the surrounding grammar and meaning.",
+          "qc_flags": []
+        },
+        {
+          "number": 22,
+          "base_word": "MEMORY",
+          "answer": "MEMORIES",
+          "answer_provenance": "editorially_reviewed_inferred_from_context",
+          "word_class": "plural noun",
+          "formation_path": "MEMORY → MEMORIES",
+          "explanation": "Needed word class: plural noun. MEMORY → MEMORIES. Key feature: plural -s/-es, noun formation. Check how the completed phrase fits the surrounding grammar and meaning.",
+          "qc_flags": []
+        },
+        {
+          "number": 23,
+          "base_word": "TRUE",
+          "answer": "TRUTHFUL",
+          "answer_provenance": "teacher_approved_wording",
+          "word_class": "adjective",
+          "formation_path": "TRUE → TRUTHFUL",
+          "explanation": "The adverb refreshingly modifies the adjective TRUTHFUL, which describes an account that honestly reports the athlete’s experiences. TRUE → TRUTHFUL.",
+          "qc_flags": [],
+          "teacher_qc_note": "Clarify context for “surprisingly truthful account”; alternatively use “remarkably ______ account”."
+        },
+        {
+          "number": 24,
+          "base_word": "CONSIDER",
+          "answer": "CONSIDERABLY",
+          "answer_provenance": "editorially_reviewed_inferred_from_context",
+          "word_class": "adverb",
+          "formation_path": "CONSIDER → CONSIDERABLY",
+          "explanation": "Needed word class: adverb. CONSIDER → CONSIDERABLY. Key feature: adverb formation. Check how the completed phrase fits the surrounding grammar and meaning.",
+          "qc_flags": []
+        }
+      ],
+      "qc_status": "approved_content"
+    },
+    {
+      "id": "tier1-practice08",
+      "tier": 1,
+      "practice": 8,
+      "title": "Photography as a Hobby",
+      "master_topic": 2,
+      "topic": "Leisure & Hobbies",
+      "status": "qc_revised",
+      "instructions": "For questions 17–24, use the word given in capitals to form a word that fits the gap. There is an example (0). Write answers in CAPITAL LETTERS.",
+      "passage": "Developing (0) {{0}} is an important part of photography.\n\nBeginners often learn some of the (17) {{17}} principles behind light, colour and exposure.\n\nMany photographers prefer using (18) {{18}} light rather than flash whenever possible.\n\nThey also learn to look carefully at their (19) {{19}} and notice details that other people might ignore.\n\nWildlife photographers have an additional responsibility when photographing (20) {{20}} animals, as getting too close may disturb them.\n\nAn unusual viewpoint can make a strong (21) {{21}} on the viewer even when the subject itself is quite ordinary.\n\nPeople also use photography to preserve important (22) {{22}} of holidays, family occasions and special events.\n\nClub members are encouraged to participate (23) {{23}} in exhibitions rather than simply keep their photographs on their phones.\n\nA good photograph can even provide useful (24) {{24}} of changes in a place over time.",
+      "example": {
+        "number": 0,
+        "base_word": "CREATE",
+        "answer": "CREATIVITY"
+      },
+      "items": [
+        {
+          "number": 17,
+          "base_word": "SCIENCE",
+          "answer": "SCIENTIFIC",
+          "answer_provenance": "editorially_reviewed_inferred_from_context",
+          "word_class": "adjective",
+          "formation_path": "SCIENCE → SCIENTIFIC",
+          "explanation": "Needed word class: adjective. SCIENCE → SCIENTIFIC. Key feature: adjective / participle formation. Check how the completed phrase fits the surrounding grammar and meaning.",
+          "qc_flags": []
+        },
+        {
+          "number": 18,
+          "base_word": "NATURE",
+          "answer": "NATURAL",
+          "answer_provenance": "editorially_reviewed_inferred_from_context",
+          "word_class": "adjective",
+          "formation_path": "NATURE → NATURAL",
+          "explanation": "Needed word class: adjective. NATURE → NATURAL. Key feature: adjective / participle formation. Check how the completed phrase fits the surrounding grammar and meaning.",
+          "qc_flags": []
+        },
+        {
+          "number": 19,
+          "base_word": "SURROUND",
+          "answer": "SURROUNDINGS",
+          "answer_provenance": "editorially_reviewed_inferred_from_context",
+          "word_class": "plural noun",
+          "formation_path": "SURROUND → SURROUNDINGS",
+          "explanation": "Needed word class: plural noun. SURROUND → SURROUNDINGS. Key feature: plural -s/-es, noun formation. Check how the completed phrase fits the surrounding grammar and meaning.",
+          "qc_flags": []
+        },
+        {
+          "number": 20,
+          "base_word": "DANGER",
+          "answer": "ENDANGERED",
+          "answer_provenance": "editorially_reviewed_inferred_from_context",
+          "word_class": "adjective",
+          "formation_path": "DANGER → ENDANGERED",
+          "explanation": "Needed word class: adjective. DANGER → ENDANGERED. Key feature: adjective / participle formation. Check how the completed phrase fits the surrounding grammar and meaning.",
+          "qc_flags": []
+        },
+        {
+          "number": 21,
+          "base_word": "IMPRESS",
+          "answer": "IMPRESSION",
+          "answer_provenance": "editorially_reviewed_inferred_from_context",
+          "word_class": "noun",
+          "formation_path": "IMPRESS → IMPRESSION",
+          "explanation": "Needed word class: noun. IMPRESS → IMPRESSION. Key feature: noun formation. Check how the completed phrase fits the surrounding grammar and meaning.",
+          "qc_flags": []
+        },
+        {
+          "number": 22,
+          "base_word": "MEMORY",
+          "answer": "MEMORIES",
+          "answer_provenance": "editorially_reviewed_inferred_from_context",
+          "word_class": "plural noun",
+          "formation_path": "MEMORY → MEMORIES",
+          "explanation": "Needed word class: plural noun. MEMORY → MEMORIES. Key feature: plural -s/-es, noun formation. Check how the completed phrase fits the surrounding grammar and meaning.",
+          "qc_flags": []
+        },
+        {
+          "number": 23,
+          "base_word": "ACT",
+          "answer": "ACTIVELY",
+          "answer_provenance": "editorially_reviewed_inferred_from_context",
+          "word_class": "adverb",
+          "formation_path": "ACT → ACTIVELY",
+          "explanation": "Needed word class: adverb. ACT → ACTIVELY. Key feature: adverb formation. Check how the completed phrase fits the surrounding grammar and meaning.",
+          "qc_flags": []
+        },
+        {
+          "number": 24,
+          "base_word": "EVIDENT",
+          "answer": "EVIDENCE",
+          "answer_provenance": "editorially_reviewed_inferred_from_context",
+          "word_class": "noun",
+          "formation_path": "EVIDENT → EVIDENCE",
+          "explanation": "Needed word class: noun. EVIDENT → EVIDENCE. Key feature: noun formation. Check how the completed phrase fits the surrounding grammar and meaning.",
+          "qc_flags": []
+        }
+      ],
+      "qc_status": "approved_content"
+    },
+    {
+      "id": "tier1-practice09",
+      "tier": 1,
+      "practice": 9,
+      "title": "Why Board Games Are Back",
+      "master_topic": 2,
+      "topic": "Leisure & Hobbies",
+      "status": "qc_revised",
+      "instructions": "For questions 17–24, use the word given in capitals to form a word that fits the gap. There is an example (0). Write answers in CAPITAL LETTERS.",
+      "passage": "Playing games with friends can be highly (0) {{0}}, even when nobody takes winning too seriously.\n\nThe renewed (17) {{17}} of chess and traditional board games among teenagers has surprised some teachers.\n\nAt first, mastering the rules of a complicated strategy game may seem almost (18) {{18}}, but beginners usually improve quickly.\n\nMany games offer several (19) {{19}} of the basic rules, so players can choose a version that suits their level.\n\nExperience generally increases the (20) {{20}} of recognising a good move before an opponent does.\n\nStrong (21) {{21}} often study previous games carefully to understand where they made mistakes.\n\nFor most players, strategic thinking develops (22) {{22}} after many hours of practice.\n\nThe most successful games are those that remain (23) {{23}} challenging even after they have been played many times.\n\nTeachers have also noticed the surprising (24) {{24}} of traditional board-game clubs in schools where they had disappeared years ago.",
+      "example": {
+        "number": 0,
+        "base_word": "ENJOY",
+        "answer": "ENJOYABLE"
+      },
+      "items": [
+        {
+          "number": 17,
+          "base_word": "POPULAR",
+          "answer": "POPULARITY",
+          "answer_provenance": "editorially_reviewed_inferred_from_context",
+          "word_class": "noun",
+          "formation_path": "POPULAR → POPULARITY",
+          "explanation": "Needed word class: noun. POPULAR → POPULARITY. Key feature: noun formation. Check how the completed phrase fits the surrounding grammar and meaning.",
+          "qc_flags": []
+        },
+        {
+          "number": 18,
+          "base_word": "POSSIBLE",
+          "answer": "IMPOSSIBLE",
+          "answer_provenance": "teacher_approved_correction",
+          "word_class": "adjective",
+          "formation_path": "POSSIBLE → IMPOSSIBLE",
+          "explanation": "After seem almost we need an adjective. Context contrasts initial difficulty with improvement: IMPOSSIBLE is the negative adjective using im-.",
+          "qc_flags": [],
+          "teacher_qc_note": "Suggested alternative: “... may seem almost (18) ______ at first ...” POSSIBLE → IMPOSSIBLE. Changes grammatical pattern."
+        },
+        {
+          "number": 19,
+          "base_word": "VARY",
+          "answer": "VARIATIONS",
+          "answer_provenance": "editorially_reviewed_inferred_from_context",
+          "word_class": "plural noun",
+          "formation_path": "VARY → VARIATIONS",
+          "explanation": "Needed word class: plural noun. VARY → VARIATIONS. Key feature: plural -s/-es, noun formation. Check how the completed phrase fits the surrounding grammar and meaning.",
+          "qc_flags": []
+        },
+        {
+          "number": 20,
+          "base_word": "LIKE",
+          "answer": "LIKELIHOOD",
+          "answer_provenance": "editorially_reviewed_inferred_from_context",
+          "word_class": "noun",
+          "formation_path": "LIKE → LIKELIHOOD",
+          "explanation": "Needed word class: noun. LIKE → LIKELIHOOD. Key feature: noun formation. Check how the completed phrase fits the surrounding grammar and meaning.",
+          "qc_flags": [],
+          "teacher_qc_note": "Retained per teacher-approved QC decision: the likelihood of recognising a good move."
+        },
+        {
+          "number": 21,
+          "base_word": "COMPETE",
+          "answer": "COMPETITORS",
+          "answer_provenance": "editorially_reviewed_inferred_from_context",
+          "word_class": "plural noun",
+          "formation_path": "COMPETE → COMPETITORS",
+          "explanation": "Needed word class: plural noun. COMPETE → COMPETITORS. Key feature: plural -s/-es, noun formation. Check how the completed phrase fits the surrounding grammar and meaning.",
+          "qc_flags": []
+        },
+        {
+          "number": 22,
+          "base_word": "NATURE",
+          "answer": "NATURALLY",
+          "answer_provenance": "editorially_reviewed_inferred_from_context",
+          "word_class": "adverb",
+          "formation_path": "NATURE → NATURALLY",
+          "explanation": "Needed word class: adverb. NATURE → NATURALLY. Key feature: adverb formation. Check how the completed phrase fits the surrounding grammar and meaning.",
+          "qc_flags": []
+        },
+        {
+          "number": 23,
+          "base_word": "TRUE",
+          "answer": "TRULY",
+          "answer_provenance": "editorially_reviewed_inferred_from_context",
+          "word_class": "adverb",
+          "formation_path": "TRUE → TRULY",
+          "explanation": "Needed word class: adverb. TRUE → TRULY. Key feature: adverb formation. Check how the completed phrase fits the surrounding grammar and meaning.",
+          "qc_flags": []
+        },
+        {
+          "number": 24,
+          "base_word": "APPEAR",
+          "answer": "REAPPEARANCE",
+          "answer_provenance": "editorially_reviewed_inferred_from_context",
+          "word_class": "noun",
+          "formation_path": "APPEAR → REAPPEARANCE",
+          "explanation": "Needed word class: noun. APPEAR → REAPPEARANCE. Key feature: noun formation. Check how the completed phrase fits the surrounding grammar and meaning.",
+          "qc_flags": []
+        }
+      ],
+      "qc_status": "approved_content"
+    },
+    {
+      "id": "tier1-practice10",
+      "tier": 1,
+      "practice": 10,
+      "title": "A Weekend Outdoor Club",
+      "master_topic": 2,
+      "topic": "Leisure & Hobbies",
+      "status": "qc_revised",
+      "instructions": "For questions 17–24, use the word given in capitals to form a word that fits the gap. There is an example (0). Write answers in CAPITAL LETTERS.",
+      "passage": "The outdoor club planned an (0) {{0}} weekend involving hiking, camping and several team challenges.\n\nDuring the nature walk, several students worked like young (17) {{17}}, recording the plants and insects they found.\n\nEven students who normally had a strong (18) {{18}} of camping began to enjoy themselves.\n\nTheir campsite was completely (19) {{19}} by trees and was several kilometres from the nearest road.\n\nThe teachers included a few (20) {{20}} games, but reminded students that winning was not the main purpose of the trip.\n\nFor many participants, sleeping outdoors for the first time made the weekend especially (21) {{21}}.\n\nThe club also taught students how to respect the (22) {{22}} environment and avoid disturbing animals.\n\nAnyone behaving (23) {{23}}, for example by leaving rubbish behind, was expected to correct the problem immediately.\n\nStudents were reminded that careless behaviour could even (24) {{24}} local wildlife.",
+      "example": {
+        "number": 0,
+        "base_word": "ADVENTURE",
+        "answer": "ADVENTUROUS"
+      },
+      "items": [
+        {
+          "number": 17,
+          "base_word": "SCIENCE",
+          "answer": "SCIENTISTS",
+          "answer_provenance": "editorially_reviewed_inferred_from_context",
+          "word_class": "plural noun",
+          "formation_path": "SCIENCE → SCIENTISTS",
+          "explanation": "Needed word class: plural noun. SCIENCE → SCIENTISTS. Key feature: plural -s/-es, noun formation. Check how the completed phrase fits the surrounding grammar and meaning.",
+          "qc_flags": []
+        },
+        {
+          "number": 18,
+          "base_word": "LIKE",
+          "answer": "DISLIKE",
+          "answer_provenance": "editorially_reviewed_inferred_from_context",
+          "word_class": "noun",
+          "formation_path": "LIKE → DISLIKE",
+          "explanation": "Needed word class: noun. LIKE → DISLIKE. Key feature: negative prefix, noun formation. Check how the completed phrase fits the surrounding grammar and meaning.",
+          "qc_flags": []
+        },
+        {
+          "number": 19,
+          "base_word": "SURROUND",
+          "answer": "SURROUNDED",
+          "answer_provenance": "editorially_reviewed_inferred_from_context",
+          "word_class": "past participle",
+          "formation_path": "SURROUND → SURROUNDED",
+          "explanation": "Needed word class: past participle. SURROUND → SURROUNDED. Key feature: adjective / participle formation. Check how the completed phrase fits the surrounding grammar and meaning.",
+          "qc_flags": []
+        },
+        {
+          "number": 20,
+          "base_word": "COMPETE",
+          "answer": "COMPETITIVE",
+          "answer_provenance": "editorially_reviewed_inferred_from_context",
+          "word_class": "adjective",
+          "formation_path": "COMPETE → COMPETITIVE",
+          "explanation": "Needed word class: adjective. COMPETE → COMPETITIVE. Key feature: adjective / participle formation. Check how the completed phrase fits the surrounding grammar and meaning.",
+          "qc_flags": []
+        },
+        {
+          "number": 21,
+          "base_word": "MEMORY",
+          "answer": "MEMORABLE",
+          "answer_provenance": "editorially_reviewed_inferred_from_context",
+          "word_class": "adjective",
+          "formation_path": "MEMORY → MEMORABLE",
+          "explanation": "Needed word class: adjective. MEMORY → MEMORABLE. Key feature: adjective / participle formation. Check how the completed phrase fits the surrounding grammar and meaning.",
+          "qc_flags": []
+        },
+        {
+          "number": 22,
+          "base_word": "NATURE",
+          "answer": "NATURAL",
+          "answer_provenance": "editorially_reviewed_inferred_from_context",
+          "word_class": "adjective",
+          "formation_path": "NATURE → NATURAL",
+          "explanation": "Needed word class: adjective. NATURE → NATURAL. Key feature: adjective / participle formation. Check how the completed phrase fits the surrounding grammar and meaning.",
+          "qc_flags": []
+        },
+        {
+          "number": 23,
+          "base_word": "RESPONSIBLE",
+          "answer": "IRRESPONSIBLY",
+          "answer_provenance": "editorially_reviewed_inferred_from_context",
+          "word_class": "adverb",
+          "formation_path": "RESPONSIBLE → IRRESPONSIBLY",
+          "explanation": "Needed word class: adverb. RESPONSIBLE → IRRESPONSIBLY. Key feature: negative prefix, adverb formation. Check how the completed phrase fits the surrounding grammar and meaning.",
+          "qc_flags": []
+        },
+        {
+          "number": 24,
+          "base_word": "DANGER",
+          "answer": "ENDANGER",
+          "answer_provenance": "editorially_reviewed_inferred_from_context",
+          "word_class": "verb",
+          "formation_path": "DANGER → ENDANGER",
+          "explanation": "Needed word class: verb. DANGER → ENDANGER. Key feature: verb formation. Check how the completed phrase fits the surrounding grammar and meaning.",
+          "qc_flags": []
+        }
+      ],
+      "qc_status": "approved_content"
+    }
+  ],
+  "release": "tier1-qc-approved-v2",
+  "content_status": "qc_revised_teacher_approved_five_changes"
+}
