@@ -1,3 +1,4 @@
+
 {
   "schema_version": "1.0",
   "collections": [
@@ -6,6 +7,13 @@
       "tier": 1,
       "label": "Tier 1",
       "path": "tier-1.json",
+      "enabled": true
+    },
+    {
+      "id": "tier-2",
+      "tier": 2,
+      "label": "Tier 2",
+      "path": "tier-2.json",
       "enabled": true
     }
   ]
