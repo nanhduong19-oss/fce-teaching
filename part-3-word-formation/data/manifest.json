@@ -13,7 +13,7 @@
       "id": "tier-2",
       "tier": 2,
       "label": "Tier 2",
-      "path": "tier-2.json",
+      "path": "tier-2-fixed.json",
       "enabled": true
     }
   ]
