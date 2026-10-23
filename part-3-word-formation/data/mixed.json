@@ -1,0 +1,1068 @@
+{
+  "schema_version": "1.1",
+  "tier": "mixed",
+  "release": "mixed-review-10-practices-v1",
+  "content_status": "qc_revised_pending_teacher_signoff",
+  "practices": [
+    {
+      "id": "mixed-review-01",
+      "tier": "mixed",
+      "practice": 1,
+      "title": "A Community Arts Festival",
+      "topic": "Arts & Community",
+      "status": "qc_revised",
+      "instructions": "For questions 17–24, use the word given in capitals to form a word that fits each gap. There is an example (0). Write your answers in CAPITAL LETTERS.",
+      "passage": "Careful (0) {{0}} is essential when planning a successful festival.\n\nThe annual community arts festival has gained enormous (17) {{17}} over the past decade.\n\nVisitors especially enjoy the musical (18) {{18}} given by local teenagers.\n\nOne exhibition celebrates the (19) {{19}} of young people who turn recycled materials into works of art.\n\nThe organisers also record visitors’ (20) {{20}} about which activities are most enjoyable.\n\nAn (21) {{21}} collection of photographs shows how the town has changed.\n\nAlthough tickets are free, it would be (22) {{22}} to offer every visitor a place in the small pottery workshop.\n\nSome photographs are accompanied by short (23) {{23}} stories about the artists who took them.\n\n(24) {{24}}, heavy rain forced the outdoor concert to move into the school hall.",
+      "example": {
+        "number": 0,
+        "base_word": "ORGANISE",
+        "answer": "ORGANISATION"
+      },
+      "items": [
+        {
+          "number": 17,
+          "base_word": "POPULAR",
+          "answer": "POPULARITY",
+          "word_class": "noun",
+          "tier_source": 1,
+          "formation_path": "POPULAR → POPULARITY",
+          "qc_trap": "-ity",
+          "explanation": "POPULAR → POPULARITY. Target: noun. Formation focus: -ity. Check both meaning and grammatical fit in the sentence.",
+          "qc_flags": []
+        },
+        {
+          "number": 18,
+          "base_word": "PERFORM",
+          "answer": "PERFORMANCES",
+          "word_class": "noun",
+          "tier_source": 2,
+          "formation_path": "PERFORM → PERFORMANCES",
+          "qc_trap": "-ance; plural",
+          "explanation": "PERFORM → PERFORMANCES. Target: noun. Formation focus: -ance; plural. Check both meaning and grammatical fit in the sentence.",
+          "qc_flags": []
+        },
+        {
+          "number": 19,
+          "base_word": "CREATE",
+          "answer": "CREATIVITY",
+          "word_class": "noun",
+          "tier_source": 2,
+          "formation_path": "CREATE → CREATIVITY",
+          "qc_trap": "-ivity",
+          "explanation": "CREATE → CREATIVITY. Target: noun. Formation focus: -ivity. Check both meaning and grammatical fit in the sentence.",
+          "qc_flags": []
+        },
+        {
+          "number": 20,
+          "base_word": "OBSERVE",
+          "answer": "OBSERVATIONS",
+          "word_class": "noun",
+          "tier_source": 2,
+          "formation_path": "OBSERVE → OBSERVATIONS",
+          "qc_trap": "-ation; plural",
+          "explanation": "OBSERVE → OBSERVATIONS. Target: noun. Formation focus: -ation; plural. Check both meaning and grammatical fit in the sentence.",
+          "qc_flags": []
+        },
+        {
+          "number": 21,
+          "base_word": "IMPRESS",
+          "answer": "IMPRESSIVE",
+          "word_class": "adjective",
+          "tier_source": 1,
+          "formation_path": "IMPRESS → IMPRESSIVE",
+          "qc_trap": "-ive",
+          "explanation": "IMPRESS → IMPRESSIVE. Target: adjective. Formation focus: -ive. Check both meaning and grammatical fit in the sentence.",
+          "qc_flags": []
+        },
+        {
+          "number": 22,
+          "base_word": "POSSIBLE",
+          "answer": "IMPOSSIBLE",
+          "word_class": "adjective",
+          "tier_source": 1,
+          "formation_path": "POSSIBLE → IMPOSSIBLE",
+          "qc_trap": "im- negative",
+          "explanation": "POSSIBLE → IMPOSSIBLE. Target: adjective. Formation focus: im- negative. Check both meaning and grammatical fit in the sentence.",
+          "qc_flags": []
+        },
+        {
+          "number": 23,
+          "base_word": "PERSON",
+          "answer": "PERSONAL",
+          "word_class": "adjective",
+          "tier_source": 2,
+          "formation_path": "PERSON → PERSONAL",
+          "qc_trap": "-al",
+          "explanation": "PERSON → PERSONAL. Target: adjective. Formation focus: -al. Check both meaning and grammatical fit in the sentence.",
+          "qc_flags": []
+        },
+        {
+          "number": 24,
+          "base_word": "FORTUNE",
+          "answer": "UNFORTUNATELY",
+          "word_class": "adverb",
+          "tier_source": 1,
+          "formation_path": "FORTUNE → UNFORTUNATELY",
+          "qc_trap": "un- + -ly",
+          "explanation": "FORTUNE → UNFORTUNATELY. Target: adverb. Formation focus: un- + -ly. Check both meaning and grammatical fit in the sentence.",
+          "qc_flags": []
+        }
+      ],
+      "qc_status": "qc_revised_pending_teacher_signoff"
+    },
+    {
+      "id": "mixed-review-02",
+      "tier": "mixed",
+      "practice": 2,
+      "title": "The Value of Teamwork",
+      "topic": "Relationships & School",
+      "status": "qc_revised",
+      "instructions": "For questions 17–24, use the word given in capitals to form a word that fits each gap. There is an example (0). Write your answers in CAPITAL LETTERS.",
+      "passage": "Good (0) {{0}} is the foundation of successful group work.\n\nGroup projects teach students that everyone has a share of the (17) {{17}} for completing the work.\n\nBefore choosing a leader, the group should give careful (18) {{18}} to each person’s strengths.\n\nTeachers also pay attention to students’ (19) {{19}} during difficult discussions.\n\nImportant (20) {{20}} should be recorded so that nobody forgets what the group has agreed.\n\nA student who feels (21) {{21}} to contribute may need encouragement rather than criticism.\n\nAlthough some teams are extremely (22) {{22}}, cooperation should remain more important than winning.\n\nA good team leader is (23) {{23}} to criticism and willing to change a plan when necessary.\n\nTeachers are (24) {{24}} pleased when quiet students begin to share their ideas.",
+      "example": {
+        "number": 0,
+        "base_word": "COOPERATE",
+        "answer": "COOPERATION"
+      },
+      "items": [
+        {
+          "number": 17,
+          "base_word": "RESPONSIBLE",
+          "answer": "RESPONSIBILITY",
+          "word_class": "noun",
+          "tier_source": 1,
+          "formation_path": "RESPONSIBLE → RESPONSIBILITY",
+          "qc_trap": "-ibility",
+          "explanation": "RESPONSIBLE → RESPONSIBILITY. Target: noun. Formation focus: -ibility. Check both meaning and grammatical fit in the sentence.",
+          "qc_flags": []
+        },
+        {
+          "number": 18,
+          "base_word": "CONSIDER",
+          "answer": "CONSIDERATION",
+          "word_class": "noun",
+          "tier_source": 1,
+          "formation_path": "CONSIDER → CONSIDERATION",
+          "qc_trap": "-ation",
+          "explanation": "CONSIDER → CONSIDERATION. Target: noun. Formation focus: -ation. Check both meaning and grammatical fit in the sentence.",
+          "qc_flags": []
+        },
+        {
+          "number": 19,
+          "base_word": "BEHAVE",
+          "answer": "BEHAVIOUR",
+          "word_class": "noun",
+          "tier_source": 2,
+          "formation_path": "BEHAVE → BEHAVIOUR",
+          "qc_trap": "-iour UK",
+          "explanation": "BEHAVE → BEHAVIOUR. Target: noun. Formation focus: -iour UK. Check both meaning and grammatical fit in the sentence.",
+          "qc_flags": []
+        },
+        {
+          "number": 20,
+          "base_word": "DECIDE",
+          "answer": "DECISIONS",
+          "word_class": "noun",
+          "tier_source": 2,
+          "formation_path": "DECIDE → DECISIONS",
+          "qc_trap": "-sion; plural",
+          "explanation": "DECIDE → DECISIONS. Target: noun. Formation focus: -sion; plural. Check both meaning and grammatical fit in the sentence.",
+          "qc_flags": []
+        },
+        {
+          "number": 21,
+          "base_word": "ABLE",
+          "answer": "UNABLE",
+          "word_class": "adjective",
+          "tier_source": 1,
+          "formation_path": "ABLE → UNABLE",
+          "qc_trap": "un- negative",
+          "explanation": "ABLE → UNABLE. Target: adjective. Formation focus: un- negative. Check both meaning and grammatical fit in the sentence.",
+          "qc_flags": []
+        },
+        {
+          "number": 22,
+          "base_word": "COMPETE",
+          "answer": "COMPETITIVE",
+          "word_class": "adjective",
+          "tier_source": 1,
+          "formation_path": "COMPETE → COMPETITIVE",
+          "qc_trap": "-itive",
+          "explanation": "COMPETE → COMPETITIVE. Target: adjective. Formation focus: -itive. Check both meaning and grammatical fit in the sentence.",
+          "qc_flags": []
+        },
+        {
+          "number": 23,
+          "base_word": "RESPOND",
+          "answer": "RESPONSIVE",
+          "word_class": "adjective",
+          "tier_source": 2,
+          "formation_path": "RESPOND → RESPONSIVE",
+          "qc_trap": "-sive",
+          "explanation": "RESPOND → RESPONSIVE. Target: adjective. Formation focus: -sive. Check both meaning and grammatical fit in the sentence.",
+          "qc_flags": []
+        },
+        {
+          "number": 24,
+          "base_word": "SPECIAL",
+          "answer": "ESPECIALLY",
+          "word_class": "adverb",
+          "tier_source": 2,
+          "formation_path": "SPECIAL → ESPECIALLY",
+          "qc_trap": "special → especially spelling",
+          "explanation": "SPECIAL → ESPECIALLY. Target: adverb. Formation focus: special → especially spelling. Check both meaning and grammatical fit in the sentence.",
+          "qc_flags": []
+        }
+      ],
+      "qc_status": "qc_revised_pending_teacher_signoff"
+    },
+    {
+      "id": "mixed-review-03",
+      "tier": "mixed",
+      "practice": 3,
+      "title": "A Science Centre for Everyone",
+      "topic": "Science & Technology",
+      "status": "qc_revised",
+      "instructions": "For questions 17–24, use the word given in capitals to form a word that fits each gap. There is an example (0). Write your answers in CAPITAL LETTERS.",
+      "passage": "Science (0) {{0}} is important for people of all ages.\n\nThe new science centre will present (17) {{17}} gathered during research into climate change.\n\nVisitors can improve their (18) {{18}} of the natural world through hands-on activities.\n\nThe (19) {{19}} of the building took eighteen months to complete.\n\nOne room explains the (20) {{20}} of renewable energy technology over the last century.\n\nChildren must never touch (21) {{21}} equipment without a member of staff present.\n\nThe centre also explains how (22) {{22}} technology can be improved rather than replaced.\n\nTo their surprise, researchers discovered several (23) {{23}} effects of rising sea temperatures on marine life.\n\nEach claim in the exhibition has been (24) {{24}} checked by a team of researchers.",
+      "example": {
+        "number": 0,
+        "base_word": "EDUCATE",
+        "answer": "EDUCATION"
+      },
+      "items": [
+        {
+          "number": 17,
+          "base_word": "EVIDENT",
+          "answer": "EVIDENCE",
+          "word_class": "noun",
+          "tier_source": 1,
+          "formation_path": "EVIDENT → EVIDENCE",
+          "qc_trap": "evident → evidence spelling",
+          "explanation": "EVIDENT → EVIDENCE. Target: noun. Formation focus: evident → evidence spelling. Check both meaning and grammatical fit in the sentence.",
+          "qc_flags": []
+        },
+        {
+          "number": 18,
+          "base_word": "KNOW",
+          "answer": "KNOWLEDGE",
+          "word_class": "noun",
+          "tier_source": 1,
+          "formation_path": "KNOW → KNOWLEDGE",
+          "qc_trap": "irregular spelling",
+          "explanation": "KNOW → KNOWLEDGE. Target: noun. Formation focus: irregular spelling. Check both meaning and grammatical fit in the sentence.",
+          "qc_flags": []
+        },
+        {
+          "number": 19,
+          "base_word": "CONSTRUCT",
+          "answer": "CONSTRUCTION",
+          "word_class": "noun",
+          "tier_source": 2,
+          "formation_path": "CONSTRUCT → CONSTRUCTION",
+          "qc_trap": "-tion",
+          "explanation": "CONSTRUCT → CONSTRUCTION. Target: noun. Formation focus: -tion. Check both meaning and grammatical fit in the sentence.",
+          "qc_flags": []
+        },
+        {
+          "number": 20,
+          "base_word": "DEVELOP",
+          "answer": "DEVELOPMENT",
+          "word_class": "noun",
+          "tier_source": 2,
+          "formation_path": "DEVELOP → DEVELOPMENT",
+          "qc_trap": "-ment",
+          "explanation": "DEVELOP → DEVELOPMENT. Target: noun. Formation focus: -ment. Check both meaning and grammatical fit in the sentence.",
+          "qc_flags": []
+        },
+        {
+          "number": 21,
+          "base_word": "DANGER",
+          "answer": "DANGEROUS",
+          "word_class": "adjective",
+          "tier_source": 1,
+          "formation_path": "DANGER → DANGEROUS",
+          "qc_trap": "-ous",
+          "explanation": "DANGER → DANGEROUS. Target: adjective. Formation focus: -ous. Check both meaning and grammatical fit in the sentence.",
+          "qc_flags": []
+        },
+        {
+          "number": 22,
+          "base_word": "EXIST",
+          "answer": "EXISTING",
+          "word_class": "adjective",
+          "tier_source": 2,
+          "formation_path": "EXIST → EXISTING",
+          "qc_trap": "-ing",
+          "explanation": "EXIST → EXISTING. Target: adjective. Formation focus: -ing. Check both meaning and grammatical fit in the sentence.",
+          "qc_flags": []
+        },
+        {
+          "number": 23,
+          "base_word": "EXPECT",
+          "answer": "UNEXPECTED",
+          "word_class": "adjective",
+          "tier_source": 2,
+          "formation_path": "EXPECT → UNEXPECTED",
+          "qc_trap": "un- negative; -ed",
+          "explanation": "EXPECT → UNEXPECTED. Target: adjective. Formation focus: un- negative; -ed. Check both meaning and grammatical fit in the sentence.",
+          "qc_flags": []
+        },
+        {
+          "number": 24,
+          "base_word": "SCIENCE",
+          "answer": "SCIENTIFICALLY",
+          "word_class": "adverb",
+          "tier_source": 1,
+          "formation_path": "SCIENCE → SCIENTIFICALLY",
+          "qc_trap": "science → scientific → scientifically",
+          "explanation": "SCIENCE → SCIENTIFICALLY. Target: adverb. Formation focus: science → scientific → scientifically. Check both meaning and grammatical fit in the sentence.",
+          "qc_flags": []
+        }
+      ],
+      "qc_status": "qc_revised_pending_teacher_signoff"
+    },
+    {
+      "id": "mixed-review-04",
+      "tier": "mixed",
+      "practice": 4,
+      "title": "The First Week at a New School",
+      "topic": "School & Emotions",
+      "status": "qc_revised",
+      "instructions": "For questions 17–24, use the word given in capitals to form a word that fits each gap. There is an example (0). Write your answers in CAPITAL LETTERS.",
+      "passage": "A (0) {{0}} atmosphere can make a new school feel less intimidating.\n\nAt the beginning of the year, students sometimes worry about their (17) {{17}} and the impression they will make.\n\nHowever, most soon begin making happy (18) {{18}} with their new classmates.\n\nJoining a club can create a feeling of (19) {{19}} about the months ahead.\n\nStudents are offered several (20) {{20}} of lunchtime activities, from music to sports.\n\nEven confident teenagers are sometimes (21) {{21}} to feel completely comfortable on their first day.\n\nNew students may also feel (22) {{22}} about whom to ask for help.\n\nA (23) {{23}} number of students say that their first week was much better than they had imagined.\n\nFor many, the kindness of their classmates is what (24) {{24}} makes the biggest difference.",
+      "example": {
+        "number": 0,
+        "base_word": "WELCOME",
+        "answer": "WELCOMING"
+      },
+      "items": [
+        {
+          "number": 17,
+          "base_word": "APPEAR",
+          "answer": "APPEARANCE",
+          "word_class": "noun",
+          "tier_source": 1,
+          "formation_path": "APPEAR → APPEARANCE",
+          "qc_trap": "-ance",
+          "explanation": "APPEAR → APPEARANCE. Target: noun. Formation focus: -ance. Check both meaning and grammatical fit in the sentence.",
+          "qc_flags": []
+        },
+        {
+          "number": 18,
+          "base_word": "MEMORY",
+          "answer": "MEMORIES",
+          "word_class": "noun",
+          "tier_source": 1,
+          "formation_path": "MEMORY → MEMORIES",
+          "qc_trap": "y → ies",
+          "explanation": "MEMORY → MEMORIES. Target: noun. Formation focus: y → ies. Check both meaning and grammatical fit in the sentence.",
+          "qc_flags": []
+        },
+        {
+          "number": 19,
+          "base_word": "EXCITE",
+          "answer": "EXCITEMENT",
+          "word_class": "noun",
+          "tier_source": 2,
+          "formation_path": "EXCITE → EXCITEMENT",
+          "qc_trap": "-ment",
+          "explanation": "EXCITE → EXCITEMENT. Target: noun. Formation focus: -ment. Check both meaning and grammatical fit in the sentence.",
+          "qc_flags": []
+        },
+        {
+          "number": 20,
+          "base_word": "CHOOSE",
+          "answer": "CHOICES",
+          "word_class": "noun",
+          "tier_source": 2,
+          "formation_path": "CHOOSE → CHOICES",
+          "qc_trap": "irregular choice; plural",
+          "explanation": "CHOOSE → CHOICES. Target: noun. Formation focus: irregular choice; plural. Check both meaning and grammatical fit in the sentence.",
+          "qc_flags": []
+        },
+        {
+          "number": 21,
+          "base_word": "LIKE",
+          "answer": "UNLIKELY",
+          "word_class": "adjective",
+          "tier_source": 1,
+          "formation_path": "LIKE → UNLIKELY",
+          "qc_trap": "un- negative; -ly adjective",
+          "explanation": "LIKE → UNLIKELY. Target: adjective. Formation focus: un- negative; -ly adjective. Check both meaning and grammatical fit in the sentence.",
+          "qc_flags": []
+        },
+        {
+          "number": 22,
+          "base_word": "SURE",
+          "answer": "UNSURE",
+          "word_class": "adjective",
+          "tier_source": 2,
+          "formation_path": "SURE → UNSURE",
+          "qc_trap": "un- negative",
+          "explanation": "SURE → UNSURE. Target: adjective. Formation focus: un- negative. Check both meaning and grammatical fit in the sentence.",
+          "qc_flags": []
+        },
+        {
+          "number": 23,
+          "base_word": "SURPRISE",
+          "answer": "SURPRISING",
+          "word_class": "adjective",
+          "tier_source": 2,
+          "formation_path": "SURPRISE → SURPRISING",
+          "qc_trap": "-ing vs -ed",
+          "explanation": "SURPRISE → SURPRISING. Target: adjective. Formation focus: -ing vs -ed. Check both meaning and grammatical fit in the sentence.",
+          "qc_flags": []
+        },
+        {
+          "number": 24,
+          "base_word": "TRUE",
+          "answer": "TRULY",
+          "word_class": "adverb",
+          "tier_source": 1,
+          "formation_path": "TRUE → TRULY",
+          "qc_trap": "true → truly spelling",
+          "explanation": "TRUE → TRULY. Target: adverb. Formation focus: true → truly spelling. Check both meaning and grammatical fit in the sentence.",
+          "qc_flags": []
+        }
+      ],
+      "qc_status": "qc_revised_pending_teacher_signoff"
+    },
+    {
+      "id": "mixed-review-05",
+      "tier": "mixed",
+      "practice": 5,
+      "title": "A Student Volunteering Project",
+      "topic": "Volunteering & Society",
+      "status": "qc_revised",
+      "instructions": "For questions 17–24, use the word given in capitals to form a word that fits each gap. There is an example (0). Write your answers in CAPITAL LETTERS.",
+      "passage": "Local (0) {{0}} were invited to help with the project.\n\nOur class found a suitable (17) {{17}} for a new community garden behind the library.\n\nThe project gave teenagers a real chance to consider the (18) {{18}} of improving neglected public spaces.\n\nAfter the first harvest, the organisers measured the (19) {{19}} of vegetables from each plot.\n\nLocal residents noticed improvements to the (20) {{20}} almost immediately.\n\nWorking with soil and plants taught students about the (21) {{21}} environment.\n\nAn (22) {{22}} consequence of inviting younger children was the need for additional volunteers.\n\nOne particularly (23) {{23}} student noticed that several plants needed more shade.\n\n(24) {{24}}, nearby businesses donated enough tools for everyone to take part.",
+      "example": {
+        "number": 0,
+        "base_word": "VOLUNTEER",
+        "answer": "VOLUNTEERS"
+      },
+      "items": [
+        {
+          "number": 17,
+          "base_word": "LOCATE",
+          "answer": "LOCATION",
+          "word_class": "noun",
+          "tier_source": 2,
+          "formation_path": "LOCATE → LOCATION",
+          "qc_trap": "-ation",
+          "explanation": "LOCATE → LOCATION. Target: noun. Formation focus: -ation. Check both meaning and grammatical fit in the sentence.",
+          "qc_flags": []
+        },
+        {
+          "number": 18,
+          "base_word": "POSSIBLE",
+          "answer": "POSSIBILITY",
+          "word_class": "noun",
+          "tier_source": 1,
+          "formation_path": "POSSIBLE → POSSIBILITY",
+          "qc_trap": "-ility",
+          "explanation": "POSSIBLE → POSSIBILITY. Target: noun. Formation focus: -ility. Check both meaning and grammatical fit in the sentence.",
+          "qc_flags": []
+        },
+        {
+          "number": 19,
+          "base_word": "PRODUCE",
+          "answer": "PRODUCTION",
+          "word_class": "noun",
+          "tier_source": 2,
+          "formation_path": "PRODUCE → PRODUCTION",
+          "qc_trap": "-ction",
+          "explanation": "PRODUCE → PRODUCTION. Target: noun. Formation focus: -ction. Check both meaning and grammatical fit in the sentence.",
+          "qc_flags": []
+        },
+        {
+          "number": 20,
+          "base_word": "SURROUND",
+          "answer": "SURROUNDINGS",
+          "word_class": "noun",
+          "tier_source": 1,
+          "formation_path": "SURROUND → SURROUNDINGS",
+          "qc_trap": "-ings plural",
+          "explanation": "SURROUND → SURROUNDINGS. Target: noun. Formation focus: -ings plural. Check both meaning and grammatical fit in the sentence.",
+          "qc_flags": []
+        },
+        {
+          "number": 21,
+          "base_word": "NATURE",
+          "answer": "NATURAL",
+          "word_class": "adjective",
+          "tier_source": 1,
+          "formation_path": "NATURE → NATURAL",
+          "qc_trap": "-al",
+          "explanation": "NATURE → NATURAL. Target: adjective. Formation focus: -al. Check both meaning and grammatical fit in the sentence.",
+          "qc_flags": []
+        },
+        {
+          "number": 22,
+          "base_word": "INTEND",
+          "answer": "UNINTENTIONAL",
+          "word_class": "adjective",
+          "tier_source": 2,
+          "formation_path": "INTEND → UNINTENTIONAL",
+          "qc_trap": "un- + -ional",
+          "explanation": "INTEND → UNINTENTIONAL. Target: adjective. Formation focus: un- + -ional. Check both meaning and grammatical fit in the sentence.",
+          "qc_flags": []
+        },
+        {
+          "number": 23,
+          "base_word": "OBSERVE",
+          "answer": "OBSERVANT",
+          "word_class": "adjective",
+          "tier_source": 2,
+          "formation_path": "OBSERVE → OBSERVANT",
+          "qc_trap": "-ant",
+          "explanation": "OBSERVE → OBSERVANT. Target: adjective. Formation focus: -ant. Check both meaning and grammatical fit in the sentence.",
+          "qc_flags": []
+        },
+        {
+          "number": 24,
+          "base_word": "FORTUNE",
+          "answer": "FORTUNATELY",
+          "word_class": "adverb",
+          "tier_source": 1,
+          "formation_path": "FORTUNE → FORTUNATELY",
+          "qc_trap": "-ately",
+          "explanation": "FORTUNE → FORTUNATELY. Target: adverb. Formation focus: -ately. Check both meaning and grammatical fit in the sentence.",
+          "qc_flags": []
+        }
+      ],
+      "qc_status": "qc_revised_pending_teacher_signoff"
+    },
+    {
+      "id": "mixed-review-06",
+      "tier": "mixed",
+      "practice": 6,
+      "title": "The School Sports Festival",
+      "topic": "Sports & Leisure",
+      "status": "qc_revised",
+      "instructions": "For questions 17–24, use the word given in capitals to form a word that fits each gap. There is an example (0). Write your answers in CAPITAL LETTERS.",
+      "passage": "The school held a (0) {{0}} event for students of all ages.\n\nAfter school, the sports club offers a wide range of (17) {{17}} for different age groups.\n\nThe (18) {{18}} of sports on offer means that almost everyone can find something enjoyable.\n\nDuring the athletics event, officials measured the (19) {{19}} of each high jump.\n\nThey also checked the (20) {{20}} of the running track before the first race.\n\nSome students are highly (21) {{21}} and want to win every event.\n\nHowever, the most (22) {{22}} moments often come when beginners overcome their nerves.\n\nThe younger pupils found the final relay race especially (23) {{23}}.\n\nThe festival was (24) {{24}} praised by parents and teachers.",
+      "example": {
+        "number": 0,
+        "base_word": "SPORT",
+        "answer": "SPORTING"
+      },
+      "items": [
+        {
+          "number": 17,
+          "base_word": "ACT",
+          "answer": "ACTIVITIES",
+          "word_class": "noun",
+          "tier_source": 1,
+          "formation_path": "ACT → ACTIVITIES",
+          "qc_trap": "-ity; plural",
+          "explanation": "ACT → ACTIVITIES. Target: noun. Formation focus: -ity; plural. Check both meaning and grammatical fit in the sentence.",
+          "qc_flags": []
+        },
+        {
+          "number": 18,
+          "base_word": "VARY",
+          "answer": "VARIETY",
+          "word_class": "noun",
+          "tier_source": 1,
+          "formation_path": "VARY → VARIETY",
+          "qc_trap": "y → i spelling",
+          "explanation": "VARY → VARIETY. Target: noun. Formation focus: y → i spelling. Check both meaning and grammatical fit in the sentence.",
+          "qc_flags": []
+        },
+        {
+          "number": 19,
+          "base_word": "HIGH",
+          "answer": "HEIGHT",
+          "word_class": "noun",
+          "tier_source": 2,
+          "formation_path": "HIGH → HEIGHT",
+          "qc_trap": "irregular",
+          "explanation": "HIGH → HEIGHT. Target: noun. Formation focus: irregular. Check both meaning and grammatical fit in the sentence.",
+          "qc_flags": []
+        },
+        {
+          "number": 20,
+          "base_word": "LONG",
+          "answer": "LENGTH",
+          "word_class": "noun",
+          "tier_source": 2,
+          "formation_path": "LONG → LENGTH",
+          "qc_trap": "irregular",
+          "explanation": "LONG → LENGTH. Target: noun. Formation focus: irregular. Check both meaning and grammatical fit in the sentence.",
+          "qc_flags": []
+        },
+        {
+          "number": 21,
+          "base_word": "COMPETE",
+          "answer": "COMPETITIVE",
+          "word_class": "adjective",
+          "tier_source": 1,
+          "formation_path": "COMPETE → COMPETITIVE",
+          "qc_trap": "-itive",
+          "explanation": "COMPETE → COMPETITIVE. Target: adjective. Formation focus: -itive. Check both meaning and grammatical fit in the sentence.",
+          "qc_flags": []
+        },
+        {
+          "number": 22,
+          "base_word": "IMPRESS",
+          "answer": "IMPRESSIVE",
+          "word_class": "adjective",
+          "tier_source": 1,
+          "formation_path": "IMPRESS → IMPRESSIVE",
+          "qc_trap": "-ive",
+          "explanation": "IMPRESS → IMPRESSIVE. Target: adjective. Formation focus: -ive. Check both meaning and grammatical fit in the sentence.",
+          "qc_flags": []
+        },
+        {
+          "number": 23,
+          "base_word": "EXCITE",
+          "answer": "EXCITING",
+          "word_class": "adjective",
+          "tier_source": 2,
+          "formation_path": "EXCITE → EXCITING",
+          "qc_trap": "-ing",
+          "explanation": "EXCITE → EXCITING. Target: adjective. Formation focus: -ing. Check both meaning and grammatical fit in the sentence.",
+          "qc_flags": []
+        },
+        {
+          "number": 24,
+          "base_word": "WIDE",
+          "answer": "WIDELY",
+          "word_class": "adverb",
+          "tier_source": 2,
+          "formation_path": "WIDE → WIDELY",
+          "qc_trap": "-ly",
+          "explanation": "WIDE → WIDELY. Target: adverb. Formation focus: -ly. Check both meaning and grammatical fit in the sentence.",
+          "qc_flags": []
+        }
+      ],
+      "qc_status": "qc_revised_pending_teacher_signoff"
+    },
+    {
+      "id": "mixed-review-07",
+      "tier": "mixed",
+      "practice": 7,
+      "title": "Exploring Family History",
+      "topic": "Family & Relationships",
+      "status": "qc_revised",
+      "instructions": "For questions 17–24, use the word given in capitals to form a word that fits each gap. There is an example (0). Write your answers in CAPITAL LETTERS.",
+      "passage": "Many (0) {{0}} enjoy finding out more about their history.\n\nInterviews with grandparents often bring back childhood (17) {{17}} that younger relatives have never heard about.\n\nOld photographs can provide useful (18) {{18}} about where a family once lived.\n\nFamilies sometimes discuss the difficult (19) {{19}} their relatives had to make when they moved abroad.\n\nAt the end of the project, students write short (20) {{20}} about what their research has taught them.\n\nIt would be (21) {{21}} to publish private details about a relative without asking permission.\n\nFamily photographs are also full of (22) {{22}} details, such as clothes people wore or games they played.\n\nPeople from different generations may remember the same event (23) {{23}}.\n\nUsing online records can (24) {{24}} students to discover relatives they never knew existed.",
+      "example": {
+        "number": 0,
+        "base_word": "FAMILY",
+        "answer": "FAMILIES"
+      },
+      "items": [
+        {
+          "number": 17,
+          "base_word": "MEMORY",
+          "answer": "MEMORIES",
+          "word_class": "noun",
+          "tier_source": 1,
+          "formation_path": "MEMORY → MEMORIES",
+          "qc_trap": "y → ies",
+          "explanation": "MEMORY → MEMORIES. Target: noun. Formation focus: y → ies. Check both meaning and grammatical fit in the sentence.",
+          "qc_flags": []
+        },
+        {
+          "number": 18,
+          "base_word": "EVIDENT",
+          "answer": "EVIDENCE",
+          "word_class": "noun",
+          "tier_source": 1,
+          "formation_path": "EVIDENT → EVIDENCE",
+          "qc_trap": "-ence spelling",
+          "explanation": "EVIDENT → EVIDENCE. Target: noun. Formation focus: -ence spelling. Check both meaning and grammatical fit in the sentence.",
+          "qc_flags": []
+        },
+        {
+          "number": 19,
+          "base_word": "CHOOSE",
+          "answer": "CHOICES",
+          "word_class": "noun",
+          "tier_source": 2,
+          "formation_path": "CHOOSE → CHOICES",
+          "qc_trap": "irregular choice; plural",
+          "explanation": "CHOOSE → CHOICES. Target: noun. Formation focus: irregular choice; plural. Check both meaning and grammatical fit in the sentence.",
+          "qc_flags": []
+        },
+        {
+          "number": 20,
+          "base_word": "CONCLUDE",
+          "answer": "CONCLUSIONS",
+          "word_class": "noun",
+          "tier_source": 2,
+          "formation_path": "CONCLUDE → CONCLUSIONS",
+          "qc_trap": "-sion; plural",
+          "explanation": "CONCLUDE → CONCLUSIONS. Target: noun. Formation focus: -sion; plural. Check both meaning and grammatical fit in the sentence.",
+          "qc_flags": []
+        },
+        {
+          "number": 21,
+          "base_word": "RESPONSIBLE",
+          "answer": "IRRESPONSIBLE",
+          "word_class": "adjective",
+          "tier_source": 1,
+          "formation_path": "RESPONSIBLE → IRRESPONSIBLE",
+          "qc_trap": "ir- negative",
+          "explanation": "RESPONSIBLE → IRRESPONSIBLE. Target: adjective. Formation focus: ir- negative. Check both meaning and grammatical fit in the sentence.",
+          "qc_flags": []
+        },
+        {
+          "number": 22,
+          "base_word": "PERSON",
+          "answer": "PERSONAL",
+          "word_class": "adjective",
+          "tier_source": 2,
+          "formation_path": "PERSON → PERSONAL",
+          "qc_trap": "-al",
+          "explanation": "PERSON → PERSONAL. Target: adjective. Formation focus: -al. Check both meaning and grammatical fit in the sentence.",
+          "qc_flags": []
+        },
+        {
+          "number": 23,
+          "base_word": "DIFFERENT",
+          "answer": "DIFFERENTLY",
+          "word_class": "adverb",
+          "tier_source": 2,
+          "formation_path": "DIFFERENT → DIFFERENTLY",
+          "qc_trap": "-ly",
+          "explanation": "DIFFERENT → DIFFERENTLY. Target: adverb. Formation focus: -ly. Check both meaning and grammatical fit in the sentence.",
+          "qc_flags": []
+        },
+        {
+          "number": 24,
+          "base_word": "ABLE",
+          "answer": "ENABLE",
+          "word_class": "verb",
+          "tier_source": 1,
+          "formation_path": "ABLE → ENABLE",
+          "qc_trap": "en- verb",
+          "explanation": "ABLE → ENABLE. Target: verb. Formation focus: en- verb. Check both meaning and grammatical fit in the sentence.",
+          "qc_flags": []
+        }
+      ],
+      "qc_status": "qc_revised_pending_teacher_signoff"
+    },
+    {
+      "id": "mixed-review-08",
+      "tier": "mixed",
+      "practice": 8,
+      "title": "Thinking Critically About Online News",
+      "topic": "Technology & Society",
+      "status": "qc_revised",
+      "instructions": "For questions 17–24, use the word given in capitals to form a word that fits each gap. There is an example (0). Write your answers in CAPITAL LETTERS.",
+      "passage": "Reliable (0) {{0}} is essential when reading news online.\n\nOnline rumours sometimes gain (17) {{17}} before anyone checks whether they are accurate.\n\nReaders should give careful (18) {{18}} to the source of a story before sharing it.\n\nConflicting (19) {{19}} can make an already complicated news event harder to understand.\n\nThe (20) {{20}} of misleading stories online has led many schools to teach media literacy.\n\nWithout reliable sources, it may be (21) {{21}} to determine what really happened.\n\nThe report describes several (22) {{22}} consequences that nobody had predicted.\n\nEven a (23) {{23}} shocking detail can change the meaning of a story.\n\nMedia-literacy lessons aim to (24) {{24}} that students check information before passing it on.",
+      "example": {
+        "number": 0,
+        "base_word": "INFORM",
+        "answer": "INFORMATION"
+      },
+      "items": [
+        {
+          "number": 17,
+          "base_word": "POPULAR",
+          "answer": "POPULARITY",
+          "word_class": "noun",
+          "tier_source": 1,
+          "formation_path": "POPULAR → POPULARITY",
+          "qc_trap": "-ity",
+          "explanation": "POPULAR → POPULARITY. Target: noun. Formation focus: -ity. Check both meaning and grammatical fit in the sentence.",
+          "qc_flags": []
+        },
+        {
+          "number": 18,
+          "base_word": "CONSIDER",
+          "answer": "CONSIDERATION",
+          "word_class": "noun",
+          "tier_source": 1,
+          "formation_path": "CONSIDER → CONSIDERATION",
+          "qc_trap": "-ation",
+          "explanation": "CONSIDER → CONSIDERATION. Target: noun. Formation focus: -ation. Check both meaning and grammatical fit in the sentence.",
+          "qc_flags": []
+        },
+        {
+          "number": 19,
+          "base_word": "EXPLAIN",
+          "answer": "EXPLANATIONS",
+          "word_class": "noun",
+          "tier_source": 2,
+          "formation_path": "EXPLAIN → EXPLANATIONS",
+          "qc_trap": "-ation; plural",
+          "explanation": "EXPLAIN → EXPLANATIONS. Target: noun. Formation focus: -ation; plural. Check both meaning and grammatical fit in the sentence.",
+          "qc_flags": []
+        },
+        {
+          "number": 20,
+          "base_word": "EXIST",
+          "answer": "EXISTENCE",
+          "word_class": "noun",
+          "tier_source": 2,
+          "formation_path": "EXIST → EXISTENCE",
+          "qc_trap": "-ence",
+          "explanation": "EXIST → EXISTENCE. Target: noun. Formation focus: -ence. Check both meaning and grammatical fit in the sentence.",
+          "qc_flags": []
+        },
+        {
+          "number": 21,
+          "base_word": "POSSIBLE",
+          "answer": "IMPOSSIBLE",
+          "word_class": "adjective",
+          "tier_source": 1,
+          "formation_path": "POSSIBLE → IMPOSSIBLE",
+          "qc_trap": "im- negative",
+          "explanation": "POSSIBLE → IMPOSSIBLE. Target: adjective. Formation focus: im- negative. Check both meaning and grammatical fit in the sentence.",
+          "qc_flags": []
+        },
+        {
+          "number": 22,
+          "base_word": "EXPECT",
+          "answer": "UNEXPECTED",
+          "word_class": "adjective",
+          "tier_source": 2,
+          "formation_path": "EXPECT → UNEXPECTED",
+          "qc_trap": "un- negative",
+          "explanation": "EXPECT → UNEXPECTED. Target: adjective. Formation focus: un- negative. Check both meaning and grammatical fit in the sentence.",
+          "qc_flags": []
+        },
+        {
+          "number": 23,
+          "base_word": "TRUE",
+          "answer": "TRULY",
+          "word_class": "adverb",
+          "tier_source": 1,
+          "formation_path": "TRUE → TRULY",
+          "qc_trap": "-ly spelling",
+          "explanation": "TRUE → TRULY. Target: adverb. Formation focus: -ly spelling. Check both meaning and grammatical fit in the sentence.",
+          "qc_flags": []
+        },
+        {
+          "number": 24,
+          "base_word": "SURE",
+          "answer": "ENSURE",
+          "word_class": "verb",
+          "tier_source": 2,
+          "formation_path": "SURE → ENSURE",
+          "qc_trap": "en- verb",
+          "explanation": "SURE → ENSURE. Target: verb. Formation focus: en- verb. Check both meaning and grammatical fit in the sentence.",
+          "qc_flags": []
+        }
+      ],
+      "qc_status": "qc_revised_pending_teacher_signoff"
+    },
+    {
+      "id": "mixed-review-09",
+      "tier": "mixed",
+      "practice": 9,
+      "title": "Building Healthy Habits",
+      "topic": "Health & Well-being",
+      "status": "qc_revised",
+      "instructions": "For questions 17–24, use the word given in capitals to form a word that fits each gap. There is an example (0). Write your answers in CAPITAL LETTERS.",
+      "passage": "A (0) {{0}} lifestyle involves more than regular exercise.\n\nLighting and camera angles can change people’s (17) {{17}} in photographs, so images may not tell the whole story.\n\nYoung people need accurate (18) {{18}} about sleep, exercise and nutrition.\n\nOur school collected students’ (19) {{19}} to a survey about after-school activities.\n\nThe gradual (20) {{20}} of healthy routines is more effective than changing everything overnight.\n\nSome online fitness challenges involve (21) {{21}} exercises that beginners should avoid.\n\nParents are often (22) {{22}} by how much better teenagers feel after getting enough sleep.\n\nStudents are encouraged to examine health claims (23) {{23}} rather than accepting them without evidence.\n\nA short walk each day can help (24) {{24}} the time students spend sitting indoors.",
+      "example": {
+        "number": 0,
+        "base_word": "HEALTH",
+        "answer": "HEALTHY"
+      },
+      "items": [
+        {
+          "number": 17,
+          "base_word": "APPEAR",
+          "answer": "APPEARANCE",
+          "word_class": "noun",
+          "tier_source": 1,
+          "formation_path": "APPEAR → APPEARANCE",
+          "qc_trap": "-ance",
+          "explanation": "APPEAR → APPEARANCE. Target: noun. Formation focus: -ance. Check both meaning and grammatical fit in the sentence.",
+          "qc_flags": []
+        },
+        {
+          "number": 18,
+          "base_word": "KNOW",
+          "answer": "KNOWLEDGE",
+          "word_class": "noun",
+          "tier_source": 1,
+          "formation_path": "KNOW → KNOWLEDGE",
+          "qc_trap": "irregular spelling",
+          "explanation": "KNOW → KNOWLEDGE. Target: noun. Formation focus: irregular spelling. Check both meaning and grammatical fit in the sentence.",
+          "qc_flags": []
+        },
+        {
+          "number": 19,
+          "base_word": "RESPOND",
+          "answer": "RESPONSES",
+          "word_class": "noun",
+          "tier_source": 2,
+          "formation_path": "RESPOND → RESPONSES",
+          "qc_trap": "-se plural",
+          "explanation": "RESPOND → RESPONSES. Target: noun. Formation focus: -se plural. Check both meaning and grammatical fit in the sentence.",
+          "qc_flags": []
+        },
+        {
+          "number": 20,
+          "base_word": "DEVELOP",
+          "answer": "DEVELOPMENT",
+          "word_class": "noun",
+          "tier_source": 2,
+          "formation_path": "DEVELOP → DEVELOPMENT",
+          "qc_trap": "-ment",
+          "explanation": "DEVELOP → DEVELOPMENT. Target: noun. Formation focus: -ment. Check both meaning and grammatical fit in the sentence.",
+          "qc_flags": []
+        },
+        {
+          "number": 21,
+          "base_word": "DANGER",
+          "answer": "DANGEROUS",
+          "word_class": "adjective",
+          "tier_source": 1,
+          "formation_path": "DANGER → DANGEROUS",
+          "qc_trap": "-ous",
+          "explanation": "DANGER → DANGEROUS. Target: adjective. Formation focus: -ous. Check both meaning and grammatical fit in the sentence.",
+          "qc_flags": []
+        },
+        {
+          "number": 22,
+          "base_word": "SURPRISE",
+          "answer": "SURPRISED",
+          "word_class": "adjective",
+          "tier_source": 2,
+          "formation_path": "SURPRISE → SURPRISED",
+          "qc_trap": "-ed feeling",
+          "explanation": "SURPRISE → SURPRISED. Target: adjective. Formation focus: -ed feeling. Check both meaning and grammatical fit in the sentence.",
+          "qc_flags": []
+        },
+        {
+          "number": 23,
+          "base_word": "SCIENCE",
+          "answer": "SCIENTIFICALLY",
+          "word_class": "adverb",
+          "tier_source": 1,
+          "formation_path": "SCIENCE → SCIENTIFICALLY",
+          "qc_trap": "-ically",
+          "explanation": "SCIENCE → SCIENTIFICALLY. Target: adverb. Formation focus: -ically. Check both meaning and grammatical fit in the sentence.",
+          "qc_flags": []
+        },
+        {
+          "number": 24,
+          "base_word": "SHORT",
+          "answer": "SHORTEN",
+          "word_class": "verb",
+          "tier_source": 2,
+          "formation_path": "SHORT → SHORTEN",
+          "qc_trap": "-en",
+          "explanation": "SHORT → SHORTEN. Target: verb. Formation focus: -en. Check both meaning and grammatical fit in the sentence.",
+          "qc_flags": []
+        }
+      ],
+      "qc_status": "qc_revised_pending_teacher_signoff"
+    },
+    {
+      "id": "mixed-review-10",
+      "tier": "mixed",
+      "practice": 10,
+      "title": "Restoring the Town Park",
+      "topic": "Community & Environment",
+      "status": "qc_revised",
+      "instructions": "For questions 17–24, use the word given in capitals to form a word that fits each gap. There is an example (0). Write your answers in CAPITAL LETTERS.",
+      "passage": "Local (0) {{0}} often benefit from well-maintained parks.\n\nVolunteers wanted to improve the park’s (17) {{17}} by planting trees and repairing old paths.\n\nAfter several meetings, the council announced its final (18) {{18}} about the project.\n\nThe (19) {{19}} of a small wooden bridge began in early spring.\n\nLocal farmers reported an increase in vegetable (20) {{20}} and donated part of their harvest to a community food stall.\n\nWithout enough volunteers, it seemed (21) {{21}} that all the work would be finished by summer.\n\nThe organisers therefore asked for (22) {{22}} suggestions to make the project easier to manage.\n\nThe renovated park is now a (23) {{23}} welcoming place for families to spend time.\n\nIf no one looks after the flower beds, many of the plants may (24) {{24}} during the dry season.",
+      "example": {
+        "number": 0,
+        "base_word": "COMMUNITY",
+        "answer": "COMMUNITIES"
+      },
+      "items": [
+        {
+          "number": 17,
+          "base_word": "SURROUND",
+          "answer": "SURROUNDINGS",
+          "word_class": "noun",
+          "tier_source": 1,
+          "formation_path": "SURROUND → SURROUNDINGS",
+          "qc_trap": "-ings plural",
+          "explanation": "SURROUND → SURROUNDINGS. Target: noun. Formation focus: -ings plural. Check both meaning and grammatical fit in the sentence.",
+          "qc_flags": []
+        },
+        {
+          "number": 18,
+          "base_word": "DECIDE",
+          "answer": "DECISION",
+          "word_class": "noun",
+          "tier_source": 2,
+          "formation_path": "DECIDE → DECISION",
+          "qc_trap": "-sion",
+          "explanation": "DECIDE → DECISION. Target: noun. Formation focus: -sion. Check both meaning and grammatical fit in the sentence.",
+          "qc_flags": []
+        },
+        {
+          "number": 19,
+          "base_word": "CONSTRUCT",
+          "answer": "CONSTRUCTION",
+          "word_class": "noun",
+          "tier_source": 2,
+          "formation_path": "CONSTRUCT → CONSTRUCTION",
+          "qc_trap": "-tion",
+          "explanation": "CONSTRUCT → CONSTRUCTION. Target: noun. Formation focus: -tion. Check both meaning and grammatical fit in the sentence.",
+          "qc_flags": []
+        },
+        {
+          "number": 20,
+          "base_word": "PRODUCE",
+          "answer": "PRODUCTION",
+          "word_class": "noun",
+          "tier_source": 2,
+          "formation_path": "PRODUCE → PRODUCTION",
+          "qc_trap": "-ction",
+          "explanation": "PRODUCE → PRODUCTION. Target: noun. Formation focus: -ction. Check both meaning and grammatical fit in the sentence.",
+          "qc_flags": []
+        },
+        {
+          "number": 21,
+          "base_word": "LIKE",
+          "answer": "UNLIKELY",
+          "word_class": "adjective",
+          "tier_source": 1,
+          "formation_path": "LIKE → UNLIKELY",
+          "qc_trap": "un- negative",
+          "explanation": "LIKE → UNLIKELY. Target: adjective. Formation focus: un- negative. Check both meaning and grammatical fit in the sentence.",
+          "qc_flags": []
+        },
+        {
+          "number": 22,
+          "base_word": "CREATE",
+          "answer": "CREATIVE",
+          "word_class": "adjective",
+          "tier_source": 2,
+          "formation_path": "CREATE → CREATIVE",
+          "qc_trap": "-ive",
+          "explanation": "CREATE → CREATIVE. Target: adjective. Formation focus: -ive. Check both meaning and grammatical fit in the sentence.",
+          "qc_flags": []
+        },
+        {
+          "number": 23,
+          "base_word": "TRUE",
+          "answer": "TRULY",
+          "word_class": "adverb",
+          "tier_source": 1,
+          "formation_path": "TRUE → TRULY",
+          "qc_trap": "true → truly spelling",
+          "explanation": "TRUE → TRULY. Target: adverb. Formation focus: true → truly spelling. Check both meaning and grammatical fit in the sentence.",
+          "qc_flags": []
+        },
+        {
+          "number": 24,
+          "base_word": "APPEAR",
+          "answer": "DISAPPEAR",
+          "word_class": "verb",
+          "tier_source": 1,
+          "formation_path": "APPEAR → DISAPPEAR",
+          "qc_trap": "dis- negative verb",
+          "explanation": "APPEAR → DISAPPEAR. Target: verb. Formation focus: dis- negative verb. Check both meaning and grammatical fit in the sentence.",
+          "qc_flags": []
+        }
+      ],
+      "qc_status": "qc_revised_pending_teacher_signoff"
+    }
+  ]
+}
