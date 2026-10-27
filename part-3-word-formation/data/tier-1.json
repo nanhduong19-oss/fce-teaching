@@ -210,7 +210,7 @@
       "topic": "Education",
       "status": "qc_recheck_required",
       "instructions": "For questions 17–24, use the word given in capitals to form a word that fits the gap. There is an example (0). Write answers in CAPITAL LETTERS.",
-      "passage": "Completing a university (0) {{0}} seemed straightforward to Daniel until he had to choose between engineering and environmental science. At first, he felt (17) {{17}} to decide because both subjects interested him.\n\n(18) {{18}}, the university websites offered little detail about how the courses were taught. Daniel therefore spoke to an adviser who was highly (19) {{19}} about the different programmes. She explained that it was almost (20) {{20}} to judge a course fairly from a short online description and encouraged him to attend an open day.\n\nDuring his visit, Daniel asked about accommodation, which would involve (21) {{21}} expense if he moved away from home. He also compared the modules and soon found it (22) {{22}} that two courses with similar names could lead to very different careers. Entry to his preferred programme was extremely (23) {{23}}, so he would need to prepare his application carefully.\n\nThe visit helped him make a decision based on experience rather than reputation. Looking back, Daniel considered the conversations with current students one of the most (24) {{24}} parts of the process.",
+      "passage": "Completing a university (0) {{0}} seemed straightforward to Daniel until he had to choose between engineering and environmental science. At first, he felt (17) {{17}} to decide because both subjects interested him.\n\n(18) {{18}}, the university websites offered little detail about how the courses were taught. Daniel therefore spoke to an adviser who was highly (19) {{19}} about the different programmes. She explained that it was almost (20) {{20}} to judge a course fairly from a short online description and encouraged him to attend an open day.\n\nDuring his visit, Daniel asked about accommodation, which would involve (21) {{21}} expense if he moved away from home. His comparison of the modules provided clear (22) {{22}} that two courses with similar names could lead to very different careers. Entry to his preferred programme was extremely (23) {{23}}, so he would need to prepare his application carefully.\n\nThe visit helped him make a decision based on experience rather than reputation. Looking back, Daniel considered the conversations with current students one of the most (24) {{24}} parts of the process.",
       "example": {
         "number": 0,
         "base_word": "APPLY",
@@ -269,12 +269,12 @@
         },
         {
           "number": 22,
-          "base_word": "EVIDENCE",
-          "answer": "EVIDENT",
+          "base_word": "EVIDENT",
+          "answer": "EVIDENCE",
           "answer_provenance": "teacher_approved_correction",
-          "word_class": "adjective",
-          "formation_path": "EVIDENCE → EVIDENT",
-          "explanation": "After becomes, an adjective describes what is clear: it becomes EVIDENT that the courses differ. EVIDENCE is a noun; EVIDENT is the adjective. The base word must change.",
+          "word_class": "noun",
+          "formation_path": "EVIDENT → EVIDENCE",
+          "explanation": "The adjective clear modifies the uncountable noun EVIDENCE. The pattern provide clear evidence that + clause expresses proof or support. EVIDENT is an adjective and cannot fit after clear.",
           "qc_flags": [],
           "teacher_qc_note": "Mandatory fix: change base EVIDENT to EVIDENCE (teacher approval required)."
         },
@@ -310,7 +310,7 @@
       "topic": "Education",
       "status": "qc_recheck_required",
       "instructions": "For questions 17–24, use the word given in capitals to form a word that fits the gap. There is an example (0). Write answers in CAPITAL LETTERS.",
-      "passage": "Every spring, our school holds an (0) {{0}} of student science projects. This year, a group of younger pupils decided to investigate how much water could be saved in the school garden. They knew that the (17) {{17}} of their display would matter, but they wanted their results to be convincing as well.\n\nAt first, their subject seemed (18) {{18}} with other students, who preferred experiments involving robots or rockets. The group continued anyway, working like young (19) {{19}} as they recorded how much water different plants needed. They used (20) {{20}} methods, including measuring rainfall and comparing soil conditions.\n\nTheir teacher checked that no (21) {{21}} equipment would be needed and helped them organise the findings. On the day of the fair, the simple explanation of their results made a strong (22) {{22}} on the judges.\n\nThe project showed how small changes could protect the (23) {{23}} environment around the school. More importantly, the pupils discovered an essential (24) {{24}} about research: even an ordinary question can lead to valuable discoveries when evidence is collected carefully.",
+      "passage": "Every spring, our school holds an (0) {{0}} of student science projects. This year, a group of younger pupils decided to investigate how much water could be saved in the school garden. They knew that the (17) {{17}} of their display would matter, but they wanted their results to be convincing as well.\n\nAt first, their subject seemed (18) {{18}} with other students, who preferred experiments involving robots or rockets. The group continued anyway, working like young (19) {{19}} as they recorded how much water different plants needed. They tested a wide (20) {{20}} of soil samples, comparing how much moisture each one retained.\n\nTheir teacher checked that no (21) {{21}} equipment would be needed and helped them organise the findings. On the day of the fair, the simple explanation of their results made a strong (22) {{22}} on the judges.\n\nThe project showed how small changes could protect the (23) {{23}} environment around the school. More importantly, the pupils discovered an essential (24) {{24}} about research: even an ordinary question can lead to valuable discoveries when evidence is collected carefully.",
       "example": {
         "number": 0,
         "base_word": "EXHIBIT",
@@ -350,11 +350,11 @@
         {
           "number": 20,
           "base_word": "VARY",
-          "answer": "VARIOUS",
+          "answer": "VARIETY",
           "answer_provenance": "editorially_reviewed_inferred_from_context",
-          "word_class": "adjective",
-          "formation_path": "VARY → VARIOUS",
-          "explanation": "Needed word class: adjective. VARY → VARIOUS. Key feature: adjective / participle formation. Check how the completed phrase fits the surrounding grammar and meaning.",
+          "word_class": "noun",
+          "formation_path": "VARY → VARIETY",
+          "explanation": "The fixed expression a wide VARIETY of + plural noun is required. VARIOUS and VARIED are adjectives and cannot follow 'a wide' in this structure.",
           "qc_flags": []
         },
         {
