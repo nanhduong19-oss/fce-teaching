@@ -21,6 +21,13 @@
       "label": "Mixed Review · Tier 1 + Tier 2",
       "path": "mixed.json",
       "enabled": true
+    },
+    {
+      "id": "tier-3-first20",
+      "tier": 3,
+      "label": "Tier 3 · First 20 Families",
+      "path": "tier-3-first20.json",
+      "enabled": true
     }
   ]
 }
