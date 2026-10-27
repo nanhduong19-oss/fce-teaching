@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "tier": 2,
   "release": "tier2-26-families-rebuilt-v2",
-  "content_status": "qc_approved",
+  "content_status": "qc_revision_in_progress",
   "scope": "Only the 26 approved Tier 2 base-word families from FCE Part 3 student handbook",
   "practices": [
     {
@@ -13,7 +13,7 @@
       "master_topic": 3,
       "topic": "People, Relationships & Society",
       "unit": 8,
-      "status": "qc_approved",
+      "status": "qc_recheck_required",
       "instructions": "For questions 17–24, use the word given in capitals to form a word that fits the gap. There is an example (0). Write answers in CAPITAL LETTERS.",
       "passage": "A student photography club invited local residents to take part in an exhibition about identity. The organisers hoped visitors would look beyond a first impression. The students wanted the event to be a (0) {{0}} way of exploring identity.\n\nEach photograph was accompanied by a short (17) {{17}} of the person in it. At first, the organisers were (18) {{18}} how to represent every generation fairly. The final (19) {{19}} of portraits included people of different ages and backgrounds.\n\nSome visitors noticed (20) {{20}} details in the portraits that they had missed at first. Several portraits were displayed at different (21) {{21}} so that even young children could see them. The descriptions were written (22) {{22}} for younger visitors who were learning to read. The exhibition ended with a thoughtful (23) {{23}} about the importance of respecting differences. The visitors left with a (24) {{24}} understanding of the people in their neighbourhood.",
       "example": {
@@ -113,7 +113,7 @@
       "master_topic": 3,
       "topic": "People, Relationships & Society",
       "unit": 8,
-      "status": "qc_approved",
+      "status": "qc_recheck_required",
       "instructions": "For questions 17–24, use the word given in capitals to form a word that fits the gap. There is an example (0). Write answers in CAPITAL LETTERS.",
       "passage": "The school welcomed a group of new students with a photo project designed to help them feel included. Each student could contribute a picture and a short caption. The pupils were making (0) {{0}} introductions through images rather than speeches.\n\nThe teacher asked for a brief (17) {{17}} of the idea behind each photograph. The volunteers decided to (18) {{18}} in photographs showing everyday school life. The class agreed that every participant should have a real (19) {{19}} about whether their picture was displayed. One student submitted a particularly (20) {{20}} series of photographs taken in different places.\n\nThe final (21) {{21}} about the layout was made by a group of student volunteers. The teachers were (22) {{22}} pleased with the thoughtful captions. The camera club recorded the (23) {{23}} of the exhibition from a small event into a school tradition. At the end of the week, students felt (24) {{24}} pride in photographs they had originally been afraid to show.",
       "example": {
@@ -213,7 +213,7 @@
       "master_topic": 3,
       "topic": "People, Relationships & Society",
       "unit": 9,
-      "status": "qc_approved",
+      "status": "qc_recheck_required",
       "instructions": "For questions 17–24, use the word given in capitals to form a word that fits the gap. There is an example (0). Write answers in CAPITAL LETTERS.",
       "passage": "A community centre needed student ambassadors to welcome visitors. The selection process aimed to reward kindness and responsibility rather than popularity. The candidates arrived with different (0) {{0}} about the role.\n\nThe committee made its final (17) {{17}} after interviewing every applicant. The organisers preferred candidates who were (18) {{18}} rather than arrogant when discussing their skills. The interviewers paid attention to each candidate’s (19) {{19}} towards younger children. One candidate gave a (20) {{20}} response about why she wanted to help new pupils.\n\nThe organisers were impressed by her clear (21) {{21}} of what the role involved. She explained why the role mattered to her (22) {{22}}, rather than simply repeating a prepared speech. The panel noticed a significant (23) {{23}} between confidence and arrogance. The final meeting was (24) {{24}} because the candidates offered several original suggestions.",
       "example": {
@@ -313,7 +313,7 @@
       "master_topic": 3,
       "topic": "People, Relationships & Society",
       "unit": 9,
-      "status": "qc_approved",
+      "status": "qc_recheck_required",
       "instructions": "For questions 17–24, use the word given in capitals to form a word that fits the gap. There is an example (0). Write answers in CAPITAL LETTERS.",
       "passage": "A group of teenagers was chosen to organise a neighbourhood arts day. They soon realised that working well together required patience. The volunteers had been (0) {{0}} for their different strengths and preferences.\n\nThe leader asked everyone to make a (17) {{17}} about which tasks suited them best. The team hoped to (18) {{18}} its range of activities beyond music and painting. The teacher wrote a clear (19) {{19}} of each volunteer’s responsibilities. The volunteers were given (20) {{20}} timetables to match their different responsibilities.\n\nOne student’s (21) {{21}} sometimes caused delays when he ignored agreed rules. Others reacted (22) {{22}} to unexpected changes and suggested practical alternatives. The team’s (23) {{23}} of posters and welcome signs took several afternoons. By Saturday, every student was (24) {{24}} to take part in the final preparations.",
       "example": {
@@ -413,9 +413,9 @@
       "master_topic": 3,
       "topic": "People, Relationships & Society",
       "unit": 10,
-      "status": "qc_approved",
+      "status": "qc_recheck_required",
       "instructions": "For questions 17–24, use the word given in capitals to form a word that fits the gap. There is an example (0). Write answers in CAPITAL LETTERS.",
-      "passage": "The student festival was approaching, and a large team of volunteers had been preparing for weeks. Feelings began to change as the opening day came closer. More visitors than (0) {{0}} arrived for the opening.\n\nThere was growing (17) {{17}} about the performances and games. Although the team had prepared carefully, some volunteers were still (18) {{18}} about the weather. The organisers hoped to avoid (19) {{19}} by providing detailed instructions. A (20) {{20}} version of the opening speech left more time for performances.\n\nThere was one important (21) {{21}} to make when the outdoor stage became unavailable. The student leader responded (22) {{22}} to the problem, asking for a technician instead of panicking. The sudden change in (23) {{23}} meant visitors had to walk to another building. Everyone felt (24) {{24}} when the first guests arrived earlier than planned.",
+      "passage": "The student festival was approaching, and a large team of volunteers had been preparing for weeks. Feelings began to change as the opening day came closer. The team had (0) {{0}} a large crowd, but the sudden change of venue created a new challenge.\n\nThere was growing (17) {{17}} about the performances and games. Although the team had prepared carefully, some volunteers were still (18) {{18}} about the weather. The organisers hoped to avoid (19) {{19}} by providing detailed instructions. A (20) {{20}} version of the opening speech left more time for performances.\n\nThere was one important (21) {{21}} to make when the outdoor stage became unavailable. The student leader responded (22) {{22}} to the problem, asking for a technician instead of panicking. The sudden change in (23) {{23}} meant visitors had to walk to another building. After relocating the performances, everyone was (24) {{24}} at how smoothly the visitors found the new venue.",
       "example": {
         "number": 0,
         "base_word": "EXPECT",
@@ -513,7 +513,7 @@
       "master_topic": 3,
       "topic": "People, Relationships & Society",
       "unit": 10,
-      "status": "qc_approved",
+      "status": "qc_recheck_required",
       "instructions": "For questions 17–24, use the word given in capitals to form a word that fits the gap. There is an example (0). Write answers in CAPITAL LETTERS.",
       "passage": "Students had entered a regional performance competition. When the results arrived, some were delighted, while others felt disappointed. The final result was (0) {{0}} to many of the contestants.\n\nThe jury’s (17) {{17}} came as a shock to several performers. To keep improving, the contestants decided to (18) {{18}} their repertoire beyond familiar pop songs. A thoughtful (19) {{19}} of the scores helped the disappointed students understand the result. Even the unsuccessful contestants received (20) {{20}} comments about their progress.\n\nOne singer later thanked the judges for their quick (21) {{21}} to a question about fairness. One contestant took the criticism (22) {{22}}, although it was intended to help the whole group. A few days later, their next (23) {{23}} attracted a much larger audience. By then, the group was more (24) {{24}} about taking part in future competitions.",
       "example": {
@@ -613,7 +613,7 @@
       "master_topic": 3,
       "topic": "People, Relationships & Society",
       "unit": 11,
-      "status": "qc_approved",
+      "status": "qc_recheck_required",
       "instructions": "For questions 17–24, use the word given in capitals to form a word that fits the gap. There is an example (0). Write answers in CAPITAL LETTERS.",
       "passage": "A local community centre invited families to share photographs and memories. Student volunteers interviewed relatives about the events that had shaped their lives. The families brought carefully (0) {{0}} photographs to the exhibition.\n\nOne wall displayed the (17) {{17}} of an old neighbourhood from a village into a busy district. Some stories were extremely (18) {{18}}, especially those about family reunions. A group of students recorded the (19) {{19}} between childhood in the past and today. The organisers were (20) {{20}} to discover that several visitors had lived in the same street for decades.\n\nThe young interviewers kept their questions short to encourage a fuller (21) {{21}}. One grandmother spoke (22) {{22}} to the younger volunteers, sharing memories that she did not usually discuss. The photographs reminded visitors of the continuing (23) {{23}} of family traditions across generations. The final display offered an (24) {{24}} reminder of how quickly everyday life can change.",
       "example": {
@@ -713,7 +713,7 @@
       "master_topic": 3,
       "topic": "People, Relationships & Society",
       "unit": 11,
-      "status": "qc_approved",
+      "status": "qc_recheck_required",
       "instructions": "For questions 17–24, use the word given in capitals to form a word that fits the gap. There is an example (0). Write answers in CAPITAL LETTERS.",
       "passage": "The school surveyed teenagers about online friendships. Students compared daily messages with the conversations they had face to face. The class studied (0) {{0}} communication online and offline.\n\nThe survey asked students to explain their (17) {{17}} of friends they trusted online. A school campaign was launched to (18) {{18}} pupils’ understanding of online safety. Some students admitted that they sometimes misunderstood the (19) {{19}} behind a message. The survey found that a (20) {{20}} conversation was often better than sending many short messages.\n\nA quick (21) {{21}} to an online comment could prevent unnecessary arguments. Some students took negative comments too (22) {{22}}, even when no offence was intended. The project also encouraged the (23) {{23}} of closer friendships outside social media. By the end of the study, students were more (24) {{24}} of changes in their friends’ moods.",
       "example": {
@@ -813,7 +813,7 @@
       "master_topic": 3,
       "topic": "People, Relationships & Society",
       "unit": 12,
-      "status": "qc_approved",
+      "status": "qc_recheck_required",
       "instructions": "For questions 17–24, use the word given in capitals to form a word that fits the gap. There is an example (0). Write answers in CAPITAL LETTERS.",
       "passage": "The school hosted a youth forum on how to improve local public spaces. Students listened to competing ideas before selecting projects to support. By the end of the meeting, the students had reached a (0) {{0}}.\n\nA clear (17) {{17}} of the meeting rules helped everyone take part respectfully. Some students were (18) {{18}} about supporting a plan before hearing all the evidence. There was a noticeable (19) {{19}} between the views of younger and older participants. The chairperson encouraged (20) {{20}} criticism rather than personal attacks.\n\nThe final (21) {{21}} was reached only after a long discussion. The chairperson responded (22) {{22}} when two speakers disagreed sharply. The chairperson limited the (23) {{23}} of individual speeches so that more students could contribute. Most students were (24) {{24}} by the wide range of suggestions.",
       "example": {
@@ -885,11 +885,11 @@
         {
           "number": 23,
           "base_word": "LONG",
-          "answer": "LENGTHS",
+          "answer": "LENGTH",
           "answer_provenance": "editorially_qc_approved",
           "word_class": "noun",
-          "formation_path": "LONG → LENGTHS",
-          "explanation": "the lengths of speeches = độ dài các bài phát biểu; irregular length",
+          "formation_path": "LONG → LENGTH",
+          "explanation": "The singular, uncountable measurement noun LENGTH follows 'the': 'limit the length of individual speeches'. LENGTHS would usually refer to several measured lengths and is unnatural here.",
           "qc_flags": []
         },
         {
@@ -913,7 +913,7 @@
       "master_topic": 3,
       "topic": "People, Relationships & Society",
       "unit": 13,
-      "status": "qc_approved",
+      "status": "qc_recheck_required",
       "instructions": "For questions 17–24, use the word given in capitals to form a word that fits the gap. There is an example (0). Write answers in CAPITAL LETTERS.",
       "passage": "The community centre organised a day of practical help for older residents. Teenagers volunteered to prepare food parcels and repair a small public garden. The project supported the (0) {{0}} of stronger links within the neighbourhood.\n\nAn early (17) {{17}} from local families helped the organisers identify who needed support. The centre offered a (18) {{18}} range of services than it had the previous year. The (19) {{19}} of information leaflets helped residents understand the timetable. The group was proud of its (20) {{20}} approach to solving unexpected problems.\n\nThe garden project depended on the careful (21) {{21}} of safe paths and planting areas. The team responded (22) {{22}} when several visitors suggested improving the layout. The volunteers reached the (23) {{23}} that future events should involve more local residents. The organisers were (24) {{24}} when the neighbourhood offered further support.",
       "example": {
