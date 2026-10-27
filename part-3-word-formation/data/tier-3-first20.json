@@ -1,0 +1,1167 @@
+{
+  "schema_version": "1.0",
+  "tier": 3,
+  "release": "tier3-first20-v1.1-internal-qc",
+  "content_status": "qc_revised_pending_teacher_approval",
+  "scope": "First 20 Tier 3 word families in A-Z order, ACCEPT to COMMIT, from FCE Part 3 student handbook",
+  "practices": [
+    {
+      "id": "tier3-practice01",
+      "tier": 3,
+      "practice": 1,
+      "title": "The Student Magazine",
+      "topic": "Education & Communication",
+      "status": "qc_revised_pending_teacher_approval",
+      "instructions": "For questions 17–24, read the text and use the word in CAPITALS to form a word that fits each gap. There is an example (0).",
+      "passage": "A group of students wanted to publish a magazine about life at school. Their teacher offered guidance but left the final (0) {{0}} to the editorial team.\n\nBefore inviting contributions, they agreed that the (17) {{17}} of articles would depend on their quality rather than the writer’s age. Every factual claim would need to be checked for (18) {{18}}. The team also planned an (19) {{19}} page where readers could recommend future topics.\n\nThere was some (20) {{20}} about the cover: several pupils favoured a photograph, while others wanted an illustration. An (21) {{21}} designer proposed combining the two ideas, and the group quickly supported her suggestion.\n\nStudents then submitted (22) {{22}} to become reporters. The editor explained that personal attacks would be (23) {{23}} for a school publication, however amusing they might seem. Finally, the magazine needed the head teacher's (24) {{24}} before it could be printed. The first issue sold out at lunchtime, and the team began planning the next one.",
+      "example": {
+        "number": 0,
+        "base_word": "ARRANGE",
+        "answer": "ARRANGEMENTS"
+      },
+      "items": [
+        {
+          "number": 17,
+          "base_word": "ACCEPT",
+          "answer": "ACCEPTANCE",
+          "word_class": "noun",
+          "formation_path": "ACCEPT → ACCEPTANCE",
+          "explanation": "ACCEPT → ACCEPTANCE. the acceptance of + noun: danh từ chỉ việc chấp nhận. Trong ngữ cảnh: “Before inviting contributions, they agreed that the acceptance of articles would depend on their quality rather than the writer’s age.” Lưu ý: Danh từ chỉ sự chấp nhận; tránh ACCEPT (động từ) và ACCEPTABLE (tính từ).",
+          "qc_flags": [],
+          "context_sentence": "Before inviting contributions, they agreed that the acceptance of articles would depend on their quality rather than the writer’s age.",
+          "common_errors": "Danh từ chỉ sự chấp nhận; lưu ý hậu tố/tiền tố, nghĩa phủ định và số ít/số nhiều",
+          "teacher_explanation_vi": "Đáp án ACCEPTANCE (noun). the acceptance of + noun: danh từ chỉ việc chấp nhận. Nghĩa trong bài: sự chấp nhận. Không chọn nguyên từ gốc ACCEPT vì sai từ loại, hình thái hoặc cấu trúc ở vị trí này."
+        },
+        {
+          "number": 18,
+          "base_word": "ACCURATE",
+          "answer": "ACCURACY",
+          "word_class": "noun",
+          "formation_path": "ACCURATE → ACCURACY",
+          "explanation": "ACCURATE → ACCURACY. check the accuracy of: danh từ không đếm được. Trong ngữ cảnh: “Every factual claim would need to be checked for accuracy.” Lưu ý: Danh từ không đếm được chỉ độ chính xác; phân biệt ACCURATE (tính từ).",
+          "qc_flags": [],
+          "context_sentence": "Every factual claim would need to be checked for accuracy.",
+          "common_errors": "Danh từ không đếm được chỉ độ chính xác; lưu ý hậu tố/tiền tố, nghĩa phủ định và số ít/số nhiều",
+          "teacher_explanation_vi": "Đáp án ACCURACY (noun). check the accuracy of: danh từ không đếm được. Nghĩa trong bài: độ chính xác. Không chọn nguyên từ gốc ACCURATE vì sai từ loại, hình thái hoặc cấu trúc ở vị trí này."
+        },
+        {
+          "number": 19,
+          "base_word": "ADD",
+          "answer": "ADDITIONAL",
+          "word_class": "adjective",
+          "formation_path": "ADD → ADDITIONAL",
+          "explanation": "ADD → ADDITIONAL. an additional + singular noun: tính từ bổ nghĩa danh từ. Trong ngữ cảnh: “The team also planned an additional page where readers could recommend future topics.” Lưu ý: Tính từ đứng trước danh từ số nhiều; phân biệt ADDITION (danh từ).",
+          "qc_flags": [],
+          "context_sentence": "The team also planned an additional page where readers could recommend future topics.",
+          "common_errors": "Tính từ đứng trước danh từ số nhiều; lưu ý hậu tố/tiền tố, nghĩa phủ định và số ít/số nhiều",
+          "teacher_explanation_vi": "Đáp án ADDITIONAL (adjective). an additional + singular noun: tính từ bổ nghĩa danh từ. Nghĩa trong bài: bổ sung. Không chọn nguyên từ gốc ADD vì sai từ loại, hình thái hoặc cấu trúc ở vị trí này."
+        },
+        {
+          "number": 20,
+          "base_word": "AGREE",
+          "answer": "DISAGREEMENT",
+          "word_class": "noun",
+          "formation_path": "AGREE → DISAGREEMENT",
+          "explanation": "AGREE → DISAGREEMENT. disagreement about/over: bất đồng giữa các ý kiến. Trong ngữ cảnh: “There was some disagreement about the cover: several pupils favoured a photograph, while others wanted an illustration.” Lưu ý: Danh từ diễn tả bất đồng ý kiến; ngữ cảnh hai phương án trái nhau làm rõ tiền tố dis-.",
+          "qc_flags": [],
+          "context_sentence": "There was some disagreement about the cover: several pupils favoured a photograph, while others wanted an illustration.",
+          "common_errors": "Danh từ diễn tả bất đồng ý kiến; lưu ý hậu tố/tiền tố, nghĩa phủ định và số ít/số nhiều",
+          "teacher_explanation_vi": "Đáp án DISAGREEMENT (noun). disagreement about/over: bất đồng giữa các ý kiến. Nghĩa trong bài: sự đồng thuận hoặc bất đồng. Không chọn nguyên từ gốc AGREE vì sai từ loại, hình thái hoặc cấu trúc ở vị trí này."
+        },
+        {
+          "number": 21,
+          "base_word": "AMBITION",
+          "answer": "AMBITIOUS",
+          "word_class": "adjective",
+          "formation_path": "AMBITION → AMBITIOUS",
+          "explanation": "AMBITION → AMBITIOUS. an ambitious + noun: tính từ chỉ mục tiêu lớn. Trong ngữ cảnh: “An ambitious designer proposed combining the two ideas, and the group quickly supported her suggestion.” Lưu ý: Tính từ mô tả kế hoạch hoặc người có mục tiêu lớn; phân biệt AMBITION.",
+          "qc_flags": [],
+          "context_sentence": "An ambitious designer proposed combining the two ideas, and the group quickly supported her suggestion.",
+          "common_errors": "Tính từ mô tả kế hoạch hoặc người có mục tiêu lớn; lưu ý hậu tố/tiền tố, nghĩa phủ định và số ít/số nhiều",
+          "teacher_explanation_vi": "Đáp án AMBITIOUS (adjective). an ambitious + noun: tính từ chỉ mục tiêu lớn. Nghĩa trong bài: tham vọng. Không chọn nguyên từ gốc AMBITION vì sai từ loại, hình thái hoặc cấu trúc ở vị trí này."
+        },
+        {
+          "number": 22,
+          "base_word": "APPLY",
+          "answer": "APPLICATIONS",
+          "word_class": "noun",
+          "formation_path": "APPLY → APPLICATIONS",
+          "explanation": "APPLY → APPLICATIONS. submit applications: danh từ số nhiều. Trong ngữ cảnh: “Students then submitted applications to become reporters.” Lưu ý: Danh từ số nhiều vì diễn tả nhiều đơn đăng ký; lưu ý đổi -y thành -ication.",
+          "qc_flags": [],
+          "context_sentence": "Students then submitted applications to become reporters.",
+          "common_errors": "Danh từ số nhiều vì diễn tả nhiều đơn đăng ký; lưu ý hậu tố/tiền tố, nghĩa phủ định và số ít/số nhiều",
+          "teacher_explanation_vi": "Đáp án APPLICATIONS (noun). submit applications: danh từ số nhiều. Nghĩa trong bài: đơn đăng ký. Không chọn nguyên từ gốc APPLY vì sai từ loại, hình thái hoặc cấu trúc ở vị trí này."
+        },
+        {
+          "number": 23,
+          "base_word": "APPROPRIATE",
+          "answer": "INAPPROPRIATE",
+          "word_class": "adjective",
+          "formation_path": "APPROPRIATE → INAPPROPRIATE",
+          "explanation": "APPROPRIATE → INAPPROPRIATE. inappropriate for: tính từ phủ định, không phù hợp. Trong ngữ cảnh: “The editor explained that personal attacks would be inappropriate for a school publication, however amusing they might seem.” Lưu ý: Tính từ mang nghĩa không phù hợp; ý nghĩa tiêu cực từ ngữ cảnh, không chọn APPROPRIATE.",
+          "qc_flags": [
+            "INAPPROPRIATE not APPROPRIATE: personal attacks in school magazine."
+          ],
+          "context_sentence": "The editor explained that personal attacks would be inappropriate for a school publication, however amusing they might seem.",
+          "common_errors": "Tính từ mang nghĩa không phù hợp; lưu ý hậu tố/tiền tố, nghĩa phủ định và số ít/số nhiều",
+          "teacher_explanation_vi": "Đáp án INAPPROPRIATE (adjective). inappropriate for: tính từ phủ định, không phù hợp. Nghĩa trong bài: mức độ phù hợp. Không chọn nguyên từ gốc APPROPRIATE vì sai từ loại, hình thái hoặc cấu trúc ở vị trí này."
+        },
+        {
+          "number": 24,
+          "base_word": "APPROVE",
+          "answer": "APPROVAL",
+          "word_class": "noun",
+          "formation_path": "APPROVE → APPROVAL",
+          "explanation": "APPROVE → APPROVAL. receive/obtain approval: danh từ không đếm được. Trong ngữ cảnh: “Finally, the magazine needed the head teacher's approval before it could be printed.” Lưu ý: Danh từ không đếm được sau official / possessive; APPROVE là động từ.",
+          "qc_flags": [],
+          "context_sentence": "Finally, the magazine needed the head teacher's approval before it could be printed.",
+          "common_errors": "Danh từ không đếm được sau official / possessive; lưu ý hậu tố/tiền tố, nghĩa phủ định và số ít/số nhiều",
+          "teacher_explanation_vi": "Đáp án APPROVAL (noun). receive/obtain approval: danh từ không đếm được. Nghĩa trong bài: sự phê duyệt. Không chọn nguyên từ gốc APPROVE vì sai từ loại, hình thái hoặc cấu trúc ở vị trí này."
+        }
+      ],
+      "qc_status": "teacher_explanation_checked_pending_signoff"
+    },
+    {
+      "id": "tier3-practice02",
+      "tier": 3,
+      "practice": 2,
+      "title": "A Welcome Day for New Families",
+      "topic": "People & Community",
+      "status": "qc_revised_pending_teacher_approval",
+      "instructions": "For questions 17–24, read the text and use the word in CAPITALS to form a word that fits each gap. There is an example (0).",
+      "passage": "The community centre decided to hold a welcome day for families who had recently moved into the area. Volunteers spent two weeks preparing a programme that would be easy for children and adults to enjoy. With the centre manager’s (0) {{0}}, they began planning where to welcome visitors.\n\nFurther (17) {{17}} were needed when more families registered than expected. Several teenagers offered practical (18) {{18}}, welcoming guests and helping younger children find activities. Colourful posters made the event (19) {{19}} to residents who had never visited the centre.\n\nOne aim was to raise (20) {{20}} of free language courses and sports clubs. Instead of lengthy presentations, volunteers gave a (21) {{21}} introduction to each activity. At the (22) {{22}} of the afternoon, a few visitors seemed nervous, but conversations gradually became more relaxed.\n\nThe organisers had worried that nobody would come. By the end of the day, the number of visitors seemed almost (23) {{23}}: far more families had arrived than expected. The obvious (24) {{24}} of meeting neighbours face to face encouraged the centre to repeat the event.",
+      "example": {
+        "number": 0,
+        "base_word": "APPROVE",
+        "answer": "APPROVAL"
+      },
+      "items": [
+        {
+          "number": 17,
+          "base_word": "ARRANGE",
+          "answer": "ARRANGEMENTS",
+          "word_class": "noun",
+          "formation_path": "ARRANGE → ARRANGEMENTS",
+          "explanation": "ARRANGE → ARRANGEMENTS. make/further arrangements: danh từ số nhiều. Trong ngữ cảnh: “Further arrangements were needed when more families registered than expected.” Lưu ý: Danh từ số nhiều trong cấu trúc make arrangements for.",
+          "qc_flags": [],
+          "context_sentence": "Further arrangements were needed when more families registered than expected.",
+          "common_errors": "Danh từ số nhiều trong cấu trúc make arrangements for.; lưu ý hậu tố/tiền tố, nghĩa phủ định và số ít/số nhiều",
+          "teacher_explanation_vi": "Đáp án ARRANGEMENTS (noun). make/further arrangements: danh từ số nhiều. Nghĩa trong bài: sự sắp xếp. Không chọn nguyên từ gốc ARRANGE vì sai từ loại, hình thái hoặc cấu trúc ở vị trí này."
+        },
+        {
+          "number": 18,
+          "base_word": "ASSIST",
+          "answer": "ASSISTANCE",
+          "word_class": "noun",
+          "formation_path": "ASSIST → ASSISTANCE",
+          "explanation": "ASSIST → ASSISTANCE. offer/provide assistance: danh từ không đếm được. Trong ngữ cảnh: “Several teenagers offered practical assistance, welcoming guests and helping younger children find activities.” Lưu ý: Danh từ không đếm được trong offer/give/provide assistance.",
+          "qc_flags": [],
+          "context_sentence": "Several teenagers offered practical assistance, welcoming guests and helping younger children find activities.",
+          "common_errors": "Danh từ không đếm được trong offer/give/provide assistance.; lưu ý hậu tố/tiền tố, nghĩa phủ định và số ít/số nhiều",
+          "teacher_explanation_vi": "Đáp án ASSISTANCE (noun). offer/provide assistance: danh từ không đếm được. Nghĩa trong bài: sự hỗ trợ. Không chọn nguyên từ gốc ASSIST vì sai từ loại, hình thái hoặc cấu trúc ở vị trí này."
+        },
+        {
+          "number": 19,
+          "base_word": "ATTRACT",
+          "answer": "ATTRACTIVE",
+          "word_class": "adjective",
+          "formation_path": "ATTRACT → ATTRACTIVE",
+          "explanation": "ATTRACT → ATTRACTIVE. attractive to: tính từ hấp dẫn. Trong ngữ cảnh: “Colourful posters made the event attractive to residents who had never visited the centre.” Lưu ý: Tính từ chỉ sức thu hút; sau more hoặc đứng trước danh từ.",
+          "qc_flags": [
+            "ATTRACTIVE vs UNATTRACTIVE clarified by appeal to new residents."
+          ],
+          "context_sentence": "Colourful posters made the event attractive to residents who had never visited the centre.",
+          "common_errors": "Tính từ chỉ sức thu hút; lưu ý hậu tố/tiền tố, nghĩa phủ định và số ít/số nhiều",
+          "teacher_explanation_vi": "Đáp án ATTRACTIVE (adjective). attractive to: tính từ hấp dẫn. Nghĩa trong bài: sự thu hút. Không chọn nguyên từ gốc ATTRACT vì sai từ loại, hình thái hoặc cấu trúc ở vị trí này."
+        },
+        {
+          "number": 20,
+          "base_word": "AWARE",
+          "answer": "AWARENESS",
+          "word_class": "noun",
+          "formation_path": "AWARE → AWARENESS",
+          "explanation": "AWARE → AWARENESS. raise/increase awareness of: danh từ trừu tượng. Trong ngữ cảnh: “One aim was to raise awareness of free language courses and sports clubs.” Lưu ý: Danh từ không đếm được trong raise/increase awareness of.",
+          "qc_flags": [],
+          "context_sentence": "One aim was to raise awareness of free language courses and sports clubs.",
+          "common_errors": "Danh từ không đếm được trong raise/increase awareness of.; lưu ý hậu tố/tiền tố, nghĩa phủ định và số ít/số nhiều",
+          "teacher_explanation_vi": "Đáp án AWARENESS (noun). raise/increase awareness of: danh từ trừu tượng. Nghĩa trong bài: nhận thức. Không chọn nguyên từ gốc AWARE vì sai từ loại, hình thái hoặc cấu trúc ở vị trí này."
+        },
+        {
+          "number": 21,
+          "base_word": "BASE",
+          "answer": "BASIC",
+          "word_class": "adjective",
+          "formation_path": "BASE → BASIC",
+          "explanation": "BASE → BASIC. basic + noun: tính từ. Trong ngữ cảnh: “Instead of lengthy presentations, volunteers gave a basic introduction to each activity.” Lưu ý: Tính từ chỉ mức cơ bản; đứng trước introduction/plan/costs.",
+          "qc_flags": [],
+          "context_sentence": "Instead of lengthy presentations, volunteers gave a basic introduction to each activity.",
+          "common_errors": "Tính từ chỉ mức cơ bản; lưu ý hậu tố/tiền tố, nghĩa phủ định và số ít/số nhiều",
+          "teacher_explanation_vi": "Đáp án BASIC (adjective). basic + noun: tính từ. Nghĩa trong bài: cơ bản. Không chọn nguyên từ gốc BASE vì sai từ loại, hình thái hoặc cấu trúc ở vị trí này."
+        },
+        {
+          "number": 22,
+          "base_word": "BEGIN",
+          "answer": "BEGINNING",
+          "word_class": "noun",
+          "formation_path": "BEGIN → BEGINNING",
+          "explanation": "BEGIN → BEGINNING. at the beginning of: danh từ. Trong ngữ cảnh: “At the beginning of the afternoon, a few visitors seemed nervous, but conversations gradually became more relaxed.” Lưu ý: Danh từ trong cụm at the beginning of.",
+          "qc_flags": [],
+          "context_sentence": "At the beginning of the afternoon, a few visitors seemed nervous, but conversations gradually became more relaxed.",
+          "common_errors": "Danh từ trong cụm at the beginning of.; lưu ý hậu tố/tiền tố, nghĩa phủ định và số ít/số nhiều",
+          "teacher_explanation_vi": "Đáp án BEGINNING (noun). at the beginning of: danh từ. Nghĩa trong bài: khởi đầu hoặc người mới. Không chọn nguyên từ gốc BEGIN vì sai từ loại, hình thái hoặc cấu trúc ở vị trí này."
+        },
+        {
+          "number": 23,
+          "base_word": "BELIEVE",
+          "answer": "UNBELIEVABLE",
+          "word_class": "adjective",
+          "formation_path": "BELIEVE → UNBELIEVABLE",
+          "explanation": "BELIEVE → UNBELIEVABLE. almost unbelievable: quá khó tin; lưu ý polarity của văn bản. Trong ngữ cảnh: “By the end of the day, the number of visitors seemed almost unbelievable: far more families had arrived than expected.” Lưu ý: Tính từ chỉ điều rất khó tin; ngữ cảnh số lượng khách quá mức dự tính / quy mô việc lớn.",
+          "qc_flags": [
+            "Believable would contradict exceptionally high, unexpected attendance; check punctuation and scope of almost."
+          ],
+          "context_sentence": "By the end of the day, the number of visitors seemed almost unbelievable: far more families had arrived than expected.",
+          "common_errors": "Tính từ chỉ điều rất khó tin; lưu ý hậu tố/tiền tố, nghĩa phủ định và số ít/số nhiều",
+          "teacher_explanation_vi": "Đáp án UNBELIEVABLE (adjective). almost unbelievable: quá khó tin; lưu ý polarity của văn bản. Nghĩa trong bài: độ khó tin. Không chọn nguyên từ gốc BELIEVE vì sai từ loại, hình thái hoặc cấu trúc ở vị trí này."
+        },
+        {
+          "number": 24,
+          "base_word": "BENEFIT",
+          "answer": "BENEFITS",
+          "word_class": "noun",
+          "formation_path": "BENEFIT → BENEFITS",
+          "explanation": "BENEFIT → BENEFITS. the benefits of: danh từ số nhiều. Trong ngữ cảnh: “The obvious benefits of meeting neighbours face to face encouraged the centre to repeat the event.” Lưu ý: Danh từ số nhiều theo the benefits of; phân biệt BENEFICIAL (tính từ).",
+          "qc_flags": [],
+          "context_sentence": "The obvious benefits of meeting neighbours face to face encouraged the centre to repeat the event.",
+          "common_errors": "Danh từ số nhiều theo the benefits of; lưu ý hậu tố/tiền tố, nghĩa phủ định và số ít/số nhiều",
+          "teacher_explanation_vi": "Đáp án BENEFITS (noun). the benefits of: danh từ số nhiều. Nghĩa trong bài: lợi ích. Không chọn nguyên từ gốc BENEFIT vì sai từ loại, hình thái hoặc cấu trúc ở vị trí này."
+        }
+      ],
+      "qc_status": "teacher_explanation_checked_pending_signoff"
+    },
+    {
+      "id": "tier3-practice03",
+      "tier": 3,
+      "practice": 3,
+      "title": "A Walk in the Mountains",
+      "topic": "Travel & Environment",
+      "status": "qc_revised_pending_teacher_approval",
+      "instructions": "For questions 17–24, read the text and use the word in CAPITALS to form a word that fits each gap. There is an example (0).",
+      "passage": "After making a (0) {{0}} plan, the hiking club set out early to explore a protected valley in the mountains. Although the route was challenging, the members hoped to reach a viewpoint before lunch. Their leader reminded them to take regular breaks on steep sections.\n\nAfter the first climb, several students were almost (17) {{17}} and welcomed a stop beside a stream. The guide explained the unusual (18) {{18}} of the surrounding rocks, showing how wind and rain had shaped them over centuries. Reaching the highest point required a (19) {{19}} of determination and careful planning.\n\nWhen thick mist arrived, the leader reminded everyone of their (20) {{20}} to following the marked path. The group’s (21) {{21}} of the safer route was unanimous, even though some students had hoped to continue climbing. Before they moved on, the guide checked the (22) {{22}} of his map readings.\n\nHe also proposed an (23) {{23}} to the next trip: a shorter route for beginners. By the time the hikers returned, there was general (24) {{24}} that the safer route had been the right choice. Everyone was tired, but the walk had taught the group the value of making decisions together.",
+      "example": {
+        "number": 0,
+        "base_word": "BASE",
+        "answer": "BASIC"
+      },
+      "items": [
+        {
+          "number": 17,
+          "base_word": "BREATH",
+          "answer": "BREATHLESS",
+          "word_class": "adjective",
+          "formation_path": "BREATH → BREATHLESS",
+          "explanation": "BREATH → BREATHLESS. be/arrive breathless after physical effort: tính từ. Trong ngữ cảnh: “After the first climb, several students were almost breathless and welcomed a stop beside a stream.” Lưu ý: Tính từ miêu tả tình trạng hụt hơi sau vận động; phân biệt BREATHE (động từ).",
+          "qc_flags": [],
+          "context_sentence": "After the first climb, several students were almost breathless and welcomed a stop beside a stream.",
+          "common_errors": "Tính từ miêu tả tình trạng hụt hơi sau vận động; lưu ý hậu tố/tiền tố, nghĩa phủ định và số ít/số nhiều",
+          "teacher_explanation_vi": "Đáp án BREATHLESS (adjective). be/arrive breathless after physical effort: tính từ. Nghĩa trong bài: trạng thái hụt hơi. Không chọn nguyên từ gốc BREATH vì sai từ loại, hình thái hoặc cấu trúc ở vị trí này."
+        },
+        {
+          "number": 18,
+          "base_word": "CHARACTER",
+          "answer": "CHARACTERISTICS",
+          "word_class": "noun",
+          "formation_path": "CHARACTER → CHARACTERISTICS",
+          "explanation": "CHARACTER → CHARACTERISTICS. characteristics of: danh từ số nhiều. Trong ngữ cảnh: “The guide explained the unusual characteristics of the surrounding rocks, showing how wind and rain had shaped them over centuries.” Lưu ý: Danh từ số nhiều chỉ các đặc điểm riêng; phân biệt CHARACTER (nhân vật / tính cách).",
+          "qc_flags": [],
+          "context_sentence": "The guide explained the unusual characteristics of the surrounding rocks, showing how wind and rain had shaped them over centuries.",
+          "common_errors": "Danh từ số nhiều chỉ các đặc điểm riêng; lưu ý hậu tố/tiền tố, nghĩa phủ định và số ít/số nhiều",
+          "teacher_explanation_vi": "Đáp án CHARACTERISTICS (noun). characteristics of: danh từ số nhiều. Nghĩa trong bài: đặc điểm. Không chọn nguyên từ gốc CHARACTER vì sai từ loại, hình thái hoặc cấu trúc ở vị trí này."
+        },
+        {
+          "number": 19,
+          "base_word": "COMBINE",
+          "answer": "COMBINATION",
+          "word_class": "noun",
+          "formation_path": "COMBINE → COMBINATION",
+          "explanation": "COMBINE → COMBINATION. a combination of: danh từ. Trong ngữ cảnh: “Reaching the highest point required a combination of determination and careful planning.” Lưu ý: Danh từ trong a combination of A and B.",
+          "qc_flags": [],
+          "context_sentence": "Reaching the highest point required a combination of determination and careful planning.",
+          "common_errors": "Danh từ trong a combination of A and B.; lưu ý hậu tố/tiền tố, nghĩa phủ định và số ít/số nhiều",
+          "teacher_explanation_vi": "Đáp án COMBINATION (noun). a combination of: danh từ. Nghĩa trong bài: sự kết hợp. Không chọn nguyên từ gốc COMBINE vì sai từ loại, hình thái hoặc cấu trúc ở vị trí này."
+        },
+        {
+          "number": 20,
+          "base_word": "COMMIT",
+          "answer": "COMMITMENT",
+          "word_class": "noun",
+          "formation_path": "COMMIT → COMMITMENT",
+          "explanation": "COMMIT → COMMITMENT. commitment to + noun/-ing: danh từ không đếm được. Trong ngữ cảnh: “When thick mist arrived, the leader reminded everyone of their commitment to following the marked path.” Lưu ý: Danh từ trong commitment to + V-ing / N.",
+          "qc_flags": [],
+          "context_sentence": "When thick mist arrived, the leader reminded everyone of their commitment to following the marked path.",
+          "common_errors": "Danh từ trong commitment to + V-ing / N.; lưu ý hậu tố/tiền tố, nghĩa phủ định và số ít/số nhiều",
+          "teacher_explanation_vi": "Đáp án COMMITMENT (noun). commitment to + noun/-ing: danh từ không đếm được. Nghĩa trong bài: sự cam kết. Không chọn nguyên từ gốc COMMIT vì sai từ loại, hình thái hoặc cấu trúc ở vị trí này."
+        },
+        {
+          "number": 21,
+          "base_word": "ACCEPT",
+          "answer": "ACCEPTANCE",
+          "word_class": "noun",
+          "formation_path": "ACCEPT → ACCEPTANCE",
+          "explanation": "ACCEPT → ACCEPTANCE. the acceptance of + noun: danh từ chỉ việc chấp nhận. Trong ngữ cảnh: “The group’s acceptance of the safer route was unanimous, even though some students had hoped to continue climbing.” Lưu ý: Danh từ chỉ sự chấp nhận; tránh ACCEPT (động từ) và ACCEPTABLE (tính từ).",
+          "qc_flags": [],
+          "context_sentence": "The group’s acceptance of the safer route was unanimous, even though some students had hoped to continue climbing.",
+          "common_errors": "Danh từ chỉ sự chấp nhận; lưu ý hậu tố/tiền tố, nghĩa phủ định và số ít/số nhiều",
+          "teacher_explanation_vi": "Đáp án ACCEPTANCE (noun). the acceptance of + noun: danh từ chỉ việc chấp nhận. Nghĩa trong bài: sự chấp nhận. Không chọn nguyên từ gốc ACCEPT vì sai từ loại, hình thái hoặc cấu trúc ở vị trí này."
+        },
+        {
+          "number": 22,
+          "base_word": "ACCURATE",
+          "answer": "ACCURACY",
+          "word_class": "noun",
+          "formation_path": "ACCURATE → ACCURACY",
+          "explanation": "ACCURATE → ACCURACY. check the accuracy of: danh từ không đếm được. Trong ngữ cảnh: “Before they moved on, the guide checked the accuracy of his map readings.” Lưu ý: Danh từ không đếm được chỉ độ chính xác; phân biệt ACCURATE (tính từ).",
+          "qc_flags": [],
+          "context_sentence": "Before they moved on, the guide checked the accuracy of his map readings.",
+          "common_errors": "Danh từ không đếm được chỉ độ chính xác; lưu ý hậu tố/tiền tố, nghĩa phủ định và số ít/số nhiều",
+          "teacher_explanation_vi": "Đáp án ACCURACY (noun). check the accuracy of: danh từ không đếm được. Nghĩa trong bài: độ chính xác. Không chọn nguyên từ gốc ACCURATE vì sai từ loại, hình thái hoặc cấu trúc ở vị trí này."
+        },
+        {
+          "number": 23,
+          "base_word": "ADD",
+          "answer": "ADDITION",
+          "word_class": "noun",
+          "formation_path": "ADD → ADDITION",
+          "explanation": "ADD → ADDITION. an addition to: danh từ đi sau mạo từ. Trong ngữ cảnh: “He also proposed an addition to the next trip: a shorter route for beginners.” Lưu ý: Danh từ trong an addition to + noun / phrase.",
+          "qc_flags": [],
+          "context_sentence": "He also proposed an addition to the next trip: a shorter route for beginners.",
+          "common_errors": "Danh từ trong an addition to + noun / phrase.; lưu ý hậu tố/tiền tố, nghĩa phủ định và số ít/số nhiều",
+          "teacher_explanation_vi": "Đáp án ADDITION (noun). an addition to: danh từ đi sau mạo từ. Nghĩa trong bài: bổ sung. Không chọn nguyên từ gốc ADD vì sai từ loại, hình thái hoặc cấu trúc ở vị trí này."
+        },
+        {
+          "number": 24,
+          "base_word": "AGREE",
+          "answer": "AGREEMENT",
+          "word_class": "noun",
+          "formation_path": "AGREE → AGREEMENT",
+          "explanation": "AGREE → AGREEMENT. agreement that/on: thống nhất ý kiến. Trong ngữ cảnh: “By the time the hikers returned, there was general agreement that the safer route had been the right choice.” Lưu ý: Danh từ trong reach agreement on / agreement that.",
+          "qc_flags": [],
+          "context_sentence": "By the time the hikers returned, there was general agreement that the safer route had been the right choice.",
+          "common_errors": "Danh từ trong reach agreement on / agreement that.; lưu ý hậu tố/tiền tố, nghĩa phủ định và số ít/số nhiều",
+          "teacher_explanation_vi": "Đáp án AGREEMENT (noun). agreement that/on: thống nhất ý kiến. Nghĩa trong bài: sự đồng thuận hoặc bất đồng. Không chọn nguyên từ gốc AGREE vì sai từ loại, hình thái hoặc cấu trúc ở vị trí này."
+        }
+      ],
+      "qc_status": "teacher_explanation_checked_pending_signoff"
+    },
+    {
+      "id": "tier3-practice04",
+      "tier": 3,
+      "practice": 4,
+      "title": "An Environmental Innovation Competition",
+      "topic": "Science & Innovation",
+      "status": "qc_revised_pending_teacher_approval",
+      "instructions": "For questions 17–24, read the text and use the word in CAPITALS to form a word that fits each gap. There is an example (0).",
+      "passage": "At the start of the year, our school announced a competition for ideas that would reduce waste. The main (0) {{0}} of a strong entry was imaginative thinking rather than expensive technology.\n\nA group of pupils developed an (17) {{17}} plan to collect rainwater for the school garden. After discussing the proposal, they completed an (18) {{18}} for a small grant. Their teacher warned them that some suggested materials were (19) {{19}} for use near food plants, so the design had to be changed.\n\nThe revised project received official (20) {{20}} from the school. The pupils then (21) {{21}} the equipment in a storage room and divided the jobs fairly. An experienced technician gave them (22) {{22}} with the pipes, but the students carried out most of the work themselves.\n\nThe finished system was surprisingly (23) {{23}}, drawing considerable interest from visitors. Its success also increased (24) {{24}} of water conservation among younger pupils. Rather than keeping the design secret, the group published instructions so that other schools could try it.",
+      "example": {
+        "number": 0,
+        "base_word": "CHARACTER",
+        "answer": "CHARACTERISTIC"
+      },
+      "items": [
+        {
+          "number": 17,
+          "base_word": "AMBITION",
+          "answer": "AMBITIOUS",
+          "word_class": "adjective",
+          "formation_path": "AMBITION → AMBITIOUS",
+          "explanation": "AMBITION → AMBITIOUS. an ambitious + noun: tính từ chỉ mục tiêu lớn. Trong ngữ cảnh: “A group of pupils developed an ambitious plan to collect rainwater for the school garden.” Lưu ý: Tính từ mô tả kế hoạch hoặc người có mục tiêu lớn; phân biệt AMBITION.",
+          "qc_flags": [],
+          "context_sentence": "A group of pupils developed an ambitious plan to collect rainwater for the school garden.",
+          "common_errors": "Tính từ mô tả kế hoạch hoặc người có mục tiêu lớn; lưu ý hậu tố/tiền tố, nghĩa phủ định và số ít/số nhiều",
+          "teacher_explanation_vi": "Đáp án AMBITIOUS (adjective). an ambitious + noun: tính từ chỉ mục tiêu lớn. Nghĩa trong bài: tham vọng. Không chọn nguyên từ gốc AMBITION vì sai từ loại, hình thái hoặc cấu trúc ở vị trí này."
+        },
+        {
+          "number": 18,
+          "base_word": "APPLY",
+          "answer": "APPLICATION",
+          "word_class": "noun",
+          "formation_path": "APPLY → APPLICATION",
+          "explanation": "APPLY → APPLICATION. an application for: một đơn đăng ký. Trong ngữ cảnh: “After discussing the proposal, they completed an application for a small grant.” Lưu ý: Danh từ số ít sau an; phân biệt động từ APPLY.",
+          "qc_flags": [],
+          "context_sentence": "After discussing the proposal, they completed an application for a small grant.",
+          "common_errors": "Danh từ số ít sau an; lưu ý hậu tố/tiền tố, nghĩa phủ định và số ít/số nhiều",
+          "teacher_explanation_vi": "Đáp án APPLICATION (noun). an application for: một đơn đăng ký. Nghĩa trong bài: đơn đăng ký. Không chọn nguyên từ gốc APPLY vì sai từ loại, hình thái hoặc cấu trúc ở vị trí này."
+        },
+        {
+          "number": 19,
+          "base_word": "APPROPRIATE",
+          "answer": "INAPPROPRIATE",
+          "word_class": "adjective",
+          "formation_path": "APPROPRIATE → INAPPROPRIATE",
+          "explanation": "APPROPRIATE → INAPPROPRIATE. inappropriate for: tính từ phủ định, không phù hợp. Trong ngữ cảnh: “Their teacher warned them that some suggested materials were inappropriate for use near food plants, so the design had to be changed.” Lưu ý: Tính từ mang nghĩa không phù hợp; ý nghĩa tiêu cực từ ngữ cảnh, không chọn APPROPRIATE.",
+          "qc_flags": [
+            "INAPPROPRIATE not APPROPRIATE: unsafe materials near food plants."
+          ],
+          "context_sentence": "Their teacher warned them that some suggested materials were inappropriate for use near food plants, so the design had to be changed.",
+          "common_errors": "Tính từ mang nghĩa không phù hợp; lưu ý hậu tố/tiền tố, nghĩa phủ định và số ít/số nhiều",
+          "teacher_explanation_vi": "Đáp án INAPPROPRIATE (adjective). inappropriate for: tính từ phủ định, không phù hợp. Nghĩa trong bài: mức độ phù hợp. Không chọn nguyên từ gốc APPROPRIATE vì sai từ loại, hình thái hoặc cấu trúc ở vị trí này."
+        },
+        {
+          "number": 20,
+          "base_word": "APPROVE",
+          "answer": "APPROVAL",
+          "word_class": "noun",
+          "formation_path": "APPROVE → APPROVAL",
+          "explanation": "APPROVE → APPROVAL. receive/obtain approval: danh từ không đếm được. Trong ngữ cảnh: “The revised project received official approval from the school.” Lưu ý: Danh từ không đếm được sau official / possessive; APPROVE là động từ.",
+          "qc_flags": [],
+          "context_sentence": "The revised project received official approval from the school.",
+          "common_errors": "Danh từ không đếm được sau official / possessive; lưu ý hậu tố/tiền tố, nghĩa phủ định và số ít/số nhiều",
+          "teacher_explanation_vi": "Đáp án APPROVAL (noun). receive/obtain approval: danh từ không đếm được. Nghĩa trong bài: sự phê duyệt. Không chọn nguyên từ gốc APPROVE vì sai từ loại, hình thái hoặc cấu trúc ở vị trí này."
+        },
+        {
+          "number": 21,
+          "base_word": "ARRANGE",
+          "answer": "REARRANGED",
+          "word_class": "verb",
+          "formation_path": "ARRANGE → REARRANGED",
+          "explanation": "ARRANGE → REARRANGED. chủ ngữ số nhiều + động từ quá khứ; re- = sắp xếp lại. Trong ngữ cảnh: “The pupils then rearranged the equipment in a storage room and divided the jobs fairly.” Lưu ý: Động từ quá khứ đơn; re- thể hiện sắp xếp lại khi lịch thay đổi.",
+          "qc_flags": [],
+          "context_sentence": "The pupils then rearranged the equipment in a storage room and divided the jobs fairly.",
+          "common_errors": "Động từ quá khứ đơn; lưu ý hậu tố/tiền tố, nghĩa phủ định và số ít/số nhiều",
+          "teacher_explanation_vi": "Đáp án REARRANGED (verb). chủ ngữ số nhiều + động từ quá khứ; re- = sắp xếp lại. Nghĩa trong bài: sự sắp xếp. Không chọn nguyên từ gốc ARRANGE vì sai từ loại, hình thái hoặc cấu trúc ở vị trí này."
+        },
+        {
+          "number": 22,
+          "base_word": "ASSIST",
+          "answer": "ASSISTANCE",
+          "word_class": "noun",
+          "formation_path": "ASSIST → ASSISTANCE",
+          "explanation": "ASSIST → ASSISTANCE. offer/provide assistance: danh từ không đếm được. Trong ngữ cảnh: “An experienced technician gave them assistance with the pipes, but the students carried out most of the work themselves.” Lưu ý: Danh từ không đếm được trong offer/give/provide assistance.",
+          "qc_flags": [],
+          "context_sentence": "An experienced technician gave them assistance with the pipes, but the students carried out most of the work themselves.",
+          "common_errors": "Danh từ không đếm được trong offer/give/provide assistance.; lưu ý hậu tố/tiền tố, nghĩa phủ định và số ít/số nhiều",
+          "teacher_explanation_vi": "Đáp án ASSISTANCE (noun). offer/provide assistance: danh từ không đếm được. Nghĩa trong bài: sự hỗ trợ. Không chọn nguyên từ gốc ASSIST vì sai từ loại, hình thái hoặc cấu trúc ở vị trí này."
+        },
+        {
+          "number": 23,
+          "base_word": "ATTRACT",
+          "answer": "ATTRACTIVE",
+          "word_class": "adjective",
+          "formation_path": "ATTRACT → ATTRACTIVE",
+          "explanation": "ATTRACT → ATTRACTIVE. attractive to: tính từ hấp dẫn. Trong ngữ cảnh: “The finished system was surprisingly attractive, drawing considerable interest from visitors.” Lưu ý: Tính từ chỉ sức thu hút; sau more hoặc đứng trước danh từ.",
+          "qc_flags": [],
+          "context_sentence": "The finished system was surprisingly attractive, drawing considerable interest from visitors.",
+          "common_errors": "Tính từ chỉ sức thu hút; lưu ý hậu tố/tiền tố, nghĩa phủ định và số ít/số nhiều",
+          "teacher_explanation_vi": "Đáp án ATTRACTIVE (adjective). attractive to: tính từ hấp dẫn. Nghĩa trong bài: sự thu hút. Không chọn nguyên từ gốc ATTRACT vì sai từ loại, hình thái hoặc cấu trúc ở vị trí này."
+        },
+        {
+          "number": 24,
+          "base_word": "AWARE",
+          "answer": "AWARENESS",
+          "word_class": "noun",
+          "formation_path": "AWARE → AWARENESS",
+          "explanation": "AWARE → AWARENESS. raise/increase awareness of: danh từ trừu tượng. Trong ngữ cảnh: “Its success also increased awareness of water conservation among younger pupils.” Lưu ý: Danh từ không đếm được trong raise/increase awareness of.",
+          "qc_flags": [],
+          "context_sentence": "Its success also increased awareness of water conservation among younger pupils.",
+          "common_errors": "Danh từ không đếm được trong raise/increase awareness of.; lưu ý hậu tố/tiền tố, nghĩa phủ định và số ít/số nhiều",
+          "teacher_explanation_vi": "Đáp án AWARENESS (noun). raise/increase awareness of: danh từ trừu tượng. Nghĩa trong bài: nhận thức. Không chọn nguyên từ gốc AWARE vì sai từ loại, hình thái hoặc cấu trúc ở vị trí này."
+        }
+      ],
+      "qc_status": "teacher_explanation_checked_pending_signoff"
+    },
+    {
+      "id": "tier3-practice05",
+      "tier": 3,
+      "practice": 5,
+      "title": "A Library for Everyone",
+      "topic": "Culture & Community",
+      "status": "qc_revised_pending_teacher_approval",
+      "instructions": "For questions 17–24, read the text and use the word in CAPITALS to form a word that fits each gap. There is an example (0).",
+      "passage": "A local library planned to reopen after a long renovation. After receiving official (0) {{0}} for the reopening, staff asked young residents what they wanted from the new space. The responses revealed an interest in both books and creative workshops.\n\nThe organisers proposed several (17) {{17}} improvements, including a room for group study. A small workshop was designed for (18) {{18}} who had never used a digital library before. The library’s transformation was almost (19) {{19}} to those who remembered the damaged roof and empty rooms only a few months earlier.\n\nStaff explained the (20) {{20}} of reading regularly and introduced short activities to support concentration. During the opening, a volunteer who had carried boxes of books up three flights of stairs arrived (21) {{21}} and paused to recover. A display highlighted the defining (22) {{22}} of libraries in different periods.\n\nThe programme offered a (23) {{23}} of traditional storytelling and new technology. Its success depended on the (24) {{24}} of staff and volunteers who continued helping visitors after the ceremony had ended. The building was new, but the main purpose of the library remained unchanged.",
+      "example": {
+        "number": 0,
+        "base_word": "APPROVE",
+        "answer": "APPROVAL"
+      },
+      "items": [
+        {
+          "number": 17,
+          "base_word": "BASE",
+          "answer": "BASIC",
+          "word_class": "adjective",
+          "formation_path": "BASE → BASIC",
+          "explanation": "BASE → BASIC. basic + noun: tính từ. Trong ngữ cảnh: “The organisers proposed several basic improvements, including a room for group study.” Lưu ý: Tính từ chỉ mức cơ bản; đứng trước introduction/plan/costs.",
+          "qc_flags": [],
+          "context_sentence": "The organisers proposed several basic improvements, including a room for group study.",
+          "common_errors": "Tính từ chỉ mức cơ bản; lưu ý hậu tố/tiền tố, nghĩa phủ định và số ít/số nhiều",
+          "teacher_explanation_vi": "Đáp án BASIC (adjective). basic + noun: tính từ. Nghĩa trong bài: cơ bản. Không chọn nguyên từ gốc BASE vì sai từ loại, hình thái hoặc cấu trúc ở vị trí này."
+        },
+        {
+          "number": 18,
+          "base_word": "BEGIN",
+          "answer": "BEGINNERS",
+          "word_class": "noun",
+          "formation_path": "BEGIN → BEGINNERS",
+          "explanation": "BEGIN → BEGINNERS. for beginners: danh từ số nhiều chỉ người mới. Trong ngữ cảnh: “A small workshop was designed for beginners who had never used a digital library before.” Lưu ý: Danh từ đếm được số nhiều, chỉ người mới; khác BEGINNING chỉ thời điểm bắt đầu.",
+          "qc_flags": [],
+          "context_sentence": "A small workshop was designed for beginners who had never used a digital library before.",
+          "common_errors": "Danh từ đếm được số nhiều, chỉ người mới; lưu ý hậu tố/tiền tố, nghĩa phủ định và số ít/số nhiều",
+          "teacher_explanation_vi": "Đáp án BEGINNERS (noun). for beginners: danh từ số nhiều chỉ người mới. Nghĩa trong bài: khởi đầu hoặc người mới. Không chọn nguyên từ gốc BEGIN vì sai từ loại, hình thái hoặc cấu trúc ở vị trí này."
+        },
+        {
+          "number": 19,
+          "base_word": "BELIEVE",
+          "answer": "UNBELIEVABLE",
+          "word_class": "adjective",
+          "formation_path": "BELIEVE → UNBELIEVABLE",
+          "explanation": "BELIEVE → UNBELIEVABLE. almost unbelievable: quá khó tin; lưu ý polarity của văn bản. Trong ngữ cảnh: “The library’s transformation was almost unbelievable to those who remembered the damaged roof and empty rooms only a few months earlier.” Lưu ý: Tính từ chỉ điều rất khó tin; ngữ cảnh số lượng khách quá mức dự tính / quy mô việc lớn.",
+          "qc_flags": [
+            "UNBELIEVABLE (not BELIEVABLE) signalled by dramatic transformation."
+          ],
+          "context_sentence": "The library’s transformation was almost unbelievable to those who remembered the damaged roof and empty rooms only a few months earlier.",
+          "common_errors": "Tính từ chỉ điều rất khó tin; lưu ý hậu tố/tiền tố, nghĩa phủ định và số ít/số nhiều",
+          "teacher_explanation_vi": "Đáp án UNBELIEVABLE (adjective). almost unbelievable: quá khó tin; lưu ý polarity của văn bản. Nghĩa trong bài: độ khó tin. Không chọn nguyên từ gốc BELIEVE vì sai từ loại, hình thái hoặc cấu trúc ở vị trí này."
+        },
+        {
+          "number": 20,
+          "base_word": "BENEFIT",
+          "answer": "BENEFITS",
+          "word_class": "noun",
+          "formation_path": "BENEFIT → BENEFITS",
+          "explanation": "BENEFIT → BENEFITS. the benefits of: danh từ số nhiều. Trong ngữ cảnh: “Staff explained the benefits of reading regularly and introduced short activities to support concentration.” Lưu ý: Danh từ số nhiều theo the benefits of; phân biệt BENEFICIAL (tính từ).",
+          "qc_flags": [],
+          "context_sentence": "Staff explained the benefits of reading regularly and introduced short activities to support concentration.",
+          "common_errors": "Danh từ số nhiều theo the benefits of; lưu ý hậu tố/tiền tố, nghĩa phủ định và số ít/số nhiều",
+          "teacher_explanation_vi": "Đáp án BENEFITS (noun). the benefits of: danh từ số nhiều. Nghĩa trong bài: lợi ích. Không chọn nguyên từ gốc BENEFIT vì sai từ loại, hình thái hoặc cấu trúc ở vị trí này."
+        },
+        {
+          "number": 21,
+          "base_word": "BREATH",
+          "answer": "BREATHLESS",
+          "word_class": "adjective",
+          "formation_path": "BREATH → BREATHLESS",
+          "explanation": "BREATH → BREATHLESS. be/arrive breathless after physical effort: tính từ. Trong ngữ cảnh: “During the opening, a volunteer who had carried boxes of books up three flights of stairs arrived breathless and paused to recover.” Lưu ý: Tính từ miêu tả tình trạng hụt hơi sau vận động; phân biệt BREATHE (động từ).",
+          "qc_flags": [],
+          "context_sentence": "During the opening, a volunteer who had carried boxes of books up three flights of stairs arrived breathless and paused to recover.",
+          "common_errors": "Tính từ miêu tả tình trạng hụt hơi sau vận động; lưu ý hậu tố/tiền tố, nghĩa phủ định và số ít/số nhiều",
+          "teacher_explanation_vi": "Đáp án BREATHLESS (adjective). be/arrive breathless after physical effort: tính từ. Nghĩa trong bài: trạng thái hụt hơi. Không chọn nguyên từ gốc BREATH vì sai từ loại, hình thái hoặc cấu trúc ở vị trí này."
+        },
+        {
+          "number": 22,
+          "base_word": "CHARACTER",
+          "answer": "CHARACTERISTICS",
+          "word_class": "noun",
+          "formation_path": "CHARACTER → CHARACTERISTICS",
+          "explanation": "CHARACTER → CHARACTERISTICS. characteristics of: danh từ số nhiều. Trong ngữ cảnh: “A display highlighted the defining characteristics of libraries in different periods.” Lưu ý: Danh từ số nhiều chỉ các đặc điểm riêng; phân biệt CHARACTER (nhân vật / tính cách).",
+          "qc_flags": [],
+          "context_sentence": "A display highlighted the defining characteristics of libraries in different periods.",
+          "common_errors": "Danh từ số nhiều chỉ các đặc điểm riêng; lưu ý hậu tố/tiền tố, nghĩa phủ định và số ít/số nhiều",
+          "teacher_explanation_vi": "Đáp án CHARACTERISTICS (noun). characteristics of: danh từ số nhiều. Nghĩa trong bài: đặc điểm. Không chọn nguyên từ gốc CHARACTER vì sai từ loại, hình thái hoặc cấu trúc ở vị trí này."
+        },
+        {
+          "number": 23,
+          "base_word": "COMBINE",
+          "answer": "COMBINATION",
+          "word_class": "noun",
+          "formation_path": "COMBINE → COMBINATION",
+          "explanation": "COMBINE → COMBINATION. a combination of: danh từ. Trong ngữ cảnh: “The programme offered a combination of traditional storytelling and new technology.” Lưu ý: Danh từ trong a combination of A and B.",
+          "qc_flags": [],
+          "context_sentence": "The programme offered a combination of traditional storytelling and new technology.",
+          "common_errors": "Danh từ trong a combination of A and B.; lưu ý hậu tố/tiền tố, nghĩa phủ định và số ít/số nhiều",
+          "teacher_explanation_vi": "Đáp án COMBINATION (noun). a combination of: danh từ. Nghĩa trong bài: sự kết hợp. Không chọn nguyên từ gốc COMBINE vì sai từ loại, hình thái hoặc cấu trúc ở vị trí này."
+        },
+        {
+          "number": 24,
+          "base_word": "COMMIT",
+          "answer": "COMMITMENT",
+          "word_class": "noun",
+          "formation_path": "COMMIT → COMMITMENT",
+          "explanation": "COMMIT → COMMITMENT. commitment to + noun/-ing: danh từ không đếm được. Trong ngữ cảnh: “Its success depended on the commitment of staff and volunteers who continued helping visitors after the ceremony had ended.” Lưu ý: Danh từ trong commitment to + V-ing / N.",
+          "qc_flags": [],
+          "context_sentence": "Its success depended on the commitment of staff and volunteers who continued helping visitors after the ceremony had ended.",
+          "common_errors": "Danh từ trong commitment to + V-ing / N.; lưu ý hậu tố/tiền tố, nghĩa phủ định và số ít/số nhiều",
+          "teacher_explanation_vi": "Đáp án COMMITMENT (noun). commitment to + noun/-ing: danh từ không đếm được. Nghĩa trong bài: sự cam kết. Không chọn nguyên từ gốc COMMIT vì sai từ loại, hình thái hoặc cấu trúc ở vị trí này."
+        }
+      ],
+      "qc_status": "teacher_explanation_checked_pending_signoff"
+    },
+    {
+      "id": "tier3-practice06",
+      "tier": 3,
+      "practice": 6,
+      "title": "The School Debate Club",
+      "topic": "Education & Communication",
+      "status": "qc_revised_pending_teacher_approval",
+      "instructions": "For questions 17–24, read the text and use the word in CAPITALS to form a word that fits each gap. There is an example (0).",
+      "passage": "At the first meeting of the debate club, students were nervous about speaking in public. The teacher explained that a (0) {{0}} understanding of respect mattered more than winning. She explained that a proposal should be discussed fairly before its (17) {{17}} or rejection by the club.\n\nAs the group practised, members learned to check the (18) {{18}} of statistics before quoting them. They also prepared (19) {{19}} questions to help speakers develop their ideas. During one debate, a serious (20) {{20}} arose over whether the school should limit mobile phone use.\n\nAn (21) {{21}} student argued that every pupil should have an opportunity to lead a discussion. She encouraged classmates to submit (22) {{22}} for the role of chairperson. The teacher reminded everyone that mocking an opponent would be (23) {{23}} behaviour and would result in a warning.\n\nBefore the first public debate, the club obtained the school's (24) {{24}} to invite parents. The event went smoothly, largely because the students had learned to challenge ideas without attacking one another.",
+      "example": {
+        "number": 0,
+        "base_word": "BASE",
+        "answer": "BASIC"
+      },
+      "items": [
+        {
+          "number": 17,
+          "base_word": "ACCEPT",
+          "answer": "ACCEPTANCE",
+          "word_class": "noun",
+          "formation_path": "ACCEPT → ACCEPTANCE",
+          "explanation": "ACCEPT → ACCEPTANCE. the acceptance of + noun: danh từ chỉ việc chấp nhận. Trong ngữ cảnh: “She explained that a proposal should be discussed fairly before its acceptance or rejection by the club.” Lưu ý: Danh từ chỉ sự chấp nhận; tránh ACCEPT (động từ) và ACCEPTABLE (tính từ).",
+          "qc_flags": [],
+          "context_sentence": "She explained that a proposal should be discussed fairly before its acceptance or rejection by the club.",
+          "common_errors": "Danh từ chỉ sự chấp nhận; lưu ý hậu tố/tiền tố, nghĩa phủ định và số ít/số nhiều",
+          "teacher_explanation_vi": "Đáp án ACCEPTANCE (noun). the acceptance of + noun: danh từ chỉ việc chấp nhận. Nghĩa trong bài: sự chấp nhận. Không chọn nguyên từ gốc ACCEPT vì sai từ loại, hình thái hoặc cấu trúc ở vị trí này."
+        },
+        {
+          "number": 18,
+          "base_word": "ACCURATE",
+          "answer": "ACCURACY",
+          "word_class": "noun",
+          "formation_path": "ACCURATE → ACCURACY",
+          "explanation": "ACCURATE → ACCURACY. check the accuracy of: danh từ không đếm được. Trong ngữ cảnh: “As the group practised, members learned to check the accuracy of statistics before quoting them.” Lưu ý: Danh từ không đếm được chỉ độ chính xác; phân biệt ACCURATE (tính từ).",
+          "qc_flags": [],
+          "context_sentence": "As the group practised, members learned to check the accuracy of statistics before quoting them.",
+          "common_errors": "Danh từ không đếm được chỉ độ chính xác; lưu ý hậu tố/tiền tố, nghĩa phủ định và số ít/số nhiều",
+          "teacher_explanation_vi": "Đáp án ACCURACY (noun). check the accuracy of: danh từ không đếm được. Nghĩa trong bài: độ chính xác. Không chọn nguyên từ gốc ACCURATE vì sai từ loại, hình thái hoặc cấu trúc ở vị trí này."
+        },
+        {
+          "number": 19,
+          "base_word": "ADD",
+          "answer": "ADDITIONAL",
+          "word_class": "adjective",
+          "formation_path": "ADD → ADDITIONAL",
+          "explanation": "ADD → ADDITIONAL. an additional + singular noun: tính từ bổ nghĩa danh từ. Trong ngữ cảnh: “They also prepared additional questions to help speakers develop their ideas.” Lưu ý: Tính từ đứng trước danh từ số nhiều; phân biệt ADDITION (danh từ).",
+          "qc_flags": [],
+          "context_sentence": "They also prepared additional questions to help speakers develop their ideas.",
+          "common_errors": "Tính từ đứng trước danh từ số nhiều; lưu ý hậu tố/tiền tố, nghĩa phủ định và số ít/số nhiều",
+          "teacher_explanation_vi": "Đáp án ADDITIONAL (adjective). an additional + singular noun: tính từ bổ nghĩa danh từ. Nghĩa trong bài: bổ sung. Không chọn nguyên từ gốc ADD vì sai từ loại, hình thái hoặc cấu trúc ở vị trí này."
+        },
+        {
+          "number": 20,
+          "base_word": "AGREE",
+          "answer": "DISAGREEMENT",
+          "word_class": "noun",
+          "formation_path": "AGREE → DISAGREEMENT",
+          "explanation": "AGREE → DISAGREEMENT. disagreement about/over: bất đồng giữa các ý kiến. Trong ngữ cảnh: “During one debate, a serious disagreement arose over whether the school should limit mobile phone use.” Lưu ý: Danh từ diễn tả bất đồng ý kiến; ngữ cảnh hai phương án trái nhau làm rõ tiền tố dis-.",
+          "qc_flags": [],
+          "context_sentence": "During one debate, a serious disagreement arose over whether the school should limit mobile phone use.",
+          "common_errors": "Danh từ diễn tả bất đồng ý kiến; lưu ý hậu tố/tiền tố, nghĩa phủ định và số ít/số nhiều",
+          "teacher_explanation_vi": "Đáp án DISAGREEMENT (noun). disagreement about/over: bất đồng giữa các ý kiến. Nghĩa trong bài: sự đồng thuận hoặc bất đồng. Không chọn nguyên từ gốc AGREE vì sai từ loại, hình thái hoặc cấu trúc ở vị trí này."
+        },
+        {
+          "number": 21,
+          "base_word": "AMBITION",
+          "answer": "AMBITIOUS",
+          "word_class": "adjective",
+          "formation_path": "AMBITION → AMBITIOUS",
+          "explanation": "AMBITION → AMBITIOUS. an ambitious + noun: tính từ chỉ mục tiêu lớn. Trong ngữ cảnh: “An ambitious student argued that every pupil should have an opportunity to lead a discussion.” Lưu ý: Tính từ mô tả kế hoạch hoặc người có mục tiêu lớn; phân biệt AMBITION.",
+          "qc_flags": [],
+          "context_sentence": "An ambitious student argued that every pupil should have an opportunity to lead a discussion.",
+          "common_errors": "Tính từ mô tả kế hoạch hoặc người có mục tiêu lớn; lưu ý hậu tố/tiền tố, nghĩa phủ định và số ít/số nhiều",
+          "teacher_explanation_vi": "Đáp án AMBITIOUS (adjective). an ambitious + noun: tính từ chỉ mục tiêu lớn. Nghĩa trong bài: tham vọng. Không chọn nguyên từ gốc AMBITION vì sai từ loại, hình thái hoặc cấu trúc ở vị trí này."
+        },
+        {
+          "number": 22,
+          "base_word": "APPLY",
+          "answer": "APPLICATIONS",
+          "word_class": "noun",
+          "formation_path": "APPLY → APPLICATIONS",
+          "explanation": "APPLY → APPLICATIONS. submit applications: danh từ số nhiều. Trong ngữ cảnh: “She encouraged classmates to submit applications for the role of chairperson.” Lưu ý: Danh từ số nhiều vì diễn tả nhiều đơn đăng ký; lưu ý đổi -y thành -ication.",
+          "qc_flags": [],
+          "context_sentence": "She encouraged classmates to submit applications for the role of chairperson.",
+          "common_errors": "Danh từ số nhiều vì diễn tả nhiều đơn đăng ký; lưu ý hậu tố/tiền tố, nghĩa phủ định và số ít/số nhiều",
+          "teacher_explanation_vi": "Đáp án APPLICATIONS (noun). submit applications: danh từ số nhiều. Nghĩa trong bài: đơn đăng ký. Không chọn nguyên từ gốc APPLY vì sai từ loại, hình thái hoặc cấu trúc ở vị trí này."
+        },
+        {
+          "number": 23,
+          "base_word": "APPROPRIATE",
+          "answer": "INAPPROPRIATE",
+          "word_class": "adjective",
+          "formation_path": "APPROPRIATE → INAPPROPRIATE",
+          "explanation": "APPROPRIATE → INAPPROPRIATE. inappropriate for: tính từ phủ định, không phù hợp. Trong ngữ cảnh: “The teacher reminded everyone that mocking an opponent would be inappropriate behaviour and would result in a warning.” Lưu ý: Tính từ mang nghĩa không phù hợp; ý nghĩa tiêu cực từ ngữ cảnh, không chọn APPROPRIATE.",
+          "qc_flags": [
+            "INAPPROPRIATE not APPROPRIATE: mocking debate opponent."
+          ],
+          "context_sentence": "The teacher reminded everyone that mocking an opponent would be inappropriate behaviour and would result in a warning.",
+          "common_errors": "Tính từ mang nghĩa không phù hợp; lưu ý hậu tố/tiền tố, nghĩa phủ định và số ít/số nhiều",
+          "teacher_explanation_vi": "Đáp án INAPPROPRIATE (adjective). inappropriate for: tính từ phủ định, không phù hợp. Nghĩa trong bài: mức độ phù hợp. Không chọn nguyên từ gốc APPROPRIATE vì sai từ loại, hình thái hoặc cấu trúc ở vị trí này."
+        },
+        {
+          "number": 24,
+          "base_word": "APPROVE",
+          "answer": "APPROVAL",
+          "word_class": "noun",
+          "formation_path": "APPROVE → APPROVAL",
+          "explanation": "APPROVE → APPROVAL. receive/obtain approval: danh từ không đếm được. Trong ngữ cảnh: “Before the first public debate, the club obtained the school's approval to invite parents.” Lưu ý: Danh từ không đếm được sau official / possessive; APPROVE là động từ.",
+          "qc_flags": [],
+          "context_sentence": "Before the first public debate, the club obtained the school's approval to invite parents.",
+          "common_errors": "Danh từ không đếm được sau official / possessive; lưu ý hậu tố/tiền tố, nghĩa phủ định và số ít/số nhiều",
+          "teacher_explanation_vi": "Đáp án APPROVAL (noun). receive/obtain approval: danh từ không đếm được. Nghĩa trong bài: sự phê duyệt. Không chọn nguyên từ gốc APPROVE vì sai từ loại, hình thái hoặc cấu trúc ở vị trí này."
+        }
+      ],
+      "qc_status": "teacher_explanation_checked_pending_signoff"
+    },
+    {
+      "id": "tier3-practice07",
+      "tier": 3,
+      "practice": 7,
+      "title": "Reviving the Town Market",
+      "topic": "Business & Community",
+      "status": "qc_revised_pending_teacher_approval",
+      "instructions": "For questions 17–24, read the text and use the word in CAPITALS to form a word that fits each gap. There is an example (0).",
+      "passage": "After securing official (0) {{0}} for the project, the council focused on the old town market, where visitor numbers had fallen. The council decided to hold a weekend event that would bring residents and local businesses together. Organisers first made (17) {{17}} for stalls, music and a children's play area.\n\nLocal students offered their (18) {{18}} by creating signs and helping traders set up. A competition for the most (19) {{19}} stall encouraged sellers to think creatively about their displays. Meanwhile, posters increased (20) {{20}} of the market among young families.\n\nThe organisers kept the programme (21) {{21}} so that visitors could easily understand what was available. At the (22) {{22}} of the event, only a few shoppers arrived, and the traders feared another disappointing day.\n\nBy lunchtime, however, the square was crowded. For traders who had spent months serving almost no customers, the crowded market seemed almost (23) {{23}}. The clear (24) {{24}} of bringing people together convinced the council to support a monthly market. Traders agreed to help organise the next one.",
+      "example": {
+        "number": 0,
+        "base_word": "APPROVE",
+        "answer": "APPROVAL"
+      },
+      "items": [
+        {
+          "number": 17,
+          "base_word": "ARRANGE",
+          "answer": "ARRANGEMENTS",
+          "word_class": "noun",
+          "formation_path": "ARRANGE → ARRANGEMENTS",
+          "explanation": "ARRANGE → ARRANGEMENTS. make/further arrangements: danh từ số nhiều. Trong ngữ cảnh: “Organisers first made arrangements for stalls, music and a children's play area.” Lưu ý: Danh từ số nhiều trong cấu trúc make arrangements for.",
+          "qc_flags": [],
+          "context_sentence": "Organisers first made arrangements for stalls, music and a children's play area.",
+          "common_errors": "Danh từ số nhiều trong cấu trúc make arrangements for.; lưu ý hậu tố/tiền tố, nghĩa phủ định và số ít/số nhiều",
+          "teacher_explanation_vi": "Đáp án ARRANGEMENTS (noun). make/further arrangements: danh từ số nhiều. Nghĩa trong bài: sự sắp xếp. Không chọn nguyên từ gốc ARRANGE vì sai từ loại, hình thái hoặc cấu trúc ở vị trí này."
+        },
+        {
+          "number": 18,
+          "base_word": "ASSIST",
+          "answer": "ASSISTANCE",
+          "word_class": "noun",
+          "formation_path": "ASSIST → ASSISTANCE",
+          "explanation": "ASSIST → ASSISTANCE. offer/provide assistance: danh từ không đếm được. Trong ngữ cảnh: “Local students offered their assistance by creating signs and helping traders set up.” Lưu ý: Danh từ không đếm được trong offer/give/provide assistance.",
+          "qc_flags": [],
+          "context_sentence": "Local students offered their assistance by creating signs and helping traders set up.",
+          "common_errors": "Danh từ không đếm được trong offer/give/provide assistance.; lưu ý hậu tố/tiền tố, nghĩa phủ định và số ít/số nhiều",
+          "teacher_explanation_vi": "Đáp án ASSISTANCE (noun). offer/provide assistance: danh từ không đếm được. Nghĩa trong bài: sự hỗ trợ. Không chọn nguyên từ gốc ASSIST vì sai từ loại, hình thái hoặc cấu trúc ở vị trí này."
+        },
+        {
+          "number": 19,
+          "base_word": "ATTRACT",
+          "answer": "ATTRACTIVE",
+          "word_class": "adjective",
+          "formation_path": "ATTRACT → ATTRACTIVE",
+          "explanation": "ATTRACT → ATTRACTIVE. attractive to: tính từ hấp dẫn. Trong ngữ cảnh: “A competition for the most attractive stall encouraged sellers to think creatively about their displays.” Lưu ý: Tính từ chỉ sức thu hút; sau more hoặc đứng trước danh từ.",
+          "qc_flags": [],
+          "context_sentence": "A competition for the most attractive stall encouraged sellers to think creatively about their displays.",
+          "common_errors": "Tính từ chỉ sức thu hút; lưu ý hậu tố/tiền tố, nghĩa phủ định và số ít/số nhiều",
+          "teacher_explanation_vi": "Đáp án ATTRACTIVE (adjective). attractive to: tính từ hấp dẫn. Nghĩa trong bài: sự thu hút. Không chọn nguyên từ gốc ATTRACT vì sai từ loại, hình thái hoặc cấu trúc ở vị trí này."
+        },
+        {
+          "number": 20,
+          "base_word": "AWARE",
+          "answer": "AWARENESS",
+          "word_class": "noun",
+          "formation_path": "AWARE → AWARENESS",
+          "explanation": "AWARE → AWARENESS. raise/increase awareness of: danh từ trừu tượng. Trong ngữ cảnh: “Meanwhile, posters increased awareness of the market among young families.” Lưu ý: Danh từ không đếm được trong raise/increase awareness of.",
+          "qc_flags": [],
+          "context_sentence": "Meanwhile, posters increased awareness of the market among young families.",
+          "common_errors": "Danh từ không đếm được trong raise/increase awareness of.; lưu ý hậu tố/tiền tố, nghĩa phủ định và số ít/số nhiều",
+          "teacher_explanation_vi": "Đáp án AWARENESS (noun). raise/increase awareness of: danh từ trừu tượng. Nghĩa trong bài: nhận thức. Không chọn nguyên từ gốc AWARE vì sai từ loại, hình thái hoặc cấu trúc ở vị trí này."
+        },
+        {
+          "number": 21,
+          "base_word": "BASE",
+          "answer": "BASIC",
+          "word_class": "adjective",
+          "formation_path": "BASE → BASIC",
+          "explanation": "BASE → BASIC. basic + noun: tính từ. Trong ngữ cảnh: “The organisers kept the programme basic so that visitors could easily understand what was available.” Lưu ý: Tính từ chỉ mức cơ bản; đứng trước introduction/plan/costs.",
+          "qc_flags": [],
+          "context_sentence": "The organisers kept the programme basic so that visitors could easily understand what was available.",
+          "common_errors": "Tính từ chỉ mức cơ bản; lưu ý hậu tố/tiền tố, nghĩa phủ định và số ít/số nhiều",
+          "teacher_explanation_vi": "Đáp án BASIC (adjective). basic + noun: tính từ. Nghĩa trong bài: cơ bản. Không chọn nguyên từ gốc BASE vì sai từ loại, hình thái hoặc cấu trúc ở vị trí này."
+        },
+        {
+          "number": 22,
+          "base_word": "BEGIN",
+          "answer": "BEGINNING",
+          "word_class": "noun",
+          "formation_path": "BEGIN → BEGINNING",
+          "explanation": "BEGIN → BEGINNING. at the beginning of: danh từ. Trong ngữ cảnh: “At the beginning of the event, only a few shoppers arrived, and the traders feared another disappointing day.” Lưu ý: Danh từ trong cụm at the beginning of.",
+          "qc_flags": [],
+          "context_sentence": "At the beginning of the event, only a few shoppers arrived, and the traders feared another disappointing day.",
+          "common_errors": "Danh từ trong cụm at the beginning of.; lưu ý hậu tố/tiền tố, nghĩa phủ định và số ít/số nhiều",
+          "teacher_explanation_vi": "Đáp án BEGINNING (noun). at the beginning of: danh từ. Nghĩa trong bài: khởi đầu hoặc người mới. Không chọn nguyên từ gốc BEGIN vì sai từ loại, hình thái hoặc cấu trúc ở vị trí này."
+        },
+        {
+          "number": 23,
+          "base_word": "BELIEVE",
+          "answer": "UNBELIEVABLE",
+          "word_class": "adjective",
+          "formation_path": "BELIEVE → UNBELIEVABLE",
+          "explanation": "BELIEVE → UNBELIEVABLE. almost unbelievable: quá khó tin; lưu ý polarity của văn bản. Trong ngữ cảnh: “For traders who had spent months serving almost no customers, the crowded market seemed almost unbelievable.” Lưu ý: Tính từ chỉ điều rất khó tin; ngữ cảnh số lượng khách quá mức dự tính / quy mô việc lớn.",
+          "qc_flags": [
+            "UNBELIEVABLE (not BELIEVABLE) supported by near-empty market before crowds."
+          ],
+          "context_sentence": "For traders who had spent months serving almost no customers, the crowded market seemed almost unbelievable.",
+          "common_errors": "Tính từ chỉ điều rất khó tin; lưu ý hậu tố/tiền tố, nghĩa phủ định và số ít/số nhiều",
+          "teacher_explanation_vi": "Đáp án UNBELIEVABLE (adjective). almost unbelievable: quá khó tin; lưu ý polarity của văn bản. Nghĩa trong bài: độ khó tin. Không chọn nguyên từ gốc BELIEVE vì sai từ loại, hình thái hoặc cấu trúc ở vị trí này."
+        },
+        {
+          "number": 24,
+          "base_word": "BENEFIT",
+          "answer": "BENEFITS",
+          "word_class": "noun",
+          "formation_path": "BENEFIT → BENEFITS",
+          "explanation": "BENEFIT → BENEFITS. the benefits of: danh từ số nhiều. Trong ngữ cảnh: “The clear benefits of bringing people together convinced the council to support a monthly market.” Lưu ý: Danh từ số nhiều theo the benefits of; phân biệt BENEFICIAL (tính từ).",
+          "qc_flags": [],
+          "context_sentence": "The clear benefits of bringing people together convinced the council to support a monthly market.",
+          "common_errors": "Danh từ số nhiều theo the benefits of; lưu ý hậu tố/tiền tố, nghĩa phủ định và số ít/số nhiều",
+          "teacher_explanation_vi": "Đáp án BENEFITS (noun). the benefits of: danh từ số nhiều. Nghĩa trong bài: lợi ích. Không chọn nguyên từ gốc BENEFIT vì sai từ loại, hình thái hoặc cấu trúc ở vị trí này."
+        }
+      ],
+      "qc_status": "teacher_explanation_checked_pending_signoff"
+    },
+    {
+      "id": "tier3-practice08",
+      "tier": 3,
+      "practice": 8,
+      "title": "Restoring an Old Footpath",
+      "topic": "Environment & Volunteering",
+      "status": "qc_revised_pending_teacher_approval",
+      "instructions": "For questions 17–24, read the text and use the word in CAPITALS to form a word that fits each gap. There is an example (0).",
+      "passage": "A volunteer group made a (0) {{0}} plan to restore a footpath through the hills that had become difficult to use. The work was physically demanding, so the organisers planned frequent breaks and asked everyone to bring enough drinking water.\n\nAfter carrying stones uphill, several volunteers were (17) {{17}} and needed to rest. A conservation officer explained the special (18) {{18}} of the landscape, including plants that grew only on rocky slopes. The project required a (19) {{19}} of practical knowledge and patience.\n\nVolunteers signed up for regular sessions to demonstrate their (20) {{20}} to the project. When the route had to change to avoid a protected area, everyone showed (21) {{21}} of the new plan.\n\nThe team relied on the (22) {{22}} of measurements to make sure that the steps were safe. One (23) {{23}} to the project was an information board explaining the area's wildlife. The team reached (24) {{24}} on a schedule for future maintenance. At the opening walk, residents thanked the volunteers for their work.",
+      "example": {
+        "number": 0,
+        "base_word": "BASE",
+        "answer": "BASIC"
+      },
+      "items": [
+        {
+          "number": 17,
+          "base_word": "BREATH",
+          "answer": "BREATHLESS",
+          "word_class": "adjective",
+          "formation_path": "BREATH → BREATHLESS",
+          "explanation": "BREATH → BREATHLESS. be/arrive breathless after physical effort: tính từ. Trong ngữ cảnh: “After carrying stones uphill, several volunteers were breathless and needed to rest.” Lưu ý: Tính từ miêu tả tình trạng hụt hơi sau vận động; phân biệt BREATHE (động từ).",
+          "qc_flags": [],
+          "context_sentence": "After carrying stones uphill, several volunteers were breathless and needed to rest.",
+          "common_errors": "Tính từ miêu tả tình trạng hụt hơi sau vận động; lưu ý hậu tố/tiền tố, nghĩa phủ định và số ít/số nhiều",
+          "teacher_explanation_vi": "Đáp án BREATHLESS (adjective). be/arrive breathless after physical effort: tính từ. Nghĩa trong bài: trạng thái hụt hơi. Không chọn nguyên từ gốc BREATH vì sai từ loại, hình thái hoặc cấu trúc ở vị trí này."
+        },
+        {
+          "number": 18,
+          "base_word": "CHARACTER",
+          "answer": "CHARACTERISTICS",
+          "word_class": "noun",
+          "formation_path": "CHARACTER → CHARACTERISTICS",
+          "explanation": "CHARACTER → CHARACTERISTICS. characteristics of: danh từ số nhiều. Trong ngữ cảnh: “A conservation officer explained the special characteristics of the landscape, including plants that grew only on rocky slopes.” Lưu ý: Danh từ số nhiều chỉ các đặc điểm riêng; phân biệt CHARACTER (nhân vật / tính cách).",
+          "qc_flags": [],
+          "context_sentence": "A conservation officer explained the special characteristics of the landscape, including plants that grew only on rocky slopes.",
+          "common_errors": "Danh từ số nhiều chỉ các đặc điểm riêng; lưu ý hậu tố/tiền tố, nghĩa phủ định và số ít/số nhiều",
+          "teacher_explanation_vi": "Đáp án CHARACTERISTICS (noun). characteristics of: danh từ số nhiều. Nghĩa trong bài: đặc điểm. Không chọn nguyên từ gốc CHARACTER vì sai từ loại, hình thái hoặc cấu trúc ở vị trí này."
+        },
+        {
+          "number": 19,
+          "base_word": "COMBINE",
+          "answer": "COMBINATION",
+          "word_class": "noun",
+          "formation_path": "COMBINE → COMBINATION",
+          "explanation": "COMBINE → COMBINATION. a combination of: danh từ. Trong ngữ cảnh: “The project required a combination of practical knowledge and patience.” Lưu ý: Danh từ trong a combination of A and B.",
+          "qc_flags": [],
+          "context_sentence": "The project required a combination of practical knowledge and patience.",
+          "common_errors": "Danh từ trong a combination of A and B.; lưu ý hậu tố/tiền tố, nghĩa phủ định và số ít/số nhiều",
+          "teacher_explanation_vi": "Đáp án COMBINATION (noun). a combination of: danh từ. Nghĩa trong bài: sự kết hợp. Không chọn nguyên từ gốc COMBINE vì sai từ loại, hình thái hoặc cấu trúc ở vị trí này."
+        },
+        {
+          "number": 20,
+          "base_word": "COMMIT",
+          "answer": "COMMITMENT",
+          "word_class": "noun",
+          "formation_path": "COMMIT → COMMITMENT",
+          "explanation": "COMMIT → COMMITMENT. commitment to + noun/-ing: danh từ không đếm được. Trong ngữ cảnh: “Volunteers signed up for regular sessions to demonstrate their commitment to the project.” Lưu ý: Danh từ trong commitment to + V-ing / N.",
+          "qc_flags": [],
+          "context_sentence": "Volunteers signed up for regular sessions to demonstrate their commitment to the project.",
+          "common_errors": "Danh từ trong commitment to + V-ing / N.; lưu ý hậu tố/tiền tố, nghĩa phủ định và số ít/số nhiều",
+          "teacher_explanation_vi": "Đáp án COMMITMENT (noun). commitment to + noun/-ing: danh từ không đếm được. Nghĩa trong bài: sự cam kết. Không chọn nguyên từ gốc COMMIT vì sai từ loại, hình thái hoặc cấu trúc ở vị trí này."
+        },
+        {
+          "number": 21,
+          "base_word": "ACCEPT",
+          "answer": "ACCEPTANCE",
+          "word_class": "noun",
+          "formation_path": "ACCEPT → ACCEPTANCE",
+          "explanation": "ACCEPT → ACCEPTANCE. the acceptance of + noun: danh từ chỉ việc chấp nhận. Trong ngữ cảnh: “When the route had to change to avoid a protected area, everyone showed acceptance of the new plan.” Lưu ý: Danh từ chỉ sự chấp nhận; tránh ACCEPT (động từ) và ACCEPTABLE (tính từ).",
+          "qc_flags": [],
+          "context_sentence": "When the route had to change to avoid a protected area, everyone showed acceptance of the new plan.",
+          "common_errors": "Danh từ chỉ sự chấp nhận; lưu ý hậu tố/tiền tố, nghĩa phủ định và số ít/số nhiều",
+          "teacher_explanation_vi": "Đáp án ACCEPTANCE (noun). the acceptance of + noun: danh từ chỉ việc chấp nhận. Nghĩa trong bài: sự chấp nhận. Không chọn nguyên từ gốc ACCEPT vì sai từ loại, hình thái hoặc cấu trúc ở vị trí này."
+        },
+        {
+          "number": 22,
+          "base_word": "ACCURATE",
+          "answer": "ACCURACY",
+          "word_class": "noun",
+          "formation_path": "ACCURATE → ACCURACY",
+          "explanation": "ACCURATE → ACCURACY. check the accuracy of: danh từ không đếm được. Trong ngữ cảnh: “The team relied on the accuracy of measurements to make sure that the steps were safe.” Lưu ý: Danh từ không đếm được chỉ độ chính xác; phân biệt ACCURATE (tính từ).",
+          "qc_flags": [],
+          "context_sentence": "The team relied on the accuracy of measurements to make sure that the steps were safe.",
+          "common_errors": "Danh từ không đếm được chỉ độ chính xác; lưu ý hậu tố/tiền tố, nghĩa phủ định và số ít/số nhiều",
+          "teacher_explanation_vi": "Đáp án ACCURACY (noun). check the accuracy of: danh từ không đếm được. Nghĩa trong bài: độ chính xác. Không chọn nguyên từ gốc ACCURATE vì sai từ loại, hình thái hoặc cấu trúc ở vị trí này."
+        },
+        {
+          "number": 23,
+          "base_word": "ADD",
+          "answer": "ADDITION",
+          "word_class": "noun",
+          "formation_path": "ADD → ADDITION",
+          "explanation": "ADD → ADDITION. an addition to: danh từ đi sau mạo từ. Trong ngữ cảnh: “One addition to the project was an information board explaining the area's wildlife.” Lưu ý: Danh từ trong an addition to + noun / phrase.",
+          "qc_flags": [],
+          "context_sentence": "One addition to the project was an information board explaining the area's wildlife.",
+          "common_errors": "Danh từ trong an addition to + noun / phrase.; lưu ý hậu tố/tiền tố, nghĩa phủ định và số ít/số nhiều",
+          "teacher_explanation_vi": "Đáp án ADDITION (noun). an addition to: danh từ đi sau mạo từ. Nghĩa trong bài: bổ sung. Không chọn nguyên từ gốc ADD vì sai từ loại, hình thái hoặc cấu trúc ở vị trí này."
+        },
+        {
+          "number": 24,
+          "base_word": "AGREE",
+          "answer": "AGREEMENT",
+          "word_class": "noun",
+          "formation_path": "AGREE → AGREEMENT",
+          "explanation": "AGREE → AGREEMENT. agreement that/on: thống nhất ý kiến. Trong ngữ cảnh: “The team reached agreement on a schedule for future maintenance.” Lưu ý: Danh từ trong reach agreement on / agreement that.",
+          "qc_flags": [],
+          "context_sentence": "The team reached agreement on a schedule for future maintenance.",
+          "common_errors": "Danh từ trong reach agreement on / agreement that.; lưu ý hậu tố/tiền tố, nghĩa phủ định và số ít/số nhiều",
+          "teacher_explanation_vi": "Đáp án AGREEMENT (noun). agreement that/on: thống nhất ý kiến. Nghĩa trong bài: sự đồng thuận hoặc bất đồng. Không chọn nguyên từ gốc AGREE vì sai từ loại, hình thái hoặc cấu trúc ở vị trí này."
+        }
+      ],
+      "qc_status": "teacher_explanation_checked_pending_signoff"
+    },
+    {
+      "id": "tier3-practice09",
+      "tier": 3,
+      "practice": 9,
+      "title": "A Student Careers Fair",
+      "topic": "Education & Future",
+      "status": "qc_revised_pending_teacher_approval",
+      "instructions": "For questions 17–24, read the text and use the word in CAPITALS to form a word that fits each gap. There is an example (0).",
+      "passage": "At the (0) {{0}} of the term, a group of older pupils planned a careers fair for younger students. They wanted visitors to meet people working in different fields and ask questions about the skills each job required.\n\nThe organisers invited several (17) {{17}} young professionals who had built successful businesses. Students then submitted (18) {{18}} to attend small workshops with their preferred speakers. The team rejected several sessions as (19) {{19}} for pupils aged twelve to fifteen because they assumed specialist university knowledge.\n\nAfter the principal gave her (20) {{20}}, the organisers worked on the timetable. They (21) {{21}} several sessions when two speakers became unavailable. Teachers provided (22) {{22}} with registration, but students managed the information desk themselves.\n\nThe final programme included an (23) {{23}} display about careers in technology and the arts. It also raised (24) {{24}} of less familiar jobs, such as environmental surveying. By the end of the fair, many pupils felt more confident about exploring their interests before making major decisions.",
+      "example": {
+        "number": 0,
+        "base_word": "BEGIN",
+        "answer": "BEGINNING"
+      },
+      "items": [
+        {
+          "number": 17,
+          "base_word": "AMBITION",
+          "answer": "AMBITIOUS",
+          "word_class": "adjective",
+          "formation_path": "AMBITION → AMBITIOUS",
+          "explanation": "AMBITION → AMBITIOUS. an ambitious + noun: tính từ chỉ mục tiêu lớn. Trong ngữ cảnh: “The organisers invited several ambitious young professionals who had built successful businesses.” Lưu ý: Tính từ mô tả kế hoạch hoặc người có mục tiêu lớn; phân biệt AMBITION.",
+          "qc_flags": [],
+          "context_sentence": "The organisers invited several ambitious young professionals who had built successful businesses.",
+          "common_errors": "Tính từ mô tả kế hoạch hoặc người có mục tiêu lớn; lưu ý hậu tố/tiền tố, nghĩa phủ định và số ít/số nhiều",
+          "teacher_explanation_vi": "Đáp án AMBITIOUS (adjective). an ambitious + noun: tính từ chỉ mục tiêu lớn. Nghĩa trong bài: tham vọng. Không chọn nguyên từ gốc AMBITION vì sai từ loại, hình thái hoặc cấu trúc ở vị trí này."
+        },
+        {
+          "number": 18,
+          "base_word": "APPLY",
+          "answer": "APPLICATIONS",
+          "word_class": "noun",
+          "formation_path": "APPLY → APPLICATIONS",
+          "explanation": "APPLY → APPLICATIONS. submit applications: danh từ số nhiều. Trong ngữ cảnh: “Students then submitted applications to attend small workshops with their preferred speakers.” Lưu ý: Danh từ số nhiều vì diễn tả nhiều đơn đăng ký; lưu ý đổi -y thành -ication.",
+          "qc_flags": [],
+          "context_sentence": "Students then submitted applications to attend small workshops with their preferred speakers.",
+          "common_errors": "Danh từ số nhiều vì diễn tả nhiều đơn đăng ký; lưu ý hậu tố/tiền tố, nghĩa phủ định và số ít/số nhiều",
+          "teacher_explanation_vi": "Đáp án APPLICATIONS (noun). submit applications: danh từ số nhiều. Nghĩa trong bài: đơn đăng ký. Không chọn nguyên từ gốc APPLY vì sai từ loại, hình thái hoặc cấu trúc ở vị trí này."
+        },
+        {
+          "number": 19,
+          "base_word": "APPROPRIATE",
+          "answer": "INAPPROPRIATE",
+          "word_class": "adjective",
+          "formation_path": "APPROPRIATE → INAPPROPRIATE",
+          "explanation": "APPROPRIATE → INAPPROPRIATE. inappropriate for: tính từ phủ định, không phù hợp. Trong ngữ cảnh: “The team rejected several sessions as inappropriate for pupils aged twelve to fifteen because they assumed specialist university knowledge.” Lưu ý: Tính từ mang nghĩa không phù hợp; ý nghĩa tiêu cực từ ngữ cảnh, không chọn APPROPRIATE.",
+          "qc_flags": [
+            "INAPPROPRIATE not APPROPRIATE: specialist sessions unsuitable for ages 12–15."
+          ],
+          "context_sentence": "The team rejected several sessions as inappropriate for pupils aged twelve to fifteen because they assumed specialist university knowledge.",
+          "common_errors": "Tính từ mang nghĩa không phù hợp; lưu ý hậu tố/tiền tố, nghĩa phủ định và số ít/số nhiều",
+          "teacher_explanation_vi": "Đáp án INAPPROPRIATE (adjective). inappropriate for: tính từ phủ định, không phù hợp. Nghĩa trong bài: mức độ phù hợp. Không chọn nguyên từ gốc APPROPRIATE vì sai từ loại, hình thái hoặc cấu trúc ở vị trí này."
+        },
+        {
+          "number": 20,
+          "base_word": "APPROVE",
+          "answer": "APPROVAL",
+          "word_class": "noun",
+          "formation_path": "APPROVE → APPROVAL",
+          "explanation": "APPROVE → APPROVAL. receive/obtain approval: danh từ không đếm được. Trong ngữ cảnh: “After the principal gave her approval, the organisers worked on the timetable.” Lưu ý: Danh từ không đếm được sau official / possessive; APPROVE là động từ.",
+          "qc_flags": [],
+          "context_sentence": "After the principal gave her approval, the organisers worked on the timetable.",
+          "common_errors": "Danh từ không đếm được sau official / possessive; lưu ý hậu tố/tiền tố, nghĩa phủ định và số ít/số nhiều",
+          "teacher_explanation_vi": "Đáp án APPROVAL (noun). receive/obtain approval: danh từ không đếm được. Nghĩa trong bài: sự phê duyệt. Không chọn nguyên từ gốc APPROVE vì sai từ loại, hình thái hoặc cấu trúc ở vị trí này."
+        },
+        {
+          "number": 21,
+          "base_word": "ARRANGE",
+          "answer": "REARRANGED",
+          "word_class": "verb",
+          "formation_path": "ARRANGE → REARRANGED",
+          "explanation": "ARRANGE → REARRANGED. chủ ngữ số nhiều + động từ quá khứ; re- = sắp xếp lại. Trong ngữ cảnh: “They rearranged several sessions when two speakers became unavailable.” Lưu ý: Động từ quá khứ đơn; re- thể hiện sắp xếp lại khi lịch thay đổi.",
+          "qc_flags": [],
+          "context_sentence": "They rearranged several sessions when two speakers became unavailable.",
+          "common_errors": "Động từ quá khứ đơn; lưu ý hậu tố/tiền tố, nghĩa phủ định và số ít/số nhiều",
+          "teacher_explanation_vi": "Đáp án REARRANGED (verb). chủ ngữ số nhiều + động từ quá khứ; re- = sắp xếp lại. Nghĩa trong bài: sự sắp xếp. Không chọn nguyên từ gốc ARRANGE vì sai từ loại, hình thái hoặc cấu trúc ở vị trí này."
+        },
+        {
+          "number": 22,
+          "base_word": "ASSIST",
+          "answer": "ASSISTANCE",
+          "word_class": "noun",
+          "formation_path": "ASSIST → ASSISTANCE",
+          "explanation": "ASSIST → ASSISTANCE. offer/provide assistance: danh từ không đếm được. Trong ngữ cảnh: “Teachers provided assistance with registration, but students managed the information desk themselves.” Lưu ý: Danh từ không đếm được trong offer/give/provide assistance.",
+          "qc_flags": [],
+          "context_sentence": "Teachers provided assistance with registration, but students managed the information desk themselves.",
+          "common_errors": "Danh từ không đếm được trong offer/give/provide assistance.; lưu ý hậu tố/tiền tố, nghĩa phủ định và số ít/số nhiều",
+          "teacher_explanation_vi": "Đáp án ASSISTANCE (noun). offer/provide assistance: danh từ không đếm được. Nghĩa trong bài: sự hỗ trợ. Không chọn nguyên từ gốc ASSIST vì sai từ loại, hình thái hoặc cấu trúc ở vị trí này."
+        },
+        {
+          "number": 23,
+          "base_word": "ATTRACT",
+          "answer": "ATTRACTIVE",
+          "word_class": "adjective",
+          "formation_path": "ATTRACT → ATTRACTIVE",
+          "explanation": "ATTRACT → ATTRACTIVE. attractive to: tính từ hấp dẫn. Trong ngữ cảnh: “The final programme included an attractive display about careers in technology and the arts.” Lưu ý: Tính từ chỉ sức thu hút; sau more hoặc đứng trước danh từ.",
+          "qc_flags": [],
+          "context_sentence": "The final programme included an attractive display about careers in technology and the arts.",
+          "common_errors": "Tính từ chỉ sức thu hút; lưu ý hậu tố/tiền tố, nghĩa phủ định và số ít/số nhiều",
+          "teacher_explanation_vi": "Đáp án ATTRACTIVE (adjective). attractive to: tính từ hấp dẫn. Nghĩa trong bài: sự thu hút. Không chọn nguyên từ gốc ATTRACT vì sai từ loại, hình thái hoặc cấu trúc ở vị trí này."
+        },
+        {
+          "number": 24,
+          "base_word": "AWARE",
+          "answer": "AWARENESS",
+          "word_class": "noun",
+          "formation_path": "AWARE → AWARENESS",
+          "explanation": "AWARE → AWARENESS. raise/increase awareness of: danh từ trừu tượng. Trong ngữ cảnh: “It also raised awareness of less familiar jobs, such as environmental surveying.” Lưu ý: Danh từ không đếm được trong raise/increase awareness of.",
+          "qc_flags": [],
+          "context_sentence": "It also raised awareness of less familiar jobs, such as environmental surveying.",
+          "common_errors": "Danh từ không đếm được trong raise/increase awareness of.; lưu ý hậu tố/tiền tố, nghĩa phủ định và số ít/số nhiều",
+          "teacher_explanation_vi": "Đáp án AWARENESS (noun). raise/increase awareness of: danh từ trừu tượng. Nghĩa trong bài: nhận thức. Không chọn nguyên từ gốc AWARE vì sai từ loại, hình thái hoặc cấu trúc ở vị trí này."
+        }
+      ],
+      "qc_status": "teacher_explanation_checked_pending_signoff"
+    },
+    {
+      "id": "tier3-practice10",
+      "tier": 3,
+      "practice": 10,
+      "title": "Preparing for a Charity Concert",
+      "topic": "Arts & Social Responsibility",
+      "status": "qc_revised_pending_teacher_approval",
+      "instructions": "For questions 17–24, read the text and use the word in CAPITALS to form a word that fits each gap. There is an example (0).",
+      "passage": "A group of teenagers decided to hold a charity concert to raise money for a children's hospital. They wanted the evening to be enjoyable, but they also knew that careful planning was necessary.\n\nThe first (0) {{0}} concerned the venue. The team then discussed (17) {{17}} costs such as printing tickets and hiring lights. A music teacher invited complete (18) {{18}} to join a workshop so that less experienced students could perform confidently. With only four weeks to prepare and no professional organisers, the idea of filling the entire hall seemed almost (19) {{19}}.\n\nAs rehearsals began, however, the volunteers discovered the (20) {{20}} of sharing responsibilities. After carrying equipment up several flights of stairs, some were (21) {{21}} and needed a short rest. Their teacher helped them identify the key (22) {{22}} of an effective concert programme: varied music, clear timing and smooth changes between acts.\n\nThe final concert was a (23) {{23}} of music, short speeches and a student art exhibition. Its success depended on the (24) {{24}} of everyone involved, especially those who continued working after the audience had gone home. The money raised exceeded the original target.",
+      "example": {
+        "number": 0,
+        "base_word": "ARRANGE",
+        "answer": "ARRANGEMENT"
+      },
+      "items": [
+        {
+          "number": 17,
+          "base_word": "BASE",
+          "answer": "BASIC",
+          "word_class": "adjective",
+          "formation_path": "BASE → BASIC",
+          "explanation": "BASE → BASIC. basic + noun: tính từ. Trong ngữ cảnh: “The team then discussed basic costs such as printing tickets and hiring lights.” Lưu ý: Tính từ chỉ mức cơ bản; đứng trước introduction/plan/costs.",
+          "qc_flags": [],
+          "context_sentence": "The team then discussed basic costs such as printing tickets and hiring lights.",
+          "common_errors": "Tính từ chỉ mức cơ bản; lưu ý hậu tố/tiền tố, nghĩa phủ định và số ít/số nhiều",
+          "teacher_explanation_vi": "Đáp án BASIC (adjective). basic + noun: tính từ. Nghĩa trong bài: cơ bản. Không chọn nguyên từ gốc BASE vì sai từ loại, hình thái hoặc cấu trúc ở vị trí này."
+        },
+        {
+          "number": 18,
+          "base_word": "BEGIN",
+          "answer": "BEGINNERS",
+          "word_class": "noun",
+          "formation_path": "BEGIN → BEGINNERS",
+          "explanation": "BEGIN → BEGINNERS. for beginners: danh từ số nhiều chỉ người mới. Trong ngữ cảnh: “A music teacher invited complete beginners to join a workshop so that less experienced students could perform confidently.” Lưu ý: Danh từ đếm được số nhiều, chỉ người mới; khác BEGINNING chỉ thời điểm bắt đầu.",
+          "qc_flags": [],
+          "context_sentence": "A music teacher invited complete beginners to join a workshop so that less experienced students could perform confidently.",
+          "common_errors": "Danh từ đếm được số nhiều, chỉ người mới; lưu ý hậu tố/tiền tố, nghĩa phủ định và số ít/số nhiều",
+          "teacher_explanation_vi": "Đáp án BEGINNERS (noun). for beginners: danh từ số nhiều chỉ người mới. Nghĩa trong bài: khởi đầu hoặc người mới. Không chọn nguyên từ gốc BEGIN vì sai từ loại, hình thái hoặc cấu trúc ở vị trí này."
+        },
+        {
+          "number": 19,
+          "base_word": "BELIEVE",
+          "answer": "UNBELIEVABLE",
+          "word_class": "adjective",
+          "formation_path": "BELIEVE → UNBELIEVABLE",
+          "explanation": "BELIEVE → UNBELIEVABLE. almost unbelievable: quá khó tin; lưu ý polarity của văn bản. Trong ngữ cảnh: “With only four weeks to prepare and no professional organisers, the idea of filling the entire hall seemed almost unbelievable.” Lưu ý: Tính từ chỉ điều rất khó tin; ngữ cảnh số lượng khách quá mức dự tính / quy mô việc lớn.",
+          "qc_flags": [
+            "UNBELIEVABLE (not BELIEVABLE) supported by four-week deadline and no professional support."
+          ],
+          "context_sentence": "With only four weeks to prepare and no professional organisers, the idea of filling the entire hall seemed almost unbelievable.",
+          "common_errors": "Tính từ chỉ điều rất khó tin; lưu ý hậu tố/tiền tố, nghĩa phủ định và số ít/số nhiều",
+          "teacher_explanation_vi": "Đáp án UNBELIEVABLE (adjective). almost unbelievable: quá khó tin; lưu ý polarity của văn bản. Nghĩa trong bài: độ khó tin. Không chọn nguyên từ gốc BELIEVE vì sai từ loại, hình thái hoặc cấu trúc ở vị trí này."
+        },
+        {
+          "number": 20,
+          "base_word": "BENEFIT",
+          "answer": "BENEFITS",
+          "word_class": "noun",
+          "formation_path": "BENEFIT → BENEFITS",
+          "explanation": "BENEFIT → BENEFITS. the benefits of: danh từ số nhiều. Trong ngữ cảnh: “As rehearsals began, however, the volunteers discovered the benefits of sharing responsibilities.” Lưu ý: Danh từ số nhiều theo the benefits of; phân biệt BENEFICIAL (tính từ).",
+          "qc_flags": [],
+          "context_sentence": "As rehearsals began, however, the volunteers discovered the benefits of sharing responsibilities.",
+          "common_errors": "Danh từ số nhiều theo the benefits of; lưu ý hậu tố/tiền tố, nghĩa phủ định và số ít/số nhiều",
+          "teacher_explanation_vi": "Đáp án BENEFITS (noun). the benefits of: danh từ số nhiều. Nghĩa trong bài: lợi ích. Không chọn nguyên từ gốc BENEFIT vì sai từ loại, hình thái hoặc cấu trúc ở vị trí này."
+        },
+        {
+          "number": 21,
+          "base_word": "BREATH",
+          "answer": "BREATHLESS",
+          "word_class": "adjective",
+          "formation_path": "BREATH → BREATHLESS",
+          "explanation": "BREATH → BREATHLESS. be/arrive breathless after physical effort: tính từ. Trong ngữ cảnh: “After carrying equipment up several flights of stairs, some were breathless and needed a short rest.” Lưu ý: Tính từ miêu tả tình trạng hụt hơi sau vận động; phân biệt BREATHE (động từ).",
+          "qc_flags": [],
+          "context_sentence": "After carrying equipment up several flights of stairs, some were breathless and needed a short rest.",
+          "common_errors": "Tính từ miêu tả tình trạng hụt hơi sau vận động; lưu ý hậu tố/tiền tố, nghĩa phủ định và số ít/số nhiều",
+          "teacher_explanation_vi": "Đáp án BREATHLESS (adjective). be/arrive breathless after physical effort: tính từ. Nghĩa trong bài: trạng thái hụt hơi. Không chọn nguyên từ gốc BREATH vì sai từ loại, hình thái hoặc cấu trúc ở vị trí này."
+        },
+        {
+          "number": 22,
+          "base_word": "CHARACTER",
+          "answer": "CHARACTERISTICS",
+          "word_class": "noun",
+          "formation_path": "CHARACTER → CHARACTERISTICS",
+          "explanation": "CHARACTER → CHARACTERISTICS. characteristics of: danh từ số nhiều. Trong ngữ cảnh: “Their teacher helped them identify the key characteristics of an effective concert programme: varied music, clear timing and smooth changes between acts.” Lưu ý: Danh từ số nhiều chỉ các đặc điểm riêng; phân biệt CHARACTER (nhân vật / tính cách).",
+          "qc_flags": [],
+          "context_sentence": "Their teacher helped them identify the key characteristics of an effective concert programme: varied music, clear timing and smooth changes between acts.",
+          "common_errors": "Danh từ số nhiều chỉ các đặc điểm riêng; lưu ý hậu tố/tiền tố, nghĩa phủ định và số ít/số nhiều",
+          "teacher_explanation_vi": "Đáp án CHARACTERISTICS (noun). characteristics of: danh từ số nhiều. Nghĩa trong bài: đặc điểm. Không chọn nguyên từ gốc CHARACTER vì sai từ loại, hình thái hoặc cấu trúc ở vị trí này."
+        },
+        {
+          "number": 23,
+          "base_word": "COMBINE",
+          "answer": "COMBINATION",
+          "word_class": "noun",
+          "formation_path": "COMBINE → COMBINATION",
+          "explanation": "COMBINE → COMBINATION. a combination of: danh từ. Trong ngữ cảnh: “The final concert was a combination of music, short speeches and a student art exhibition.” Lưu ý: Danh từ trong a combination of A and B.",
+          "qc_flags": [],
+          "context_sentence": "The final concert was a combination of music, short speeches and a student art exhibition.",
+          "common_errors": "Danh từ trong a combination of A and B.; lưu ý hậu tố/tiền tố, nghĩa phủ định và số ít/số nhiều",
+          "teacher_explanation_vi": "Đáp án COMBINATION (noun). a combination of: danh từ. Nghĩa trong bài: sự kết hợp. Không chọn nguyên từ gốc COMBINE vì sai từ loại, hình thái hoặc cấu trúc ở vị trí này."
+        },
+        {
+          "number": 24,
+          "base_word": "COMMIT",
+          "answer": "COMMITMENT",
+          "word_class": "noun",
+          "formation_path": "COMMIT → COMMITMENT",
+          "explanation": "COMMIT → COMMITMENT. commitment to + noun/-ing: danh từ không đếm được. Trong ngữ cảnh: “Its success depended on the commitment of everyone involved, especially those who continued working after the audience had gone home.” Lưu ý: Danh từ trong commitment to + V-ing / N.",
+          "qc_flags": [],
+          "context_sentence": "Its success depended on the commitment of everyone involved, especially those who continued working after the audience had gone home.",
+          "common_errors": "Danh từ trong commitment to + V-ing / N.; lưu ý hậu tố/tiền tố, nghĩa phủ định và số ít/số nhiều",
+          "teacher_explanation_vi": "Đáp án COMMITMENT (noun). commitment to + noun/-ing: danh từ không đếm được. Nghĩa trong bài: sự cam kết. Không chọn nguyên từ gốc COMMIT vì sai từ loại, hình thái hoặc cấu trúc ở vị trí này."
+        }
+      ],
+      "qc_status": "teacher_explanation_checked_pending_signoff"
+    }
+  ]
+}
