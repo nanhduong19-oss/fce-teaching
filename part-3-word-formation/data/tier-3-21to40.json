@@ -28,9 +28,9 @@
   ],
   "practices": [
     {
-      "id": "tier3-21to40-practice01",
+      "id": "tier3-21to40-practice11",
       "tier": 3,
-      "practice": 1,
+      "practice": 11,
       "title": "Restoring an Old Theatre",
       "topic": "Arts & Community",
       "status": "qc_revised_pending_teacher_approval",
@@ -142,9 +142,9 @@
       "qc_note": "Passage-level coherence rewrite and answer-in-context editorial check completed; teacher approval pending."
     },
     {
-      "id": "tier3-21to40-practice02",
+      "id": "tier3-21to40-practice12",
       "tier": 3,
-      "practice": 2,
+      "practice": 12,
       "title": "A Wildlife Photography Expedition",
       "topic": "Nature & Discovery",
       "status": "qc_revised_pending_teacher_approval",
@@ -256,9 +256,9 @@
       "qc_note": "Passage-level coherence rewrite and answer-in-context editorial check completed; teacher approval pending."
     },
     {
-      "id": "tier3-21to40-practice03",
+      "id": "tier3-21to40-practice13",
       "tier": 3,
-      "practice": 3,
+      "practice": 13,
       "title": "Launching a Student Business",
       "topic": "School & Enterprise",
       "status": "qc_revised_pending_teacher_approval",
@@ -370,9 +370,9 @@
       "qc_note": "Passage-level coherence rewrite and answer-in-context editorial check completed; teacher approval pending."
     },
     {
-      "id": "tier3-21to40-practice04",
+      "id": "tier3-21to40-practice14",
       "tier": 3,
-      "practice": 4,
+      "practice": 14,
       "title": "A Weekend Skills Workshop",
       "topic": "Careers & Learning",
       "status": "qc_revised_pending_teacher_approval",
@@ -484,9 +484,9 @@
       "qc_note": "Passage-level coherence rewrite and answer-in-context editorial check completed; teacher approval pending."
     },
     {
-      "id": "tier3-21to40-practice05",
+      "id": "tier3-21to40-practice15",
       "tier": 3,
-      "practice": 5,
+      "practice": 15,
       "title": "Preparing for a Mountain Challenge",
       "topic": "Outdoor Education",
       "status": "qc_revised_pending_teacher_approval",
@@ -598,9 +598,9 @@
       "qc_note": "Passage-level coherence rewrite and answer-in-context editorial check completed; teacher approval pending."
     },
     {
-      "id": "tier3-21to40-practice06",
+      "id": "tier3-21to40-practice16",
       "tier": 3,
-      "practice": 6,
+      "practice": 16,
       "title": "An Exhibition of Local Inventions",
       "topic": "Science & Innovation",
       "status": "qc_revised_pending_teacher_approval",
@@ -712,9 +712,9 @@
       "qc_note": "Passage-level coherence rewrite and answer-in-context editorial check completed; teacher approval pending."
     },
     {
-      "id": "tier3-21to40-practice07",
+      "id": "tier3-21to40-practice17",
       "tier": 3,
-      "practice": 7,
+      "practice": 17,
       "title": "Saving the Community Garden",
       "topic": "Environment & Volunteering",
       "status": "qc_revised_pending_teacher_approval",
@@ -826,9 +826,9 @@
       "qc_note": "Passage-level coherence rewrite and answer-in-context editorial check completed; teacher approval pending."
     },
     {
-      "id": "tier3-21to40-practice08",
+      "id": "tier3-21to40-practice18",
       "tier": 3,
-      "practice": 8,
+      "practice": 18,
       "title": "Designing a School Reading App",
       "topic": "Technology & Education",
       "status": "qc_revised_pending_teacher_approval",
@@ -940,9 +940,9 @@
       "qc_note": "Passage-level coherence rewrite and answer-in-context editorial check completed; teacher approval pending."
     },
     {
-      "id": "tier3-21to40-practice09",
+      "id": "tier3-21to40-practice19",
       "tier": 3,
-      "practice": 9,
+      "practice": 19,
       "title": "A Café with a Difference",
       "topic": "Enterprise & Sustainability",
       "status": "qc_revised_pending_teacher_approval",
@@ -1054,9 +1054,9 @@
       "qc_note": "Passage-level coherence rewrite and answer-in-context editorial check completed; teacher approval pending."
     },
     {
-      "id": "tier3-21to40-practice10",
+      "id": "tier3-21to40-practice20",
       "tier": 3,
-      "practice": 10,
+      "practice": 20,
       "title": "An Unexpected Rescue at Sea",
       "topic": "Adventure & Safety",
       "status": "qc_revised_pending_teacher_approval",
