@@ -28,6 +28,13 @@
       "label": "Tier 3 · First 20 Families",
       "path": "tier-3-first20.json",
       "enabled": true
+    },
+    {
+      "id": "tier-3-21to40",
+      "tier": 3,
+      "label": "Tier 3 · Families 21–40",
+      "path": "tier-3-21to40.json",
+      "enabled": true
     }
   ]
 }
