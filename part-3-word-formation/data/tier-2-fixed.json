@@ -1212,7 +1212,7 @@
       "topic": "Media & Sustainability",
       "status": "draft_teacher_review",
       "instructions": "For questions 17–24, read the text below. Use the word given in capitals to form a word that fits each gap. There is an example at the beginning (0). Write your answers in CAPITAL LETTERS.",
-      "passage": "A group of students began (0) {{0}} a documentary about their school garden after noticing how much it had changed in one year. They started by making detailed (17) {{17}} of the insects and plants found there, then interviewed the volunteers who looked after the flower beds.\n\nTo make the film more engaging, the music club offered a live (18) {{18}} at the opening of the documentary. Each gardener also shared a (19) {{19}} story about why the space mattered to them. The (20) {{20}} of the film took longer than expected because the students had to work around lessons and changing weather.\n\nWhen an early version was shown to classmates, the (21) {{21}} was encouraging, although several viewers felt the introduction was too slow. The team therefore prepared a (22) {{22}} version that focused on the most interesting discoveries.\n\nThey also created captions (23) {{23}} for younger pupils who were still learning scientific vocabulary. The filmmakers had initially been (24) {{24}} whether anyone would watch their project, but the final screening attracted a full audience.",
+      "passage": "A group of students began (0) {{0}} a documentary about their school garden after noticing how much it had changed in one year. They started by making detailed (17) {{17}} of the insects and plants found there, then interviewed the volunteers who looked after the flower beds.\n\nTo make the film more engaging, the music club offered a live (18) {{18}} at the opening of the documentary. Each gardener also shared a (19) {{19}} story about why the space mattered to them. The (20) {{20}} of the film took longer than expected because the students had to work around lessons and changing weather.\n\nWhen an early version was shown to classmates, the (21) {{21}} was encouraging, although several viewers felt the introduction was too slow. The team therefore prepared a (22) {{22}} version that focused on the most interesting discoveries.\n\nThey also invited a reading (23) {{23}} to help make the scientific captions easier for younger pupils. The filmmakers had initially been (24) {{24}} whether anyone would watch their project, but the final screening attracted a full audience.",
       "example": {
         "number": 0,
         "base_word": "FILM",
@@ -1282,10 +1282,10 @@
         {
           "number": 23,
           "base_word": "SPECIAL",
-          "answer": "SPECIALLY",
-          "word_class": "adverb",
-          "formation_path": "SPECIAL → SPECIALLY",
-          "explanation": "SPECIAL → SPECIALLY (adverb). 'captions specially for younger pupils' means made expressly for them. Context: “They also created captions specially for younger pupils who were still learning scientific vocabulary.” Common trap: especially highlights an exception and may change the intended emphasis.",
+          "answer": "SPECIALIST",
+          "word_class": "noun",
+          "formation_path": "SPECIAL → SPECIALIST",
+          "explanation": "SPECIAL → SPECIALIST (noun). 'a reading specialist' is a professional noun; the adverbs SPECIALLY/ESPECIALLY are not syntactically possible. The article 'an' and the professional role identify a person. Common errors: SPECIALLY and ESPECIALLY are adverbs, not nouns.",
           "qc_flags": [],
           "answer_provenance": "author_created_teacher_review_pending"
         },
@@ -1608,7 +1608,7 @@
       "topic": "Digital Citizenship",
       "status": "draft_teacher_review",
       "instructions": "For questions 17–24, read the text below. Use the word given in capitals to form a word that fits each gap. There is an example at the beginning (0). Write your answers in CAPITAL LETTERS.",
-      "passage": "A school launched a campaign about respectful online (0) {{0}} after students reported arguments in several class discussion groups. The teachers prepared materials (17) {{17}} for younger teenagers, using realistic messages rather than abstract rules.\n\nTo (18) {{18}} that everyone could contribute, pupils were invited to suggest examples anonymously. (19) {{19}}, many students admitted that they sometimes replied angrily before understanding what another person meant. The school decided that the campaign needed a (20) {{20}} focus than simply warning pupils about rude language.\n\nDuring group discussions, classmates considered how their online (21) {{21}} might affect someone they had never met. They were encouraged to make a deliberate (22) {{22}} to ask questions before judging another person's intentions.\n\nBy the final session, most groups had reached the (23) {{23}} that disagreements could be useful when handled respectfully. Teachers asked pupils to offer (24) {{24}} feedback rather than personal criticism. The campaign ended with students writing a short guide for the next school year.",
+      "passage": "A school launched a campaign about respectful online (0) {{0}} after students reported arguments in several class discussion groups. The teachers consulted an online-safety (17) {{17}}, who suggested using realistic messages rather than abstract rules.\n\nTo (18) {{18}} that everyone could contribute, pupils were invited to suggest examples anonymously. (19) {{19}}, many students admitted that they sometimes replied angrily before understanding what another person meant. The school decided that the campaign needed a (20) {{20}} focus than simply warning pupils about rude language.\n\nDuring group discussions, classmates considered how their online (21) {{21}} might affect someone they had never met. They were encouraged to make a deliberate (22) {{22}} to ask questions before judging another person's intentions.\n\nBy the final session, most groups had reached the (23) {{23}} that disagreements could be useful when handled respectfully. Teachers asked pupils to offer (24) {{24}} feedback rather than personal criticism. The campaign ended with students writing a short guide for the next school year.",
       "example": {
         "number": 0,
         "base_word": "COMMUNICATE",
@@ -1618,10 +1618,10 @@
         {
           "number": 17,
           "base_word": "SPECIAL",
-          "answer": "SPECIALLY",
-          "word_class": "adverb",
-          "formation_path": "SPECIAL → SPECIALLY",
-          "explanation": "SPECIAL → SPECIALLY (adverb). 'materials specially for younger teenagers' means designed for that group. Context: “The teachers prepared materials specially for younger teenagers, using realistic messages rather than abstract rules.” Common trap: especially is more general emphasis.",
+          "answer": "SPECIALIST",
+          "word_class": "noun",
+          "formation_path": "SPECIAL → SPECIALIST",
+          "explanation": "SPECIAL → SPECIALIST (noun). 'an online-safety specialist' requires a singular person noun. The article 'an' and the professional role identify a person. Common errors: SPECIALLY and ESPECIALLY are adverbs, not nouns.",
           "qc_flags": [],
           "answer_provenance": "author_created_teacher_review_pending"
         },
@@ -1905,7 +1905,7 @@
       "topic": "Education & Inclusion",
       "status": "draft_teacher_review",
       "instructions": "For questions 17–24, read the text below. Use the word given in capitals to form a word that fits each gap. There is an example at the beginning (0). Write your answers in CAPITAL LETTERS.",
-      "passage": "The town council wanted to make the public library more (0) {{0}} to children and older residents. Before changing anything, librarians asked visitors which services they found difficult to use. The (17) {{17}} was stronger than expected, and many families requested longer opening hours.\n\nFor younger readers, the staff created a (18) {{18}} version of the library guide with clear pictures. They also prepared audio instructions (19) {{19}} for visitors who had difficulty reading printed signs. At first, some staff were (20) {{20}} whether the new system would be popular, but they agreed to test it for a month.\n\nThe librarians were (21) {{21}} when the improved website attracted a (22) {{22}} range of visitors, including people who had never used the building before. They also introduced simple rules about respectful (23) {{23}} in shared study areas.\n\nEvery family was offered a (24) {{24}} of quiet reading sessions or group activities. By the end of the trial, visitors said the library felt less intimidating and much easier to use.",
+      "passage": "The town council wanted to make the public library more (0) {{0}} to children and older residents. Before changing anything, librarians asked visitors which services they found difficult to use. The (17) {{17}} was stronger than expected, and many families requested longer opening hours.\n\nFor younger readers, the staff created a (18) {{18}} version of the library guide with clear pictures. They also asked an accessibility (19) {{19}} to prepare audio instructions for visitors who had difficulty reading printed signs. At first, some staff were (20) {{20}} whether the new system would be popular, but they agreed to test it for a month.\n\nThe librarians were (21) {{21}} when the improved website attracted a (22) {{22}} range of visitors, including people who had never used the building before. They also introduced simple rules about respectful (23) {{23}} in shared study areas.\n\nEvery family was offered a (24) {{24}} of quiet reading sessions or group activities. By the end of the trial, visitors said the library felt less intimidating and much easier to use.",
       "example": {
         "number": 0,
         "base_word": "ACCESS",
@@ -1935,10 +1935,10 @@
         {
           "number": 19,
           "base_word": "SPECIAL",
-          "answer": "SPECIALLY",
-          "word_class": "adverb",
-          "formation_path": "SPECIAL → SPECIALLY",
-          "explanation": "SPECIAL → SPECIALLY (adverb). 'instructions specially for visitors who...' says designed for those users. Context: “They also prepared audio instructions specially for visitors who had difficulty reading printed signs.” Common trap: especially may change focus.",
+          "answer": "SPECIALIST",
+          "word_class": "noun",
+          "formation_path": "SPECIAL → SPECIALIST",
+          "explanation": "SPECIAL → SPECIALIST (noun). 'an accessibility specialist' is a singular expert noun. The article 'an' and the professional role identify a person. Common errors: SPECIALLY and ESPECIALLY are adverbs, not nouns.",
           "qc_flags": [],
           "answer_provenance": "author_created_teacher_review_pending"
         },
