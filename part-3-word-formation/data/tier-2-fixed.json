@@ -1,9 +1,9 @@
 {
   "schema_version": "1.0",
   "tier": 2,
-  "release": "tier2-26-families-rebuilt-v2",
+  "release": "tier2-practice01-20-v3-draft",
   "content_status": "qc_revision_in_progress",
-  "scope": "Only the 26 approved Tier 2 base-word families from FCE Part 3 student handbook",
+  "scope": "26 approved Tier 2 word families, Practices 01–20; Practices 11–20 follow balanced family coverage",
   "practices": [
     {
       "id": "tier2-practice01",
@@ -1004,6 +1004,916 @@
         }
       ],
       "qc_status": "approved_content"
+    },
+    {
+      "id": "tier2-practice11",
+      "tier": 2,
+      "practice": 11,
+      "title": "A Shared Study Space",
+      "master_topic": 3,
+      "topic": "Education & Community",
+      "status": "draft_teacher_review",
+      "instructions": "For questions 17–24, read the text below. Use the word given in capitals to form a word that fits each gap. There is an example at the beginning (0). Write your answers in CAPITAL LETTERS.",
+      "passage": "Careful (0) {{0}} was needed when students at Greenfield School proposed turning an unused classroom into a shared study space. The teachers had received complaints about noisy (17) {{17}} in the library, where pupils were trying to work during lunch.\n\nAt the first meeting, students were given a (18) {{18}} between creating a completely silent room and providing an area for group projects. After listening to both sides, the committee reached the (19) {{19}} that a flexible room would be more useful. A teacher offered (20) {{20}} criticism of the original design, pointing out that the movable tables might block the entrance.\n\nRather than abandon their idea, the students showed considerable (21) {{21}} by designing two separate zones. The head teacher made the final (22) {{22}} once the safety plan had been approved. During the (23) {{23}} of the project, volunteers discovered that younger and older pupils had different working habits.\n\nThe completed room reflected those (24) {{24}} without favouring either group. Within a month, both quiet readers and collaborative teams were using it regularly.",
+      "example": {
+        "number": 0,
+        "base_word": "PLAN",
+        "answer": "PLANNING"
+      },
+      "items": [
+        {
+          "number": 17,
+          "base_word": "BEHAVE",
+          "answer": "BEHAVIOUR",
+          "word_class": "noun",
+          "formation_path": "BEHAVE → BEHAVIOUR",
+          "explanation": "BEHAVE → BEHAVIOUR (noun). The surrounding clause requires this form and meaning; check the complete sentence after insertion.",
+          "qc_flags": []
+        },
+        {
+          "number": 18,
+          "base_word": "CHOOSE",
+          "answer": "CHOICE",
+          "word_class": "noun",
+          "formation_path": "CHOOSE → CHOICE",
+          "explanation": "CHOOSE → CHOICE (noun). The surrounding clause requires this form and meaning; check the complete sentence after insertion.",
+          "qc_flags": []
+        },
+        {
+          "number": 19,
+          "base_word": "CONCLUDE",
+          "answer": "CONCLUSION",
+          "word_class": "noun",
+          "formation_path": "CONCLUDE → CONCLUSION",
+          "explanation": "CONCLUDE → CONCLUSION (noun). The surrounding clause requires this form and meaning; check the complete sentence after insertion.",
+          "qc_flags": []
+        },
+        {
+          "number": 20,
+          "base_word": "CONSTRUCT",
+          "answer": "CONSTRUCTIVE",
+          "word_class": "adjective",
+          "formation_path": "CONSTRUCT → CONSTRUCTIVE",
+          "explanation": "CONSTRUCT → CONSTRUCTIVE (adjective). The surrounding clause requires this form and meaning; check the complete sentence after insertion.",
+          "qc_flags": []
+        },
+        {
+          "number": 21,
+          "base_word": "CREATE",
+          "answer": "CREATIVITY",
+          "word_class": "noun",
+          "formation_path": "CREATE → CREATIVITY",
+          "explanation": "CREATE → CREATIVITY (noun). The surrounding clause requires this form and meaning; check the complete sentence after insertion.",
+          "qc_flags": []
+        },
+        {
+          "number": 22,
+          "base_word": "DECIDE",
+          "answer": "DECISION",
+          "word_class": "noun",
+          "formation_path": "DECIDE → DECISION",
+          "explanation": "DECIDE → DECISION (noun). The surrounding clause requires this form and meaning; check the complete sentence after insertion.",
+          "qc_flags": []
+        },
+        {
+          "number": 23,
+          "base_word": "DEVELOP",
+          "answer": "DEVELOPMENT",
+          "word_class": "noun",
+          "formation_path": "DEVELOP → DEVELOPMENT",
+          "explanation": "DEVELOP → DEVELOPMENT (noun). The surrounding clause requires this form and meaning; check the complete sentence after insertion.",
+          "qc_flags": []
+        },
+        {
+          "number": 24,
+          "base_word": "DIFFERENT",
+          "answer": "DIFFERENCES",
+          "word_class": "noun",
+          "formation_path": "DIFFERENT → DIFFERENCES",
+          "explanation": "DIFFERENT → DIFFERENCES (noun). The surrounding clause requires this form and meaning; check the complete sentence after insertion.",
+          "qc_flags": []
+        }
+      ],
+      "qc_status": "draft_teacher_review"
+    },
+    {
+      "id": "tier2-practice12",
+      "tier": 2,
+      "practice": 12,
+      "title": "Reopening the Riverside Trail",
+      "master_topic": 3,
+      "topic": "Environment & Local Community",
+      "status": "draft_teacher_review",
+      "instructions": "For questions 17–24, read the text below. Use the word given in capitals to form a word that fits each gap. There is an example at the beginning (0). Write your answers in CAPITAL LETTERS.",
+      "passage": "The proposed (0) {{0}} of a riverside walking trail caused genuine (17) {{17}} among local families. The path had been closed for years, but the council hoped to make use of the (18) {{18}} route instead of cutting through untouched woodland.\n\nDuring their first inspection, volunteers found an (19) {{19}} problem: part of the wooden bridge had been damaged by flooding. An engineer gave a clear (20) {{20}} of why the bridge needed repairs before anyone could cross it safely. She also measured the (21) {{21}} of the railings, as children would be using the trail.\n\nThe council stated that its (22) {{22}} was to reopen the path without disturbing wildlife along the river. After considering several alternatives, the team selected a safer (23) {{23}} for a small observation platform.\n\nThe (24) {{24}} of the route was slightly reduced so walkers would avoid a protected nesting area. When the trail eventually reopened, visitors appreciated both the improved access and the care taken to preserve the landscape.",
+      "example": {
+        "number": 0,
+        "base_word": "RESTORE",
+        "answer": "RESTORATION"
+      },
+      "items": [
+        {
+          "number": 17,
+          "base_word": "EXCITE",
+          "answer": "EXCITEMENT",
+          "word_class": "noun",
+          "formation_path": "EXCITE → EXCITEMENT",
+          "explanation": "EXCITE → EXCITEMENT (noun). The surrounding clause requires this form and meaning; check the complete sentence after insertion.",
+          "qc_flags": []
+        },
+        {
+          "number": 18,
+          "base_word": "EXIST",
+          "answer": "EXISTING",
+          "word_class": "adjective",
+          "formation_path": "EXIST → EXISTING",
+          "explanation": "EXIST → EXISTING (adjective). The surrounding clause requires this form and meaning; check the complete sentence after insertion.",
+          "qc_flags": []
+        },
+        {
+          "number": 19,
+          "base_word": "EXPECT",
+          "answer": "UNEXPECTED",
+          "word_class": "adjective",
+          "formation_path": "EXPECT → UNEXPECTED",
+          "explanation": "EXPECT → UNEXPECTED (adjective). The surrounding clause requires this form and meaning; check the complete sentence after insertion.",
+          "qc_flags": []
+        },
+        {
+          "number": 20,
+          "base_word": "EXPLAIN",
+          "answer": "EXPLANATION",
+          "word_class": "noun",
+          "formation_path": "EXPLAIN → EXPLANATION",
+          "explanation": "EXPLAIN → EXPLANATION (noun). The surrounding clause requires this form and meaning; check the complete sentence after insertion.",
+          "qc_flags": []
+        },
+        {
+          "number": 21,
+          "base_word": "HIGH",
+          "answer": "HEIGHT",
+          "word_class": "noun",
+          "formation_path": "HIGH → HEIGHT",
+          "explanation": "HIGH → HEIGHT (noun). The surrounding clause requires this form and meaning; check the complete sentence after insertion.",
+          "qc_flags": []
+        },
+        {
+          "number": 22,
+          "base_word": "INTEND",
+          "answer": "INTENTION",
+          "word_class": "noun",
+          "formation_path": "INTEND → INTENTION",
+          "explanation": "INTEND → INTENTION (noun). The surrounding clause requires this form and meaning; check the complete sentence after insertion.",
+          "qc_flags": []
+        },
+        {
+          "number": 23,
+          "base_word": "LOCATE",
+          "answer": "LOCATION",
+          "word_class": "noun",
+          "formation_path": "LOCATE → LOCATION",
+          "explanation": "LOCATE → LOCATION (noun). The surrounding clause requires this form and meaning; check the complete sentence after insertion.",
+          "qc_flags": []
+        },
+        {
+          "number": 24,
+          "base_word": "LONG",
+          "answer": "LENGTH",
+          "word_class": "noun",
+          "formation_path": "LONG → LENGTH",
+          "explanation": "LONG → LENGTH (noun). The surrounding clause requires this form and meaning; check the complete sentence after insertion.",
+          "qc_flags": []
+        }
+      ],
+      "qc_status": "draft_teacher_review"
+    },
+    {
+      "id": "tier2-practice13",
+      "tier": 2,
+      "practice": 13,
+      "title": "A Documentary About the School Garden",
+      "master_topic": 3,
+      "topic": "Media & Sustainability",
+      "status": "draft_teacher_review",
+      "instructions": "For questions 17–24, read the text below. Use the word given in capitals to form a word that fits each gap. There is an example at the beginning (0). Write your answers in CAPITAL LETTERS.",
+      "passage": "A group of students began (0) {{0}} a documentary about their school garden after noticing how much it had changed in one year. They started by making detailed (17) {{17}} of the insects and plants found there, then interviewed the volunteers who looked after the flower beds.\n\nTo make the film more engaging, the music club offered a live (18) {{18}} at the opening of the documentary. Each gardener also shared a (19) {{19}} story about why the space mattered to them. The (20) {{20}} of the film took longer than expected because the students had to work around lessons and changing weather.\n\nWhen an early version was shown to classmates, the (21) {{21}} was encouraging, although several viewers felt the introduction was too slow. The team therefore prepared a (22) {{22}} version that focused on the most interesting discoveries.\n\nThey also created captions (23) {{23}} for younger pupils who were still learning scientific vocabulary. The filmmakers had initially been (24) {{24}} whether anyone would watch their project, but the final screening attracted a full audience.",
+      "example": {
+        "number": 0,
+        "base_word": "FILM",
+        "answer": "FILMING"
+      },
+      "items": [
+        {
+          "number": 17,
+          "base_word": "OBSERVE",
+          "answer": "OBSERVATIONS",
+          "word_class": "noun",
+          "formation_path": "OBSERVE → OBSERVATIONS",
+          "explanation": "OBSERVE → OBSERVATIONS (noun). The surrounding clause requires this form and meaning; check the complete sentence after insertion.",
+          "qc_flags": []
+        },
+        {
+          "number": 18,
+          "base_word": "PERFORM",
+          "answer": "PERFORMANCE",
+          "word_class": "noun",
+          "formation_path": "PERFORM → PERFORMANCE",
+          "explanation": "PERFORM → PERFORMANCE (noun). The surrounding clause requires this form and meaning; check the complete sentence after insertion.",
+          "qc_flags": []
+        },
+        {
+          "number": 19,
+          "base_word": "PERSON",
+          "answer": "PERSONAL",
+          "word_class": "adjective",
+          "formation_path": "PERSON → PERSONAL",
+          "explanation": "PERSON → PERSONAL (adjective). The surrounding clause requires this form and meaning; check the complete sentence after insertion.",
+          "qc_flags": []
+        },
+        {
+          "number": 20,
+          "base_word": "PRODUCE",
+          "answer": "PRODUCTION",
+          "word_class": "noun",
+          "formation_path": "PRODUCE → PRODUCTION",
+          "explanation": "PRODUCE → PRODUCTION (noun). The surrounding clause requires this form and meaning; check the complete sentence after insertion.",
+          "qc_flags": []
+        },
+        {
+          "number": 21,
+          "base_word": "RESPOND",
+          "answer": "RESPONSE",
+          "word_class": "noun",
+          "formation_path": "RESPOND → RESPONSE",
+          "explanation": "RESPOND → RESPONSE (noun). The surrounding clause requires this form and meaning; check the complete sentence after insertion.",
+          "qc_flags": []
+        },
+        {
+          "number": 22,
+          "base_word": "SHORT",
+          "answer": "SHORTER",
+          "word_class": "adjective",
+          "formation_path": "SHORT → SHORTER",
+          "explanation": "SHORT → SHORTER (adjective). The surrounding clause requires this form and meaning; check the complete sentence after insertion.",
+          "qc_flags": []
+        },
+        {
+          "number": 23,
+          "base_word": "SPECIAL",
+          "answer": "SPECIALLY",
+          "word_class": "adverb",
+          "formation_path": "SPECIAL → SPECIALLY",
+          "explanation": "SPECIAL → SPECIALLY (adverb). The surrounding clause requires this form and meaning; check the complete sentence after insertion.",
+          "qc_flags": []
+        },
+        {
+          "number": 24,
+          "base_word": "SURE",
+          "answer": "UNSURE",
+          "word_class": "adjective",
+          "formation_path": "SURE → UNSURE",
+          "explanation": "SURE → UNSURE (adjective). The surrounding clause requires this form and meaning; check the complete sentence after insertion.",
+          "qc_flags": []
+        }
+      ],
+      "qc_status": "draft_teacher_review"
+    },
+    {
+      "id": "tier2-practice14",
+      "tier": 2,
+      "practice": 14,
+      "title": "Designing a Neighbourhood Playground",
+      "master_topic": 3,
+      "topic": "Community Planning",
+      "status": "draft_teacher_review",
+      "instructions": "For questions 17–24, read the text below. Use the word given in capitals to form a word that fits each gap. There is an example at the beginning (0). Write your answers in CAPITAL LETTERS.",
+      "passage": "Residents were (0) {{0}} the playground beside the community centre when a group of teenagers asked to join the planning meetings. The organisers were (17) {{17}} by how many younger children also wanted to contribute. They decided to (18) {{18}} the consultation so that families from nearby streets could share their ideas.\n\nAt one meeting, parents discussed how children's (19) {{19}} might change when there were separate spaces for energetic games and quiet play. The council presented several (20) {{20}}, but none satisfied everyone. After considering safety, cost and accessibility, the group reached the (21) {{21}} that a simple design with more shade would work best.\n\nThe (22) {{22}} of new pathways began in early spring. When unexpected drainage problems delayed the work, students proposed a (23) {{23}} solution: they suggested using the extra space for a small rain garden.\n\nThe council recorded all important (24) {{24}} and explained them in a public notice. By summer, families were using a playground that reflected ideas from several generations.",
+      "example": {
+        "number": 0,
+        "base_word": "IMPROVE",
+        "answer": "IMPROVEMENT"
+      },
+      "items": [
+        {
+          "number": 17,
+          "base_word": "SURPRISE",
+          "answer": "SURPRISED",
+          "word_class": "adjective",
+          "formation_path": "SURPRISE → SURPRISED",
+          "explanation": "SURPRISE → SURPRISED (adjective). The surrounding clause requires this form and meaning; check the complete sentence after insertion.",
+          "qc_flags": []
+        },
+        {
+          "number": 18,
+          "base_word": "WIDE",
+          "answer": "WIDEN",
+          "word_class": "verb",
+          "formation_path": "WIDE → WIDEN",
+          "explanation": "WIDE → WIDEN (verb). The surrounding clause requires this form and meaning; check the complete sentence after insertion.",
+          "qc_flags": []
+        },
+        {
+          "number": 19,
+          "base_word": "BEHAVE",
+          "answer": "BEHAVIOUR",
+          "word_class": "noun",
+          "formation_path": "BEHAVE → BEHAVIOUR",
+          "explanation": "BEHAVE → BEHAVIOUR (noun). The surrounding clause requires this form and meaning; check the complete sentence after insertion.",
+          "qc_flags": []
+        },
+        {
+          "number": 20,
+          "base_word": "CHOOSE",
+          "answer": "CHOICES",
+          "word_class": "noun",
+          "formation_path": "CHOOSE → CHOICES",
+          "explanation": "CHOOSE → CHOICES (noun). The surrounding clause requires this form and meaning; check the complete sentence after insertion.",
+          "qc_flags": []
+        },
+        {
+          "number": 21,
+          "base_word": "CONCLUDE",
+          "answer": "CONCLUSION",
+          "word_class": "noun",
+          "formation_path": "CONCLUDE → CONCLUSION",
+          "explanation": "CONCLUDE → CONCLUSION (noun). The surrounding clause requires this form and meaning; check the complete sentence after insertion.",
+          "qc_flags": []
+        },
+        {
+          "number": 22,
+          "base_word": "CONSTRUCT",
+          "answer": "CONSTRUCTION",
+          "word_class": "noun",
+          "formation_path": "CONSTRUCT → CONSTRUCTION",
+          "explanation": "CONSTRUCT → CONSTRUCTION (noun). The surrounding clause requires this form and meaning; check the complete sentence after insertion.",
+          "qc_flags": []
+        },
+        {
+          "number": 23,
+          "base_word": "CREATE",
+          "answer": "CREATIVE",
+          "word_class": "adjective",
+          "formation_path": "CREATE → CREATIVE",
+          "explanation": "CREATE → CREATIVE (adjective). The surrounding clause requires this form and meaning; check the complete sentence after insertion.",
+          "qc_flags": []
+        },
+        {
+          "number": 24,
+          "base_word": "DECIDE",
+          "answer": "DECISIONS",
+          "word_class": "noun",
+          "formation_path": "DECIDE → DECISIONS",
+          "explanation": "DECIDE → DECISIONS (noun). The surrounding clause requires this form and meaning; check the complete sentence after insertion.",
+          "qc_flags": []
+        }
+      ],
+      "qc_status": "draft_teacher_review"
+    },
+    {
+      "id": "tier2-practice15",
+      "tier": 2,
+      "practice": 15,
+      "title": "Launching a Student Radio Station",
+      "master_topic": 3,
+      "topic": "Communication & School Life",
+      "status": "draft_teacher_review",
+      "instructions": "For questions 17–24, read the text below. Use the word given in capitals to form a word that fits each gap. There is an example at the beginning (0). Write your answers in CAPITAL LETTERS.",
+      "passage": "A group of students began (0) {{0}} short audio programmes to share school news with younger classes. The early (17) {{17}} of their radio station was difficult because none of the volunteers had used recording equipment before.\n\nAt the first meeting, the group discovered that classmates listened to school announcements very (18) {{18}}. Some preferred brief interviews, while others enjoyed longer discussions. The students therefore planned an (19) {{19}} programme that would include music, interviews and reports about school clubs.\n\nFew pupils had known about the (20) {{20}} of an old recording room beside the library. After cleaning it, the volunteers set realistic (21) {{21}} for their first broadcast. When listeners complained about background noise, the team provided an honest (22) {{22}} and promised to improve the sound quality.\n\nA later episode attracted a (23) {{23}} number of listeners than the first. The students' original (24) {{24}} had simply been to share useful information, but their station soon became a place where quieter pupils could make their voices heard.",
+      "example": {
+        "number": 0,
+        "base_word": "BROADCAST",
+        "answer": "BROADCASTING"
+      },
+      "items": [
+        {
+          "number": 17,
+          "base_word": "DEVELOP",
+          "answer": "DEVELOPMENT",
+          "word_class": "noun",
+          "formation_path": "DEVELOP → DEVELOPMENT",
+          "explanation": "DEVELOP → DEVELOPMENT (noun). The surrounding clause requires this form and meaning; check the complete sentence after insertion.",
+          "qc_flags": []
+        },
+        {
+          "number": 18,
+          "base_word": "DIFFERENT",
+          "answer": "DIFFERENTLY",
+          "word_class": "adverb",
+          "formation_path": "DIFFERENT → DIFFERENTLY",
+          "explanation": "DIFFERENT → DIFFERENTLY (adverb). The surrounding clause requires this form and meaning; check the complete sentence after insertion.",
+          "qc_flags": []
+        },
+        {
+          "number": 19,
+          "base_word": "EXCITE",
+          "answer": "EXCITING",
+          "word_class": "adjective",
+          "formation_path": "EXCITE → EXCITING",
+          "explanation": "EXCITE → EXCITING (adjective). The surrounding clause requires this form and meaning; check the complete sentence after insertion.",
+          "qc_flags": []
+        },
+        {
+          "number": 20,
+          "base_word": "EXIST",
+          "answer": "EXISTENCE",
+          "word_class": "noun",
+          "formation_path": "EXIST → EXISTENCE",
+          "explanation": "EXIST → EXISTENCE (noun). The surrounding clause requires this form and meaning; check the complete sentence after insertion.",
+          "qc_flags": []
+        },
+        {
+          "number": 21,
+          "base_word": "EXPECT",
+          "answer": "EXPECTATIONS",
+          "word_class": "noun",
+          "formation_path": "EXPECT → EXPECTATIONS",
+          "explanation": "EXPECT → EXPECTATIONS (noun). The surrounding clause requires this form and meaning; check the complete sentence after insertion.",
+          "qc_flags": []
+        },
+        {
+          "number": 22,
+          "base_word": "EXPLAIN",
+          "answer": "EXPLANATION",
+          "word_class": "noun",
+          "formation_path": "EXPLAIN → EXPLANATION",
+          "explanation": "EXPLAIN → EXPLANATION (noun). The surrounding clause requires this form and meaning; check the complete sentence after insertion.",
+          "qc_flags": []
+        },
+        {
+          "number": 23,
+          "base_word": "HIGH",
+          "answer": "HIGHER",
+          "word_class": "adjective",
+          "formation_path": "HIGH → HIGHER",
+          "explanation": "HIGH → HIGHER (adjective). The surrounding clause requires this form and meaning; check the complete sentence after insertion.",
+          "qc_flags": []
+        },
+        {
+          "number": 24,
+          "base_word": "INTEND",
+          "answer": "INTENTION",
+          "word_class": "noun",
+          "formation_path": "INTEND → INTENTION",
+          "explanation": "INTEND → INTENTION (noun). The surrounding clause requires this form and meaning; check the complete sentence after insertion.",
+          "qc_flags": []
+        }
+      ],
+      "qc_status": "draft_teacher_review"
+    },
+    {
+      "id": "tier2-practice16",
+      "tier": 2,
+      "practice": 16,
+      "title": "The Charity Theatre Evening",
+      "master_topic": 3,
+      "topic": "Arts & Community",
+      "status": "draft_teacher_review",
+      "instructions": "For questions 17–24, read the text below. Use the word given in capitals to form a word that fits each gap. There is an example at the beginning (0). Write your answers in CAPITAL LETTERS.",
+      "passage": "The (0) {{0}} of a charity theatre evening became more complicated when the school hall was closed for repairs. The volunteers had to find a suitable (17) {{17}} with enough space for a stage and an audience.\n\nAt the first rehearsal, the director checked the (18) {{18}} of the programme and realised that it would finish too late for younger children. An (19) {{19}} volunteer also noticed that some seats had a poor view of the stage. The organisers rearranged the room and asked the (20) {{20}} to shorten their scenes without removing important parts of the story.\n\nSeveral local businesses supported the event, and the director thanked their owners (21) {{21}}. The (22) {{22}} of tickets and printed programmes was completed just before opening night.\n\nThe audience's (23) {{23}} was enthusiastic, but the team faced a (24) {{24}} of seats when more families arrived than expected. Instead of admitting extra people into a crowded room, the school arranged another performance the following week. Both evenings raised money for a children's reading charity.",
+      "example": {
+        "number": 0,
+        "base_word": "ORGANISE",
+        "answer": "ORGANISATION"
+      },
+      "items": [
+        {
+          "number": 17,
+          "base_word": "LOCATE",
+          "answer": "LOCATION",
+          "word_class": "noun",
+          "formation_path": "LOCATE → LOCATION",
+          "explanation": "LOCATE → LOCATION (noun). The surrounding clause requires this form and meaning; check the complete sentence after insertion.",
+          "qc_flags": []
+        },
+        {
+          "number": 18,
+          "base_word": "LONG",
+          "answer": "LENGTH",
+          "word_class": "noun",
+          "formation_path": "LONG → LENGTH",
+          "explanation": "LONG → LENGTH (noun). The surrounding clause requires this form and meaning; check the complete sentence after insertion.",
+          "qc_flags": []
+        },
+        {
+          "number": 19,
+          "base_word": "OBSERVE",
+          "answer": "OBSERVANT",
+          "word_class": "adjective",
+          "formation_path": "OBSERVE → OBSERVANT",
+          "explanation": "OBSERVE → OBSERVANT (adjective). The surrounding clause requires this form and meaning; check the complete sentence after insertion.",
+          "qc_flags": []
+        },
+        {
+          "number": 20,
+          "base_word": "PERFORM",
+          "answer": "PERFORMERS",
+          "word_class": "noun",
+          "formation_path": "PERFORM → PERFORMERS",
+          "explanation": "PERFORM → PERFORMERS (noun). The surrounding clause requires this form and meaning; check the complete sentence after insertion.",
+          "qc_flags": []
+        },
+        {
+          "number": 21,
+          "base_word": "PERSON",
+          "answer": "PERSONALLY",
+          "word_class": "adverb",
+          "formation_path": "PERSON → PERSONALLY",
+          "explanation": "PERSON → PERSONALLY (adverb). The surrounding clause requires this form and meaning; check the complete sentence after insertion.",
+          "qc_flags": []
+        },
+        {
+          "number": 22,
+          "base_word": "PRODUCE",
+          "answer": "PRODUCTION",
+          "word_class": "noun",
+          "formation_path": "PRODUCE → PRODUCTION",
+          "explanation": "PRODUCE → PRODUCTION (noun). The surrounding clause requires this form and meaning; check the complete sentence after insertion.",
+          "qc_flags": []
+        },
+        {
+          "number": 23,
+          "base_word": "RESPOND",
+          "answer": "RESPONSE",
+          "word_class": "noun",
+          "formation_path": "RESPOND → RESPONSE",
+          "explanation": "RESPOND → RESPONSE (noun). The surrounding clause requires this form and meaning; check the complete sentence after insertion.",
+          "qc_flags": []
+        },
+        {
+          "number": 24,
+          "base_word": "SHORT",
+          "answer": "SHORTAGE",
+          "word_class": "noun",
+          "formation_path": "SHORT → SHORTAGE",
+          "explanation": "SHORT → SHORTAGE (noun). The surrounding clause requires this form and meaning; check the complete sentence after insertion.",
+          "qc_flags": []
+        }
+      ],
+      "qc_status": "draft_teacher_review"
+    },
+    {
+      "id": "tier2-practice17",
+      "tier": 2,
+      "practice": 17,
+      "title": "A Campaign for Kindness Online",
+      "master_topic": 3,
+      "topic": "Digital Citizenship",
+      "status": "draft_teacher_review",
+      "instructions": "For questions 17–24, read the text below. Use the word given in capitals to form a word that fits each gap. There is an example at the beginning (0). Write your answers in CAPITAL LETTERS.",
+      "passage": "A school launched a campaign about respectful online (0) {{0}} after students reported arguments in several class discussion groups. The teachers prepared materials (17) {{17}} for younger teenagers, using realistic messages rather than abstract rules.\n\nTo (18) {{18}} that everyone could contribute, pupils were invited to suggest examples anonymously. (19) {{19}}, many students admitted that they sometimes replied angrily before understanding what another person meant. The school decided that the campaign needed a (20) {{20}} focus than simply warning pupils about rude language.\n\nDuring group discussions, classmates considered how their online (21) {{21}} might affect someone they had never met. They were encouraged to make a deliberate (22) {{22}} to ask questions before judging another person's intentions.\n\nBy the final session, most groups had reached the (23) {{23}} that disagreements could be useful when handled respectfully. Teachers asked pupils to offer (24) {{24}} feedback rather than personal criticism. The campaign ended with students writing a short guide for the next school year.",
+      "example": {
+        "number": 0,
+        "base_word": "COMMUNICATE",
+        "answer": "COMMUNICATION"
+      },
+      "items": [
+        {
+          "number": 17,
+          "base_word": "SPECIAL",
+          "answer": "SPECIALLY",
+          "word_class": "adverb",
+          "formation_path": "SPECIAL → SPECIALLY",
+          "explanation": "SPECIAL → SPECIALLY (adverb). The surrounding clause requires this form and meaning; check the complete sentence after insertion.",
+          "qc_flags": []
+        },
+        {
+          "number": 18,
+          "base_word": "SURE",
+          "answer": "ENSURE",
+          "word_class": "verb",
+          "formation_path": "SURE → ENSURE",
+          "explanation": "SURE → ENSURE (verb). The surrounding clause requires this form and meaning; check the complete sentence after insertion.",
+          "qc_flags": []
+        },
+        {
+          "number": 19,
+          "base_word": "SURPRISE",
+          "answer": "SURPRISINGLY",
+          "word_class": "adverb",
+          "formation_path": "SURPRISE → SURPRISINGLY",
+          "explanation": "SURPRISE → SURPRISINGLY (adverb). The surrounding clause requires this form and meaning; check the complete sentence after insertion.",
+          "qc_flags": []
+        },
+        {
+          "number": 20,
+          "base_word": "WIDE",
+          "answer": "WIDER",
+          "word_class": "adjective",
+          "formation_path": "WIDE → WIDER",
+          "explanation": "WIDE → WIDER (adjective). The surrounding clause requires this form and meaning; check the complete sentence after insertion.",
+          "qc_flags": []
+        },
+        {
+          "number": 21,
+          "base_word": "BEHAVE",
+          "answer": "BEHAVIOUR",
+          "word_class": "noun",
+          "formation_path": "BEHAVE → BEHAVIOUR",
+          "explanation": "BEHAVE → BEHAVIOUR (noun). The surrounding clause requires this form and meaning; check the complete sentence after insertion.",
+          "qc_flags": []
+        },
+        {
+          "number": 22,
+          "base_word": "CHOOSE",
+          "answer": "CHOICE",
+          "word_class": "noun",
+          "formation_path": "CHOOSE → CHOICE",
+          "explanation": "CHOOSE → CHOICE (noun). The surrounding clause requires this form and meaning; check the complete sentence after insertion.",
+          "qc_flags": []
+        },
+        {
+          "number": 23,
+          "base_word": "CONCLUDE",
+          "answer": "CONCLUSION",
+          "word_class": "noun",
+          "formation_path": "CONCLUDE → CONCLUSION",
+          "explanation": "CONCLUDE → CONCLUSION (noun). The surrounding clause requires this form and meaning; check the complete sentence after insertion.",
+          "qc_flags": []
+        },
+        {
+          "number": 24,
+          "base_word": "CONSTRUCT",
+          "answer": "CONSTRUCTIVE",
+          "word_class": "adjective",
+          "formation_path": "CONSTRUCT → CONSTRUCTIVE",
+          "explanation": "CONSTRUCT → CONSTRUCTIVE (adjective). The surrounding clause requires this form and meaning; check the complete sentence after insertion.",
+          "qc_flags": []
+        }
+      ],
+      "qc_status": "draft_teacher_review"
+    },
+    {
+      "id": "tier2-practice18",
+      "tier": 2,
+      "practice": 18,
+      "title": "An Eco-Friendly Science Exhibition",
+      "master_topic": 3,
+      "topic": "Science & Environment",
+      "status": "draft_teacher_review",
+      "instructions": "For questions 17–24, read the text below. Use the word given in capitals to form a word that fits each gap. There is an example at the beginning (0). Write your answers in CAPITAL LETTERS.",
+      "passage": "Young (0) {{0}} from three schools worked together on an exhibition about saving energy. One team proposed a (17) {{17}} way of showing how much electricity ordinary appliances used.\n\nBefore building the display, the students made several (18) {{18}} about the materials they could afford. The (19) {{19}} of a working model took nearly a month, partly because the first design was too complicated. When the team replaced expensive parts with recycled ones, there was a noticeable (20) {{20}} in the cost.\n\nThe students' (21) {{21}} grew as the opening day approached. Rather than ignore the (22) {{22}} equipment in their science laboratory, they repaired an old measuring device and used it to collect data. The results revealed an (23) {{23}} problem: a machine that appeared efficient used more electricity than they had predicted.\n\nAt the exhibition, visitors asked for (24) {{24}} of the findings. The students answered with graphs and simple demonstrations, showing that even a failed prediction can lead to a useful discovery.",
+      "example": {
+        "number": 0,
+        "base_word": "RESEARCH",
+        "answer": "RESEARCHERS"
+      },
+      "items": [
+        {
+          "number": 17,
+          "base_word": "CREATE",
+          "answer": "CREATIVE",
+          "word_class": "adjective",
+          "formation_path": "CREATE → CREATIVE",
+          "explanation": "CREATE → CREATIVE (adjective). The surrounding clause requires this form and meaning; check the complete sentence after insertion.",
+          "qc_flags": []
+        },
+        {
+          "number": 18,
+          "base_word": "DECIDE",
+          "answer": "DECISIONS",
+          "word_class": "noun",
+          "formation_path": "DECIDE → DECISIONS",
+          "explanation": "DECIDE → DECISIONS (noun). The surrounding clause requires this form and meaning; check the complete sentence after insertion.",
+          "qc_flags": []
+        },
+        {
+          "number": 19,
+          "base_word": "DEVELOP",
+          "answer": "DEVELOPMENT",
+          "word_class": "noun",
+          "formation_path": "DEVELOP → DEVELOPMENT",
+          "explanation": "DEVELOP → DEVELOPMENT (noun). The surrounding clause requires this form and meaning; check the complete sentence after insertion.",
+          "qc_flags": []
+        },
+        {
+          "number": 20,
+          "base_word": "DIFFERENT",
+          "answer": "DIFFERENCE",
+          "word_class": "noun",
+          "formation_path": "DIFFERENT → DIFFERENCE",
+          "explanation": "DIFFERENT → DIFFERENCE (noun). The surrounding clause requires this form and meaning; check the complete sentence after insertion.",
+          "qc_flags": []
+        },
+        {
+          "number": 21,
+          "base_word": "EXCITE",
+          "answer": "EXCITEMENT",
+          "word_class": "noun",
+          "formation_path": "EXCITE → EXCITEMENT",
+          "explanation": "EXCITE → EXCITEMENT (noun). The surrounding clause requires this form and meaning; check the complete sentence after insertion.",
+          "qc_flags": []
+        },
+        {
+          "number": 22,
+          "base_word": "EXIST",
+          "answer": "EXISTING",
+          "word_class": "adjective",
+          "formation_path": "EXIST → EXISTING",
+          "explanation": "EXIST → EXISTING (adjective). The surrounding clause requires this form and meaning; check the complete sentence after insertion.",
+          "qc_flags": []
+        },
+        {
+          "number": 23,
+          "base_word": "EXPECT",
+          "answer": "UNEXPECTED",
+          "word_class": "adjective",
+          "formation_path": "EXPECT → UNEXPECTED",
+          "explanation": "EXPECT → UNEXPECTED (adjective). The surrounding clause requires this form and meaning; check the complete sentence after insertion.",
+          "qc_flags": []
+        },
+        {
+          "number": 24,
+          "base_word": "EXPLAIN",
+          "answer": "EXPLANATIONS",
+          "word_class": "noun",
+          "formation_path": "EXPLAIN → EXPLANATIONS",
+          "explanation": "EXPLAIN → EXPLANATIONS (noun). The surrounding clause requires this form and meaning; check the complete sentence after insertion.",
+          "qc_flags": []
+        }
+      ],
+      "qc_status": "draft_teacher_review"
+    },
+    {
+      "id": "tier2-practice19",
+      "tier": 2,
+      "practice": 19,
+      "title": "Creating a Walking Tour of the Old Town",
+      "master_topic": 3,
+      "topic": "History & Media",
+      "status": "draft_teacher_review",
+      "instructions": "For questions 17–24, read the text below. Use the word given in capitals to form a word that fits each gap. There is an example at the beginning (0). Write your answers in CAPITAL LETTERS.",
+      "passage": "A student group designed a (0) {{0}} walking tour for families visiting the old part of town. They wanted people to see familiar streets from a different perspective, so they began by climbing a small hill to check the (17) {{17}} of the viewpoint.\n\nTheir (18) {{18}} was to include places that explained how the neighbourhood had changed. One challenge was finding a safe (19) {{19}} for a rest stop away from busy traffic. They also measured the (20) {{20}} of the route, making sure younger children would be able to complete it.\n\nDuring several practice walks, the students recorded (21) {{21}} about historic buildings and interviewed shopkeepers. A short dramatic (22) {{22}} at the town square helped bring one local story to life.\n\nRather than repeat facts from a leaflet, the guides included (23) {{23}} memories shared by residents who had lived there for decades. The (24) {{24}} of an illustrated map was their final task. When the tour opened to families, visitors praised the balance between history, storytelling and gentle exercise.",
+      "example": {
+        "number": 0,
+        "base_word": "GUIDE",
+        "answer": "GUIDED"
+      },
+      "items": [
+        {
+          "number": 17,
+          "base_word": "HIGH",
+          "answer": "HEIGHT",
+          "word_class": "noun",
+          "formation_path": "HIGH → HEIGHT",
+          "explanation": "HIGH → HEIGHT (noun). The surrounding clause requires this form and meaning; check the complete sentence after insertion.",
+          "qc_flags": []
+        },
+        {
+          "number": 18,
+          "base_word": "INTEND",
+          "answer": "INTENTION",
+          "word_class": "noun",
+          "formation_path": "INTEND → INTENTION",
+          "explanation": "INTEND → INTENTION (noun). The surrounding clause requires this form and meaning; check the complete sentence after insertion.",
+          "qc_flags": []
+        },
+        {
+          "number": 19,
+          "base_word": "LOCATE",
+          "answer": "LOCATION",
+          "word_class": "noun",
+          "formation_path": "LOCATE → LOCATION",
+          "explanation": "LOCATE → LOCATION (noun). The surrounding clause requires this form and meaning; check the complete sentence after insertion.",
+          "qc_flags": []
+        },
+        {
+          "number": 20,
+          "base_word": "LONG",
+          "answer": "LENGTH",
+          "word_class": "noun",
+          "formation_path": "LONG → LENGTH",
+          "explanation": "LONG → LENGTH (noun). The surrounding clause requires this form and meaning; check the complete sentence after insertion.",
+          "qc_flags": []
+        },
+        {
+          "number": 21,
+          "base_word": "OBSERVE",
+          "answer": "OBSERVATIONS",
+          "word_class": "noun",
+          "formation_path": "OBSERVE → OBSERVATIONS",
+          "explanation": "OBSERVE → OBSERVATIONS (noun). The surrounding clause requires this form and meaning; check the complete sentence after insertion.",
+          "qc_flags": []
+        },
+        {
+          "number": 22,
+          "base_word": "PERFORM",
+          "answer": "PERFORMANCE",
+          "word_class": "noun",
+          "formation_path": "PERFORM → PERFORMANCE",
+          "explanation": "PERFORM → PERFORMANCE (noun). The surrounding clause requires this form and meaning; check the complete sentence after insertion.",
+          "qc_flags": []
+        },
+        {
+          "number": 23,
+          "base_word": "PERSON",
+          "answer": "PERSONAL",
+          "word_class": "adjective",
+          "formation_path": "PERSON → PERSONAL",
+          "explanation": "PERSON → PERSONAL (adjective). The surrounding clause requires this form and meaning; check the complete sentence after insertion.",
+          "qc_flags": []
+        },
+        {
+          "number": 24,
+          "base_word": "PRODUCE",
+          "answer": "PRODUCTION",
+          "word_class": "noun",
+          "formation_path": "PRODUCE → PRODUCTION",
+          "explanation": "PRODUCE → PRODUCTION (noun). The surrounding clause requires this form and meaning; check the complete sentence after insertion.",
+          "qc_flags": []
+        }
+      ],
+      "qc_status": "draft_teacher_review"
+    },
+    {
+      "id": "tier2-practice20",
+      "tier": 2,
+      "practice": 20,
+      "title": "A Library That Welcomes Everyone",
+      "master_topic": 3,
+      "topic": "Education & Inclusion",
+      "status": "draft_teacher_review",
+      "instructions": "For questions 17–24, read the text below. Use the word given in capitals to form a word that fits each gap. There is an example at the beginning (0). Write your answers in CAPITAL LETTERS.",
+      "passage": "The town council wanted to make the public library more (0) {{0}} to children and older residents. Before changing anything, librarians asked visitors which services they found difficult to use. The (17) {{17}} was stronger than expected, and many families requested longer opening hours.\n\nFor younger readers, the staff created a (18) {{18}} version of the library guide with clear pictures. They also prepared audio instructions (19) {{19}} for visitors who had difficulty reading printed signs. At first, some staff were (20) {{20}} whether the new system would be popular, but they agreed to test it for a month.\n\nThe librarians were (21) {{21}} when the improved website attracted a (22) {{22}} range of visitors, including people who had never used the building before. They also introduced simple rules about respectful (23) {{23}} in shared study areas.\n\nEvery family was offered a (24) {{24}} of quiet reading sessions or group activities. By the end of the trial, visitors said the library felt less intimidating and much easier to use.",
+      "example": {
+        "number": 0,
+        "base_word": "ACCESS",
+        "answer": "ACCESSIBLE"
+      },
+      "items": [
+        {
+          "number": 17,
+          "base_word": "RESPOND",
+          "answer": "RESPONSE",
+          "word_class": "noun",
+          "formation_path": "RESPOND → RESPONSE",
+          "explanation": "RESPOND → RESPONSE (noun). The surrounding clause requires this form and meaning; check the complete sentence after insertion.",
+          "qc_flags": []
+        },
+        {
+          "number": 18,
+          "base_word": "SHORT",
+          "answer": "SHORTER",
+          "word_class": "adjective",
+          "formation_path": "SHORT → SHORTER",
+          "explanation": "SHORT → SHORTER (adjective). The surrounding clause requires this form and meaning; check the complete sentence after insertion.",
+          "qc_flags": []
+        },
+        {
+          "number": 19,
+          "base_word": "SPECIAL",
+          "answer": "SPECIALLY",
+          "word_class": "adverb",
+          "formation_path": "SPECIAL → SPECIALLY",
+          "explanation": "SPECIAL → SPECIALLY (adverb). The surrounding clause requires this form and meaning; check the complete sentence after insertion.",
+          "qc_flags": []
+        },
+        {
+          "number": 20,
+          "base_word": "SURE",
+          "answer": "UNSURE",
+          "word_class": "adjective",
+          "formation_path": "SURE → UNSURE",
+          "explanation": "SURE → UNSURE (adjective). The surrounding clause requires this form and meaning; check the complete sentence after insertion.",
+          "qc_flags": []
+        },
+        {
+          "number": 21,
+          "base_word": "SURPRISE",
+          "answer": "SURPRISED",
+          "word_class": "adjective",
+          "formation_path": "SURPRISE → SURPRISED",
+          "explanation": "SURPRISE → SURPRISED (adjective). The surrounding clause requires this form and meaning; check the complete sentence after insertion.",
+          "qc_flags": []
+        },
+        {
+          "number": 22,
+          "base_word": "WIDE",
+          "answer": "WIDER",
+          "word_class": "adjective",
+          "formation_path": "WIDE → WIDER",
+          "explanation": "WIDE → WIDER (adjective). The surrounding clause requires this form and meaning; check the complete sentence after insertion.",
+          "qc_flags": []
+        },
+        {
+          "number": 23,
+          "base_word": "BEHAVE",
+          "answer": "BEHAVIOUR",
+          "word_class": "noun",
+          "formation_path": "BEHAVE → BEHAVIOUR",
+          "explanation": "BEHAVE → BEHAVIOUR (noun). The surrounding clause requires this form and meaning; check the complete sentence after insertion.",
+          "qc_flags": []
+        },
+        {
+          "number": 24,
+          "base_word": "CHOOSE",
+          "answer": "CHOICE",
+          "word_class": "noun",
+          "formation_path": "CHOOSE → CHOICE",
+          "explanation": "CHOOSE → CHOICE (noun). The surrounding clause requires this form and meaning; check the complete sentence after insertion.",
+          "qc_flags": []
+        }
+      ],
+      "qc_status": "draft_teacher_review"
     }
   ],
   "qc_matrix": {
