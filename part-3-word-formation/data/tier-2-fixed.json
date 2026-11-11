@@ -1014,7 +1014,7 @@
       "topic": "Education & Community",
       "status": "draft_teacher_review",
       "instructions": "For questions 17–24, read the text below. Use the word given in capitals to form a word that fits each gap. There is an example at the beginning (0). Write your answers in CAPITAL LETTERS.",
-      "passage": "Careful (0) {{0}} was needed when students at Greenfield School proposed turning an unused classroom into a shared study space. The teachers had received complaints about noisy (17) {{17}} in the library, where pupils were trying to work during lunch.\n\nAt the first meeting, students were given a (18) {{18}} between creating a completely silent room and providing an area for group projects. After listening to both sides, the committee reached the (19) {{19}} that a flexible room would be more useful. A teacher offered (20) {{20}} criticism of the original design, pointing out that the movable tables might block the entrance.\n\nRather than abandon their idea, the students showed considerable (21) {{21}} by designing two separate zones. The head teacher made the final (22) {{22}} once the safety plan had been approved. During the (23) {{23}} of the project, volunteers discovered that younger and older pupils had different working habits.\n\nThe completed room reflected those (24) {{24}} without favouring either group. Within a month, both quiet readers and collaborative teams were using it regularly.",
+      "passage": "Careful (0) {{0}} was needed when students at Greenfield School proposed turning an unused classroom into a shared study space. The teachers had received complaints about noisy (17) {{17}} in the library, where pupils were trying to work during lunch.\n\nAt the first meeting, students were given a (18) {{18}} between creating a completely silent room and providing an area for group projects. After listening to both sides, the committee reached the (19) {{19}} that a flexible room would be more useful. A teacher offered (20) {{20}} criticism of the original design, pointing out that the movable tables might block the entrance.\n\nRather than abandon their idea, the students tackled the problem (21) {{21}}, designing two separate zones. The head teacher made the final (22) {{22}} once the safety plan had been approved. During the (23) {{23}} of the project, volunteers discovered that younger and older pupils had different working habits.\n\nThe completed room allowed quiet readers and group members to work (24) {{24}} according to their needs, without favouring either group. Within a month, both quiet readers and collaborative teams were using it regularly.",
       "example": {
         "number": 0,
         "base_word": "PLAN",
@@ -1064,10 +1064,10 @@
         {
           "number": 21,
           "base_word": "CREATE",
-          "answer": "CREATIVITY",
-          "word_class": "noun",
-          "formation_path": "CREATE → CREATIVITY",
-          "explanation": "CREATE → CREATIVITY (noun). 'show considerable creativity' needs an abstract noun for original ideas. Context: “Rather than abandon their idea, the students showed considerable creativity by designing two separate zones.” Common trap: creative is an adjective.",
+          "answer": "CREATIVELY",
+          "word_class": "adverb",
+          "formation_path": "CREATE → CREATIVELY",
+          "explanation": "CREATE → CREATIVELY (adverb). 'tackled the problem creatively' needs an adverb describing how the students dealt with the design challenge. Completed context: “Rather than abandon their idea, the students tackled the problem creatively, designing two separate zones.” The other family forms do not express the required meaning and/or grammatical role.",
           "qc_flags": [],
           "answer_provenance": "author_created_teacher_review_pending"
         },
@@ -1094,10 +1094,10 @@
         {
           "number": 24,
           "base_word": "DIFFERENT",
-          "answer": "DIFFERENCES",
-          "word_class": "noun",
-          "formation_path": "DIFFERENT → DIFFERENCES",
-          "explanation": "DIFFERENT → DIFFERENCES (noun). 'reflected those differences' needs a plural count noun referring to the contrasted habits. Context: “The completed room reflected those differences without favouring either group.” Common trap: different is an adjective.",
+          "answer": "DIFFERENTLY",
+          "word_class": "adverb",
+          "formation_path": "DIFFERENT → DIFFERENTLY",
+          "explanation": "DIFFERENT → DIFFERENTLY (adverb). 'work differently' requires an adverb modifying work; it describes contrasting approaches. Completed context: “The completed room allowed quiet readers and group members to work differently according to their needs, without favouring either group.” The other family forms do not express the required meaning and/or grammatical role.",
           "qc_flags": [],
           "answer_provenance": "author_created_teacher_review_pending"
         }
@@ -1113,7 +1113,7 @@
       "topic": "Environment & Local Community",
       "status": "draft_teacher_review",
       "instructions": "For questions 17–24, read the text below. Use the word given in capitals to form a word that fits each gap. There is an example at the beginning (0). Write your answers in CAPITAL LETTERS.",
-      "passage": "The proposed (0) {{0}} of a riverside walking trail caused genuine (17) {{17}} among local families. The path had been closed for years, but the council hoped to make use of the (18) {{18}} route instead of cutting through untouched woodland.\n\nDuring their first inspection, volunteers found an (19) {{19}} problem: part of the wooden bridge had been damaged by flooding. An engineer gave a clear (20) {{20}} of why the bridge needed repairs before anyone could cross it safely. She also measured the (21) {{21}} of the railings, as children would be using the trail.\n\nThe council stated that its (22) {{22}} was to reopen the path without disturbing wildlife along the river. After considering several alternatives, the team selected a safer (23) {{23}} for a small observation platform.\n\nThe (24) {{24}} of the route was slightly reduced so walkers would avoid a protected nesting area. When the trail eventually reopened, visitors appreciated both the improved access and the care taken to preserve the landscape.",
+      "passage": "Plans for the (0) {{0}} of a riverside walking trail left local families genuinely (17) {{17}}. The path had been closed for years, but the council hoped to make use of the (18) {{18}} route instead of cutting through untouched woodland.\n\nDuring their first inspection, volunteers found an (19) {{19}} problem: part of the wooden bridge had been damaged by flooding. An engineer gave a clear (20) {{20}} of why the bridge needed repairs before anyone could cross it safely. Her safety recommendations were (21) {{21}} valued by parents, who wanted children to use the trail safely.\n\nThe council stated that its (22) {{22}} was to reopen the path without disturbing wildlife along the river. After considering several alternatives, the team selected a safer (23) {{23}} for a small observation platform.\n\nThe (24) {{24}} of the route was slightly reduced so walkers would avoid a protected nesting area. When the trail eventually reopened, visitors appreciated both the improved access and the care taken to preserve the landscape.",
       "example": {
         "number": 0,
         "base_word": "RESTORE",
@@ -1123,10 +1123,10 @@
         {
           "number": 17,
           "base_word": "EXCITE",
-          "answer": "EXCITEMENT",
-          "word_class": "noun",
-          "formation_path": "EXCITE → EXCITEMENT",
-          "explanation": "EXCITE → EXCITEMENT (noun). 'caused genuine excitement' needs a noun for enthusiasm. Context: “The proposed (0) {{0}} of a riverside walking trail caused genuine excitement among local families.” Common trap: exciting is an adjective describing the event.",
+          "answer": "EXCITED",
+          "word_class": "adjective",
+          "formation_path": "EXCITE → EXCITED",
+          "explanation": "EXCITE → EXCITED (adjective). 'left families genuinely excited' describes the people's feelings about the reopening. Completed context: “Plans for the (0) {{0}} of a riverside walking trail left local families genuinely excited.” The other family forms do not express the required meaning and/or grammatical role.",
           "qc_flags": [],
           "answer_provenance": "author_created_teacher_review_pending"
         },
@@ -1163,10 +1163,10 @@
         {
           "number": 21,
           "base_word": "HIGH",
-          "answer": "HEIGHT",
-          "word_class": "noun",
-          "formation_path": "HIGH → HEIGHT",
-          "explanation": "HIGH → HEIGHT (noun). 'measure the height of the railings' uses the measurement noun. Context: “She also measured the height of the railings, as children would be using the trail.” Common trap: high is an adjective.",
+          "answer": "HIGHLY",
+          "word_class": "adverb",
+          "formation_path": "HIGH → HIGHLY",
+          "explanation": "HIGH → HIGHLY (adverb). 'highly valued' uses an adverb to intensify the passive adjective valued. Completed context: “Her safety recommendations were highly valued by parents, who wanted children to use the trail safely.” The other family forms do not express the required meaning and/or grammatical role.",
           "qc_flags": [],
           "answer_provenance": "author_created_teacher_review_pending"
         },
@@ -1212,7 +1212,7 @@
       "topic": "Media & Sustainability",
       "status": "draft_teacher_review",
       "instructions": "For questions 17–24, read the text below. Use the word given in capitals to form a word that fits each gap. There is an example at the beginning (0). Write your answers in CAPITAL LETTERS.",
-      "passage": "A group of students began (0) {{0}} a documentary about their school garden after noticing how much it had changed in one year. They started by making detailed (17) {{17}} of the insects and plants found there, then interviewed the volunteers who looked after the flower beds.\n\nTo make the film more engaging, the music club offered a live (18) {{18}} at the opening of the documentary. Each gardener also shared a (19) {{19}} story about why the space mattered to them. The (20) {{20}} of the film took longer than expected because the students had to work around lessons and changing weather.\n\nWhen an early version was shown to classmates, the (21) {{21}} was encouraging, although several viewers felt the introduction was too slow. The team therefore prepared a (22) {{22}} version that focused on the most interesting discoveries.\n\nThey also invited a reading (23) {{23}} to help make the scientific captions easier for younger pupils. The filmmakers had initially been (24) {{24}} whether anyone would watch their project, but the final screening attracted a full audience.",
+      "passage": "A group of students began (0) {{0}} a documentary about their school garden after noticing how much it had changed in one year. The most (17) {{17}} students noticed small insects that others had missed, then interviewed the volunteers who looked after the flower beds.\n\nTo make the film more engaging, the music club offered a live (18) {{18}} at the opening of the documentary. Each gardener also shared a (19) {{19}} story about why the space mattered to them. The (20) {{20}} of the film took longer than expected because the students had to work around lessons and changing weather.\n\nWhen an early version was shown to classmates, the (21) {{21}} was encouraging, although several viewers felt the introduction was too slow. The team therefore prepared a (22) {{22}} version that focused on the most interesting discoveries.\n\nThey also invited a reading (23) {{23}} to help make the scientific captions easier for younger pupils. The filmmakers had initially been (24) {{24}} whether anyone would watch their project, but the final screening attracted a full audience.",
       "example": {
         "number": 0,
         "base_word": "FILM",
@@ -1222,10 +1222,10 @@
         {
           "number": 17,
           "base_word": "OBSERVE",
-          "answer": "OBSERVATIONS",
-          "word_class": "noun",
-          "formation_path": "OBSERVE → OBSERVATIONS",
-          "explanation": "OBSERVE → OBSERVATIONS (noun). 'making detailed observations of insects and plants' describes recorded findings. Context: “They started by making detailed observations of the insects and plants found there, then interviewed the volunteers who looked after the flower beds.” Common trap: observe is a verb.",
+          "answer": "OBSERVANT",
+          "word_class": "adjective",
+          "formation_path": "OBSERVE → OBSERVANT",
+          "explanation": "OBSERVE → OBSERVANT (adjective). 'most observant students' uses the adjective for people who notice details. Completed context: “The most observant students noticed small insects that others had missed, then interviewed the volunteers who looked after the flower beds.” The other family forms do not express the required meaning and/or grammatical role.",
           "qc_flags": [],
           "answer_provenance": "author_created_teacher_review_pending"
         },
@@ -1311,7 +1311,7 @@
       "topic": "Community Planning",
       "status": "draft_teacher_review",
       "instructions": "For questions 17–24, read the text below. Use the word given in capitals to form a word that fits each gap. There is an example at the beginning (0). Write your answers in CAPITAL LETTERS.",
-      "passage": "Residents were (0) {{0}} in plans for a new playground beside the community centre when a group of teenagers asked to join the discussions. The organisers were (17) {{17}} by how many younger children also wanted to contribute. They decided to (18) {{18}} the consultation so that families from nearby streets could share their ideas.\n\nAt one meeting, parents discussed how children's (19) {{19}} might change when there were separate spaces for energetic games and quiet play. The council presented several (20) {{20}}, but none satisfied everyone. After considering safety, cost and accessibility, the group reached the (21) {{21}} that a simple design with more shade would work best.\n\nThe (22) {{22}} of new pathways began in early spring. When unexpected drainage problems delayed the work, students proposed a (23) {{23}} solution: they suggested using the extra space for a small rain garden.\n\nThe council recorded all important (24) {{24}} and explained them in a public notice. By summer, families were using a playground that reflected ideas from several generations.",
+      "passage": "Residents were (0) {{0}} in plans for a new playground beside the community centre when a group of teenagers asked to join the discussions. (17) {{17}}, many younger children also wanted to contribute. They decided to (18) {{18}} the consultation so that families from nearby streets could share their ideas.\n\nAt one meeting, parents discussed how children's (19) {{19}} might change when there were separate spaces for energetic games and quiet play. The council presented several (20) {{20}}, but none satisfied everyone. After considering safety, cost and accessibility, the group reached the (21) {{21}} that a simple design with more shade would work best.\n\nThe council decided to (22) {{22}} the old pathways in early spring. When unexpected drainage problems delayed the work, students proposed a (23) {{23}} solution: they suggested using the extra space for a small rain garden.\n\nThe council recorded all important (24) {{24}} and explained them in a public notice. By summer, families were using a playground that reflected ideas from several generations.",
       "example": {
         "number": 0,
         "base_word": "INVOLVE",
@@ -1321,10 +1321,10 @@
         {
           "number": 17,
           "base_word": "SURPRISE",
-          "answer": "SURPRISED",
-          "word_class": "adjective",
-          "formation_path": "SURPRISE → SURPRISED",
-          "explanation": "SURPRISE → SURPRISED (adjective). 'were surprised by how many' describes the organisers' feelings. Context: “The organisers were surprised by how many younger children also wanted to contribute.” Common trap: surprising describes a thing that causes surprise.",
+          "answer": "SURPRISINGLY",
+          "word_class": "adverb",
+          "formation_path": "SURPRISE → SURPRISINGLY",
+          "explanation": "SURPRISE → SURPRISINGLY (adverb). 'surprisingly' is a sentence adverb commenting on the unexpected level of participation. Completed context: “surprisingly, many younger children also wanted to contribute.” The other family forms do not express the required meaning and/or grammatical role.",
           "qc_flags": [],
           "answer_provenance": "author_created_teacher_review_pending"
         },
@@ -1371,10 +1371,10 @@
         {
           "number": 22,
           "base_word": "CONSTRUCT",
-          "answer": "CONSTRUCTION",
-          "word_class": "noun",
-          "formation_path": "CONSTRUCT → CONSTRUCTION",
-          "explanation": "CONSTRUCT → CONSTRUCTION (noun). 'the construction of new pathways' is building work. Context: “The construction of new pathways began in early spring.” Common trap: construct is a verb.",
+          "answer": "RECONSTRUCT",
+          "word_class": "verb",
+          "formation_path": "CONSTRUCT → RECONSTRUCT",
+          "explanation": "CONSTRUCT → RECONSTRUCT (verb). 'decided to reconstruct the old pathways' requires an infinitive verb meaning build them again. Completed context: “The council decided to reconstruct the old pathways in early spring.” The other family forms do not express the required meaning and/or grammatical role.",
           "qc_flags": [],
           "answer_provenance": "author_created_teacher_review_pending"
         },
@@ -1410,7 +1410,7 @@
       "topic": "Communication & School Life",
       "status": "draft_teacher_review",
       "instructions": "For questions 17–24, read the text below. Use the word given in capitals to form a word that fits each gap. There is an example at the beginning (0). Write your answers in CAPITAL LETTERS.",
-      "passage": "A group of students began (0) {{0}} short audio programmes to share school news with younger classes. The early (17) {{17}} of their radio station was difficult because none of the volunteers had used recording equipment before.\n\nAt the first meeting, the group discovered that classmates listened to school announcements very (18) {{18}}. Some preferred brief interviews, while others enjoyed longer discussions. The students therefore planned an (19) {{19}} programme that would include music, interviews and reports about school clubs.\n\nFew pupils had known about the (20) {{20}} of an old recording room beside the library. After cleaning it, the volunteers set realistic (21) {{21}} for their first broadcast. When listeners complained about background noise, the team provided an honest (22) {{22}} and promised to improve the sound quality.\n\nA later episode attracted a (23) {{23}} number of listeners than the first. The students' original (24) {{24}} had simply been to share useful information, but their station soon became a place where quieter pupils could make their voices heard.",
+      "passage": "A group of students began (0) {{0}} short audio programmes to share school news with younger classes. The early (17) {{17}} of their radio station was difficult because none of the volunteers had used recording equipment before.\n\nAt the first meeting, the group discovered that classmates listened to school announcements very (18) {{18}}. Some preferred brief interviews, while others enjoyed longer discussions. The students therefore planned an (19) {{19}} programme that would include music, interviews and reports about school clubs.\n\nFew pupils had known about the (20) {{20}} of an old recording room beside the library. After cleaning it, the volunteers (21) {{21}} received permission to broadcast during lunch breaks. When listeners complained about background noise, the team provided an honest (22) {{22}} and promised to improve the sound quality.\n\nA later episode attracted a (23) {{23}} number of listeners than the first. The students' original (24) {{24}} had simply been to share useful information, but their station soon became a place where quieter pupils could make their voices heard.",
       "example": {
         "number": 0,
         "base_word": "BROADCAST",
@@ -1460,10 +1460,10 @@
         {
           "number": 21,
           "base_word": "EXPECT",
-          "answer": "EXPECTATIONS",
-          "word_class": "noun",
-          "formation_path": "EXPECT → EXPECTATIONS",
-          "explanation": "EXPECT → EXPECTATIONS (noun). 'set realistic expectations' is a plural noun for what they hoped to achieve. Context: “After cleaning it, the volunteers set realistic expectations for their first broadcast.” Common trap: unexpected is an adjective.",
+          "answer": "UNEXPECTEDLY",
+          "word_class": "adverb",
+          "formation_path": "EXPECT → UNEXPECTEDLY",
+          "explanation": "EXPECT → UNEXPECTEDLY (adverb). 'unexpectedly received permission' is an adverb showing permission was not anticipated. Completed context: “After cleaning it, the volunteers unexpectedly received permission to broadcast during lunch breaks.” The other family forms do not express the required meaning and/or grammatical role.",
           "qc_flags": [],
           "answer_provenance": "author_created_teacher_review_pending"
         },
@@ -1509,7 +1509,7 @@
       "topic": "Arts & Community",
       "status": "draft_teacher_review",
       "instructions": "For questions 17–24, read the text below. Use the word given in capitals to form a word that fits each gap. There is an example at the beginning (0). Write your answers in CAPITAL LETTERS.",
-      "passage": "The (0) {{0}} of a charity theatre evening became more complicated when the school hall was closed for repairs. The volunteers had to find a suitable (17) {{17}} with enough space for a stage and an audience.\n\nAt the first rehearsal, the director checked the (18) {{18}} of the programme and realised that it would finish too late for younger children. An (19) {{19}} volunteer also noticed that some seats had a poor view of the stage. The organisers rearranged the room and asked the (20) {{20}} to shorten their scenes without removing important parts of the story.\n\nSeveral local businesses supported the event, and the director thanked their owners (21) {{21}}. The (22) {{22}} of tickets and printed programmes was completed just before opening night.\n\nThe audience's (23) {{23}} was enthusiastic, but the team faced a (24) {{24}} of seats when more families arrived than expected. Instead of admitting extra people into a crowded room, the school arranged another performance the following week. Both evenings raised money for a children's reading charity.",
+      "passage": "The (0) {{0}} of a charity theatre evening became more complicated when the school hall was closed for repairs. The volunteers had to (17) {{17}} the event to a hall with enough space for a stage and an audience.\n\nAt the first rehearsal, the director checked the (18) {{18}} of the programme and realised that it would finish too late for younger children. An (19) {{19}} volunteer also noticed that some seats had a poor view of the stage. The organisers rearranged the room and asked the (20) {{20}} to shorten their scenes without removing important parts of the story.\n\nSeveral local businesses supported the event, and the director thanked their owners (21) {{21}}. A final (22) {{22}} rehearsal helped the team solve several problems just before opening night.\n\nThe audience's (23) {{23}} was enthusiastic, but the team faced a (24) {{24}} of seats when more families arrived than expected. Instead of admitting extra people into a crowded room, the school arranged another performance the following week. Both evenings raised money for a children's reading charity.",
       "example": {
         "number": 0,
         "base_word": "ORGANISE",
@@ -1519,10 +1519,10 @@
         {
           "number": 17,
           "base_word": "LOCATE",
-          "answer": "LOCATION",
-          "word_class": "noun",
-          "formation_path": "LOCATE → LOCATION",
-          "explanation": "LOCATE → LOCATION (noun). 'find a suitable location' means choose a place. Context: “The volunteers had to find a suitable location with enough space for a stage and an audience.” Common trap: located is an adjective/participle.",
+          "answer": "RELOCATE",
+          "word_class": "verb",
+          "formation_path": "LOCATE → RELOCATE",
+          "explanation": "LOCATE → RELOCATE (verb). 'had to relocate the event' takes a bare infinitive after had to and means move it to another venue. Completed context: “The volunteers had to relocate the event to a hall with enough space for a stage and an audience.” The other family forms do not express the required meaning and/or grammatical role.",
           "qc_flags": [],
           "answer_provenance": "author_created_teacher_review_pending"
         },
@@ -1569,10 +1569,10 @@
         {
           "number": 22,
           "base_word": "PRODUCE",
-          "answer": "PRODUCTION",
-          "word_class": "noun",
-          "formation_path": "PRODUCE → PRODUCTION",
-          "explanation": "PRODUCE → PRODUCTION (noun). 'the production of tickets and programmes' means printing/manufacturing them. Context: “The production of tickets and printed programmes was completed just before opening night.” Common trap: produce is a verb.",
+          "answer": "PRODUCTIVE",
+          "word_class": "adjective",
+          "formation_path": "PRODUCE → PRODUCTIVE",
+          "explanation": "PRODUCE → PRODUCTIVE (adjective). 'a productive rehearsal' is an adjective describing a rehearsal that achieved useful results. Completed context: “A final productive rehearsal helped the team solve several problems just before opening night.” The other family forms do not express the required meaning and/or grammatical role.",
           "qc_flags": [],
           "answer_provenance": "author_created_teacher_review_pending"
         },
@@ -1707,7 +1707,7 @@
       "topic": "Science & Environment",
       "status": "draft_teacher_review",
       "instructions": "For questions 17–24, read the text below. Use the word given in capitals to form a word that fits each gap. There is an example at the beginning (0). Write your answers in CAPITAL LETTERS.",
-      "passage": "Young (0) {{0}} from three schools worked together on an exhibition about saving energy. One team proposed a (17) {{17}} way of showing how much electricity ordinary appliances used.\n\nBefore building the display, the students made several (18) {{18}} about the materials they could afford. The (19) {{19}} of a working model took nearly a month, partly because the first design was too complicated. When the team replaced expensive parts with recycled ones, there was a noticeable (20) {{20}} in the cost.\n\nThe students' (21) {{21}} grew as the opening day approached. Rather than ignore the (22) {{22}} equipment in their science laboratory, they repaired an old measuring device and used it to collect data. The results revealed an (23) {{23}} problem: a machine that appeared efficient used more electricity than they had predicted.\n\nAt the exhibition, visitors asked for (24) {{24}} of the findings. The students answered with graphs and simple demonstrations, showing that even a failed prediction can lead to a useful discovery.",
+      "passage": "Young (0) {{0}} from three schools worked together on an exhibition about saving energy. One team proposed a (17) {{17}} way of showing how much electricity ordinary appliances used.\n\nBefore building the display, the students made several (18) {{18}} about the materials they could afford. Their first model was only partly (19) {{19}} when the team realised the design was too complicated. When the team replaced expensive parts with recycled ones, there was a noticeable (20) {{20}} in the cost.\n\nAs the opening day approached, team members (21) {{21}} demonstrated their model to friends. Rather than ignore the (22) {{22}} equipment in their science laboratory, they repaired an old measuring device and used it to collect data. The results revealed an (23) {{23}} problem: a machine that appeared efficient used more electricity than they had predicted.\n\nAt the exhibition, visitors asked for (24) {{24}} of the findings. The students answered with graphs and simple demonstrations, showing that even a failed prediction can lead to a useful discovery.",
       "example": {
         "number": 0,
         "base_word": "RESEARCH",
@@ -1737,10 +1737,10 @@
         {
           "number": 19,
           "base_word": "DEVELOP",
-          "answer": "DEVELOPMENT",
-          "word_class": "noun",
-          "formation_path": "DEVELOP → DEVELOPMENT",
-          "explanation": "DEVELOP → DEVELOPMENT (noun). 'the development of a working model' names the process. Context: “The development of a working model took nearly a month, partly because the first design was too complicated.” Common trap: develop is a verb.",
+          "answer": "DEVELOPED",
+          "word_class": "adjective",
+          "formation_path": "DEVELOP → DEVELOPED",
+          "explanation": "DEVELOP → DEVELOPED (adjective). 'partly developed' requires a past-participle adjective describing an unfinished model. Completed context: “Their first model was only partly developed when the team realised the design was too complicated.” The other family forms do not express the required meaning and/or grammatical role.",
           "qc_flags": [],
           "answer_provenance": "author_created_teacher_review_pending"
         },
@@ -1757,10 +1757,10 @@
         {
           "number": 21,
           "base_word": "EXCITE",
-          "answer": "EXCITEMENT",
-          "word_class": "noun",
-          "formation_path": "EXCITE → EXCITEMENT",
-          "explanation": "EXCITE → EXCITEMENT (noun). 'the students' excitement grew' requires the noun for their enthusiasm. Context: “The students' excitement grew as the opening day approached.” Common trap: exciting describes the exhibition.",
+          "answer": "EXCITEDLY",
+          "word_class": "adverb",
+          "formation_path": "EXCITE → EXCITEDLY",
+          "explanation": "EXCITE → EXCITEDLY (adverb). 'excitedly demonstrated' needs an adverb describing the team members' enthusiastic action. Completed context: “As the opening day approached, team members excitedly demonstrated their model to friends.” The other family forms do not express the required meaning and/or grammatical role.",
           "qc_flags": [],
           "answer_provenance": "author_created_teacher_review_pending"
         },
@@ -1806,7 +1806,7 @@
       "topic": "History & Media",
       "status": "draft_teacher_review",
       "instructions": "For questions 17–24, read the text below. Use the word given in capitals to form a word that fits each gap. There is an example at the beginning (0). Write your answers in CAPITAL LETTERS.",
-      "passage": "A student group designed a (0) {{0}} walking tour for families visiting the old part of town. They wanted people to see familiar streets from a different perspective, so they began by climbing a small hill to check the (17) {{17}} of the viewpoint.\n\nTheir (18) {{18}} was to include places that explained how the neighbourhood had changed. One challenge was finding a safe (19) {{19}} for a rest stop away from busy traffic. They also measured the (20) {{20}} of the route, making sure younger children would be able to complete it.\n\nDuring several practice walks, the students recorded (21) {{21}} about historic buildings and interviewed shopkeepers. A short dramatic (22) {{22}} at the town square helped bring one local story to life.\n\nRather than repeat facts from a leaflet, the guides included (23) {{23}} memories shared by residents who had lived there for decades. The (24) {{24}} of an illustrated map was their final task. When the tour opened to families, visitors praised the balance between history, storytelling and gentle exercise.",
+      "passage": "A student group designed a (0) {{0}} walking tour for families visiting the old part of town. They wanted people to see familiar streets from a different perspective, so they began by climbing a small hill to check the (17) {{17}} of the viewpoint.\n\nThey (18) {{18}} included places that showed how the neighbourhood had changed, instead of choosing only famous landmarks. One challenge was finding a safe (19) {{19}} for a rest stop away from busy traffic. They also measured the (20) {{20}} of the route, making sure younger children would be able to complete it.\n\nDuring practice walks, the most (21) {{21}} students noticed unusual details on historic buildings and interviewed shopkeepers. A short dramatic (22) {{22}} at the town square helped bring one local story to life.\n\nRather than repeat facts from a leaflet, the guides included (23) {{23}} memories shared by residents who had lived there for decades. The (24) {{24}} of an illustrated map was their final task. When the tour opened to families, visitors praised the balance between history, storytelling and gentle exercise.",
       "example": {
         "number": 0,
         "base_word": "GUIDE",
@@ -1826,10 +1826,10 @@
         {
           "number": 18,
           "base_word": "INTEND",
-          "answer": "INTENTION",
-          "word_class": "noun",
-          "formation_path": "INTEND → INTENTION",
-          "explanation": "INTEND → INTENTION (noun). 'their intention was to include...' expresses the plan. Context: “Their intention was to include places that explained how the neighbourhood had changed.” Common trap: intentional is an adjective.",
+          "answer": "INTENTIONALLY",
+          "word_class": "adverb",
+          "formation_path": "INTEND → INTENTIONALLY",
+          "explanation": "INTEND → INTENTIONALLY (adverb). 'intentionally included' expresses a deliberate choice with an adverb modifying included. Completed context: “They intentionally included places that showed how the neighbourhood had changed, instead of choosing only famous landmarks.” The other family forms do not express the required meaning and/or grammatical role.",
           "qc_flags": [],
           "answer_provenance": "author_created_teacher_review_pending"
         },
@@ -1856,10 +1856,10 @@
         {
           "number": 21,
           "base_word": "OBSERVE",
-          "answer": "OBSERVATIONS",
-          "word_class": "noun",
-          "formation_path": "OBSERVE → OBSERVATIONS",
-          "explanation": "OBSERVE → OBSERVATIONS (noun). 'recorded observations about buildings' refers to details they noticed. Context: “During several practice walks, the students recorded observations about historic buildings and interviewed shopkeepers.” Common trap: observant is an adjective.",
+          "answer": "OBSERVANT",
+          "word_class": "adjective",
+          "formation_path": "OBSERVE → OBSERVANT",
+          "explanation": "OBSERVE → OBSERVANT (adjective). 'most observant students' is an adjective for those who notice details. Completed context: “During practice walks, the most observant students noticed unusual details on historic buildings and interviewed shopkeepers.” The other family forms do not express the required meaning and/or grammatical role.",
           "qc_flags": [],
           "answer_provenance": "author_created_teacher_review_pending"
         },
@@ -1905,7 +1905,7 @@
       "topic": "Education & Inclusion",
       "status": "draft_teacher_review",
       "instructions": "For questions 17–24, read the text below. Use the word given in capitals to form a word that fits each gap. There is an example at the beginning (0). Write your answers in CAPITAL LETTERS.",
-      "passage": "The town council wanted to make the public library more (0) {{0}} to children and older residents. Before changing anything, librarians asked visitors which services they found difficult to use. The (17) {{17}} was stronger than expected, and many families requested longer opening hours.\n\nFor younger readers, the staff created a (18) {{18}} version of the library guide with clear pictures. They also asked an accessibility (19) {{19}} to prepare audio instructions for visitors who had difficulty reading printed signs. At first, some staff were (20) {{20}} whether the new system would be popular, but they agreed to test it for a month.\n\nThe librarians were (21) {{21}} when the improved website attracted a (22) {{22}} range of visitors, including people who had never used the building before. They also introduced simple rules about respectful (23) {{23}} in shared study areas.\n\nEvery family was offered a (24) {{24}} of quiet reading sessions or group activities. By the end of the trial, visitors said the library felt less intimidating and much easier to use.",
+      "passage": "The town council wanted to make the public library more (0) {{0}} to children and older residents. Before changing anything, librarians asked visitors which services they found difficult to use. The librarians were (17) {{17}} to visitors' requests, particularly suggestions for longer opening hours.\n\nFor younger readers, the staff created a (18) {{18}} version of the library guide with clear pictures. They also asked an accessibility (19) {{19}} to prepare audio instructions for visitors who had difficulty reading printed signs. At first, some staff were (20) {{20}} whether the new system would be popular, but they agreed to test it for a month.\n\nThe librarians were (21) {{21}} when the improved website attracted a (22) {{22}} range of visitors, including people who had never used the building before. They also introduced simple rules about respectful (23) {{23}} in shared study areas.\n\nEvery family was offered a (24) {{24}} of quiet reading sessions or group activities. By the end of the trial, visitors said the library felt less intimidating and much easier to use.",
       "example": {
         "number": 0,
         "base_word": "ACCESS",
@@ -1915,10 +1915,10 @@
         {
           "number": 17,
           "base_word": "RESPOND",
-          "answer": "RESPONSE",
-          "word_class": "noun",
-          "formation_path": "RESPOND → RESPONSE",
-          "explanation": "RESPOND → RESPONSE (noun). 'the response was stronger than expected' refers to visitors' reactions. Context: “The response was stronger than expected, and many families requested longer opening hours.” Common trap: respond is a verb.",
+          "answer": "RESPONSIVE",
+          "word_class": "adjective",
+          "formation_path": "RESPOND → RESPONSIVE",
+          "explanation": "RESPOND → RESPONSIVE (adjective). 'responsive to requests' is a standard adjective + preposition pattern. Completed context: “The librarians were responsive to visitors' requests, particularly suggestions for longer opening hours.” The other family forms do not express the required meaning and/or grammatical role.",
           "qc_flags": [],
           "answer_provenance": "author_created_teacher_review_pending"
         },
