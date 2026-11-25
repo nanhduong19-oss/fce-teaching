@@ -1,7 +1,7 @@
 {
   "schema_version": "1.1",
   "tier": "mixed",
-  "release": "mixed-review-10-practices-v1",
+  "release": "mixed-review-20-practices-v2",
   "content_status": "qc_revision_in_progress",
   "practices": [
     {
@@ -1063,6 +1063,986 @@
         }
       ],
       "qc_status": "qc_revised_pending_teacher_signoff"
+    },
+    {
+      "id": "mixed-review-11",
+      "tier": "mixed",
+      "practice": 11,
+      "title": "A New Way of Learning",
+      "topic": "Education",
+      "status": "new_assistant_authored",
+      "instructions": "For questions 17–24, use the word given in capitals to form a word that fits each gap. There is an example (0). Write your answers in CAPITAL LETTERS.",
+      "passage": "Careful (0) {{0}} is important when approaching a new challenge.\n\nOnline learning has changed education in many ways. One major (17) {{17}} is that students can study at their own pace. Modern platforms offer a wide (18) {{18}} of exercises designed for different levels. Their growing (19) {{19}} is partly due to the freedom they give learners. However, teachers must take students' individual needs into (20) {{20}} when designing online courses.\n\nSome learners have difficulty staying (21) {{21}} without regular classroom lessons. Fortunately, technology can (22) {{22}} teachers to monitor progress more easily. Many websites also provide clear (23) {{23}} of difficult grammar rules. With careful planning, online learning can support students' academic (24) {{24}}.",
+      "example": {
+        "number": 0,
+        "base_word": "PREPARE",
+        "answer": "PREPARATION"
+      },
+      "items": [
+        {
+          "number": 17,
+          "base_word": "ABLE",
+          "answer": "ABILITY",
+          "word_class": "noun",
+          "tier_source": 1,
+          "formation_path": "ABLE → ABILITY",
+          "explanation": "ABLE → ABILITY. Form the correct noun; check meaning and spelling.",
+          "qc_flags": []
+        },
+        {
+          "number": 18,
+          "base_word": "VARY",
+          "answer": "VARIETY",
+          "word_class": "noun",
+          "tier_source": 1,
+          "formation_path": "VARY → VARIETY",
+          "explanation": "VARY → VARIETY. Form the correct noun; check meaning and spelling.",
+          "qc_flags": []
+        },
+        {
+          "number": 19,
+          "base_word": "POPULAR",
+          "answer": "POPULARITY",
+          "word_class": "noun",
+          "tier_source": 1,
+          "formation_path": "POPULAR → POPULARITY",
+          "explanation": "POPULAR → POPULARITY. Form the correct noun; check meaning and spelling.",
+          "qc_flags": []
+        },
+        {
+          "number": 20,
+          "base_word": "CONSIDER",
+          "answer": "CONSIDERATION",
+          "word_class": "noun",
+          "tier_source": 1,
+          "formation_path": "CONSIDER → CONSIDERATION",
+          "explanation": "CONSIDER → CONSIDERATION. Form the correct noun; check meaning and spelling.",
+          "qc_flags": []
+        },
+        {
+          "number": 21,
+          "base_word": "ACT",
+          "answer": "ACTIVE",
+          "word_class": "adjective",
+          "tier_source": 1,
+          "formation_path": "ACT → ACTIVE",
+          "explanation": "ACT → ACTIVE. Form the correct adjective; check meaning and spelling.",
+          "qc_flags": []
+        },
+        {
+          "number": 22,
+          "base_word": "ABLE",
+          "answer": "ENABLE",
+          "word_class": "verb",
+          "tier_source": 1,
+          "formation_path": "ABLE → ENABLE",
+          "explanation": "ABLE → ENABLE. Form the correct verb; check meaning and spelling.",
+          "qc_flags": []
+        },
+        {
+          "number": 23,
+          "base_word": "EXPLAIN",
+          "answer": "EXPLANATIONS",
+          "word_class": "noun",
+          "tier_source": 2,
+          "formation_path": "EXPLAIN → EXPLANATIONS",
+          "explanation": "EXPLAIN → EXPLANATIONS. Form the correct noun; check meaning and spelling.",
+          "qc_flags": []
+        },
+        {
+          "number": 24,
+          "base_word": "DEVELOP",
+          "answer": "DEVELOPMENT",
+          "word_class": "noun",
+          "tier_source": 2,
+          "formation_path": "DEVELOP → DEVELOPMENT",
+          "explanation": "DEVELOP → DEVELOPMENT. Form the correct noun; check meaning and spelling.",
+          "qc_flags": []
+        }
+      ],
+      "qc_status": "qc_checked_2026-11-25"
+    },
+    {
+      "id": "mixed-review-12",
+      "tier": "mixed",
+      "practice": 12,
+      "title": "An Unexpected Discovery",
+      "topic": "Science",
+      "status": "new_assistant_authored",
+      "instructions": "For questions 17–24, use the word given in capitals to form a word that fits each gap. There is an example (0). Write your answers in CAPITAL LETTERS.",
+      "passage": "Careful (0) {{0}} is important when approaching a new challenge.\n\nA group of young (17) {{17}} recently explored a cave in a remote mountain region. The cave's entrance was almost hidden by the (18) {{18}} forest. Inside, they discovered paintings whose (19) {{19}} had remained a mystery for centuries. The researchers carefully recorded their (20) {{20}} and collected samples from the walls.\n\nSome pictures showed animals that had (21) {{21}} from the area long ago. The team found strong (22) {{22}} that people had lived nearby thousands of years earlier. Their discovery could greatly improve our (23) {{23}} of early human communities. The expedition ended with an (24) {{24}} result that attracted international attention.",
+      "example": {
+        "number": 0,
+        "base_word": "PREPARE",
+        "answer": "PREPARATION"
+      },
+      "items": [
+        {
+          "number": 17,
+          "base_word": "SCIENCE",
+          "answer": "SCIENTISTS",
+          "word_class": "noun",
+          "tier_source": 1,
+          "formation_path": "SCIENCE → SCIENTISTS",
+          "explanation": "SCIENCE → SCIENTISTS. Form the correct noun; check meaning and spelling.",
+          "qc_flags": []
+        },
+        {
+          "number": 18,
+          "base_word": "SURROUND",
+          "answer": "SURROUNDING",
+          "word_class": "adjective",
+          "tier_source": 1,
+          "formation_path": "SURROUND → SURROUNDING",
+          "explanation": "SURROUND → SURROUNDING. Form the correct adjective; check meaning and spelling.",
+          "qc_flags": []
+        },
+        {
+          "number": 19,
+          "base_word": "EXIST",
+          "answer": "EXISTENCE",
+          "word_class": "noun",
+          "tier_source": 2,
+          "formation_path": "EXIST → EXISTENCE",
+          "explanation": "EXIST → EXISTENCE. Form the correct noun; check meaning and spelling.",
+          "qc_flags": []
+        },
+        {
+          "number": 20,
+          "base_word": "OBSERVE",
+          "answer": "OBSERVATIONS",
+          "word_class": "noun",
+          "tier_source": 2,
+          "formation_path": "OBSERVE → OBSERVATIONS",
+          "explanation": "OBSERVE → OBSERVATIONS. Form the correct noun; check meaning and spelling.",
+          "qc_flags": []
+        },
+        {
+          "number": 21,
+          "base_word": "APPEAR",
+          "answer": "DISAPPEARED",
+          "word_class": "verb",
+          "tier_source": 1,
+          "formation_path": "APPEAR → DISAPPEARED",
+          "explanation": "APPEAR → DISAPPEARED. Form the correct verb; check meaning and spelling.",
+          "qc_flags": []
+        },
+        {
+          "number": 22,
+          "base_word": "EVIDENT",
+          "answer": "EVIDENCE",
+          "word_class": "noun",
+          "tier_source": 1,
+          "formation_path": "EVIDENT → EVIDENCE",
+          "explanation": "EVIDENT → EVIDENCE. Form the correct noun; check meaning and spelling.",
+          "qc_flags": []
+        },
+        {
+          "number": 23,
+          "base_word": "KNOW",
+          "answer": "KNOWLEDGE",
+          "word_class": "noun",
+          "tier_source": 1,
+          "formation_path": "KNOW → KNOWLEDGE",
+          "explanation": "KNOW → KNOWLEDGE. Form the correct noun; check meaning and spelling.",
+          "qc_flags": []
+        },
+        {
+          "number": 24,
+          "base_word": "EXPECT",
+          "answer": "UNEXPECTED",
+          "word_class": "adjective",
+          "tier_source": 2,
+          "formation_path": "EXPECT → UNEXPECTED",
+          "explanation": "EXPECT → UNEXPECTED. Form the correct adjective; check meaning and spelling.",
+          "qc_flags": []
+        }
+      ],
+      "qc_status": "qc_checked_2026-11-25"
+    },
+    {
+      "id": "mixed-review-13",
+      "tier": "mixed",
+      "practice": 13,
+      "title": "The School Talent Competition",
+      "topic": "Arts",
+      "status": "new_assistant_authored",
+      "instructions": "For questions 17–24, use the word given in capitals to form a word that fits each gap. There is an example (0). Write your answers in CAPITAL LETTERS.",
+      "passage": "Careful (0) {{0}} is important when approaching a new challenge.\n\nEvery year, our school organises a talent (17) {{17}} for students who enjoy music and drama. Last year's event included several excellent (18) {{18}}, including a teenage violinist. The audience was particularly impressed by the (19) {{19}} of the youngest participants. One group used its (20) {{20}} to produce an original musical.\n\nThe costumes were colourful, and the acting was extremely (21) {{21}}. The judges faced a difficult (22) {{22}} when selecting the winners. Although the results were announced at the end, the real (23) {{23}} came from performing in front of friends and family. For many students, it was a truly (24) {{24}} experience.",
+      "example": {
+        "number": 0,
+        "base_word": "PREPARE",
+        "answer": "PREPARATION"
+      },
+      "items": [
+        {
+          "number": 17,
+          "base_word": "COMPETE",
+          "answer": "COMPETITION",
+          "word_class": "noun",
+          "tier_source": 1,
+          "formation_path": "COMPETE → COMPETITION",
+          "explanation": "COMPETE → COMPETITION. Form the correct noun; check meaning and spelling.",
+          "qc_flags": []
+        },
+        {
+          "number": 18,
+          "base_word": "PERFORM",
+          "answer": "PERFORMANCES",
+          "word_class": "noun",
+          "tier_source": 2,
+          "formation_path": "PERFORM → PERFORMANCES",
+          "explanation": "PERFORM → PERFORMANCES. Form the correct noun; check meaning and spelling.",
+          "qc_flags": []
+        },
+        {
+          "number": 19,
+          "base_word": "ABLE",
+          "answer": "ABILITIES",
+          "word_class": "noun",
+          "tier_source": 1,
+          "formation_path": "ABLE → ABILITIES",
+          "explanation": "ABLE → ABILITIES. Form the correct noun; check meaning and spelling.",
+          "qc_flags": []
+        },
+        {
+          "number": 20,
+          "base_word": "CREATE",
+          "answer": "CREATIVITY",
+          "word_class": "noun",
+          "tier_source": 2,
+          "formation_path": "CREATE → CREATIVITY",
+          "explanation": "CREATE → CREATIVITY. Form the correct noun; check meaning and spelling.",
+          "qc_flags": []
+        },
+        {
+          "number": 21,
+          "base_word": "IMPRESS",
+          "answer": "IMPRESSIVE",
+          "word_class": "adjective",
+          "tier_source": 1,
+          "formation_path": "IMPRESS → IMPRESSIVE",
+          "explanation": "IMPRESS → IMPRESSIVE. Form the correct adjective; check meaning and spelling.",
+          "qc_flags": []
+        },
+        {
+          "number": 22,
+          "base_word": "CHOOSE",
+          "answer": "CHOICE",
+          "word_class": "noun",
+          "tier_source": 2,
+          "formation_path": "CHOOSE → CHOICE",
+          "explanation": "CHOOSE → CHOICE. Form the correct noun; check meaning and spelling.",
+          "qc_flags": []
+        },
+        {
+          "number": 23,
+          "base_word": "EXCITE",
+          "answer": "EXCITEMENT",
+          "word_class": "noun",
+          "tier_source": 2,
+          "formation_path": "EXCITE → EXCITEMENT",
+          "explanation": "EXCITE → EXCITEMENT. Form the correct noun; check meaning and spelling.",
+          "qc_flags": []
+        },
+        {
+          "number": 24,
+          "base_word": "MEMORY",
+          "answer": "MEMORABLE",
+          "word_class": "adjective",
+          "tier_source": 1,
+          "formation_path": "MEMORY → MEMORABLE",
+          "explanation": "MEMORY → MEMORABLE. Form the correct adjective; check meaning and spelling.",
+          "qc_flags": []
+        }
+      ],
+      "qc_status": "qc_checked_2026-11-25"
+    },
+    {
+      "id": "mixed-review-14",
+      "tier": "mixed",
+      "practice": 14,
+      "title": "Protecting Endangered Wildlife",
+      "topic": "Environment",
+      "status": "new_assistant_authored",
+      "instructions": "For questions 17–24, use the word given in capitals to form a word that fits each gap. There is an example (0). Write your answers in CAPITAL LETTERS.",
+      "passage": "Careful (0) {{0}} is important when approaching a new challenge.\n\nMany wild animals face serious threats because of human (17) {{17}}. The destruction of their (18) {{18}} habitats has made survival increasingly difficult. Some species are now officially classified as (19) {{19}}. Conservation groups work to protect these animals and their (20) {{20}}.\n\nThey also organise educational (21) {{21}} to raise public awareness. It would be (22) {{22}} to expect every environmental problem to disappear immediately. However, there is clear (23) {{23}} that well-managed conservation programmes can succeed. Everyone has a (24) {{24}} to help protect the planet for future generations.",
+      "example": {
+        "number": 0,
+        "base_word": "PREPARE",
+        "answer": "PREPARATION"
+      },
+      "items": [
+        {
+          "number": 17,
+          "base_word": "ACT",
+          "answer": "ACTIVITIES",
+          "word_class": "noun",
+          "tier_source": 1,
+          "formation_path": "ACT → ACTIVITIES",
+          "explanation": "ACT → ACTIVITIES. Form the correct noun; check meaning and spelling.",
+          "qc_flags": []
+        },
+        {
+          "number": 18,
+          "base_word": "NATURE",
+          "answer": "NATURAL",
+          "word_class": "adjective",
+          "tier_source": 1,
+          "formation_path": "NATURE → NATURAL",
+          "explanation": "NATURE → NATURAL. Form the correct adjective; check meaning and spelling.",
+          "qc_flags": []
+        },
+        {
+          "number": 19,
+          "base_word": "DANGER",
+          "answer": "ENDANGERED",
+          "word_class": "adjective",
+          "tier_source": 1,
+          "formation_path": "DANGER → ENDANGERED",
+          "explanation": "DANGER → ENDANGERED. Form the correct adjective; check meaning and spelling.",
+          "qc_flags": []
+        },
+        {
+          "number": 20,
+          "base_word": "SURROUND",
+          "answer": "SURROUNDINGS",
+          "word_class": "noun",
+          "tier_source": 1,
+          "formation_path": "SURROUND → SURROUNDINGS",
+          "explanation": "SURROUND → SURROUNDINGS. Form the correct noun; check meaning and spelling.",
+          "qc_flags": []
+        },
+        {
+          "number": 21,
+          "base_word": "ACT",
+          "answer": "ACTIVITIES",
+          "word_class": "noun",
+          "tier_source": 1,
+          "formation_path": "ACT → ACTIVITIES",
+          "explanation": "ACT → ACTIVITIES. Form the correct noun; check meaning and spelling.",
+          "qc_flags": []
+        },
+        {
+          "number": 22,
+          "base_word": "POSSIBLE",
+          "answer": "IMPOSSIBLE",
+          "word_class": "noun",
+          "tier_source": 1,
+          "formation_path": "POSSIBLE → IMPOSSIBLE",
+          "explanation": "POSSIBLE → IMPOSSIBLE. Form the correct noun; check meaning and spelling.",
+          "qc_flags": []
+        },
+        {
+          "number": 23,
+          "base_word": "EVIDENT",
+          "answer": "EVIDENCE",
+          "word_class": "noun",
+          "tier_source": 1,
+          "formation_path": "EVIDENT → EVIDENCE",
+          "explanation": "EVIDENT → EVIDENCE. Form the correct noun; check meaning and spelling.",
+          "qc_flags": []
+        },
+        {
+          "number": 24,
+          "base_word": "RESPONSIBLE",
+          "answer": "RESPONSIBILITY",
+          "word_class": "noun",
+          "tier_source": 1,
+          "formation_path": "RESPONSIBLE → RESPONSIBILITY",
+          "explanation": "RESPONSIBLE → RESPONSIBILITY. Form the correct noun; check meaning and spelling.",
+          "qc_flags": []
+        }
+      ],
+      "qc_status": "qc_checked_2026-11-25"
+    },
+    {
+      "id": "mixed-review-15",
+      "tier": "mixed",
+      "practice": 15,
+      "title": "Choosing the Right Career",
+      "topic": "Careers",
+      "status": "new_assistant_authored",
+      "instructions": "For questions 17–24, use the word given in capitals to form a word that fits each gap. There is an example (0). Write your answers in CAPITAL LETTERS.",
+      "passage": "Careful (0) {{0}} is important when approaching a new challenge.\n\nMaking a career (17) {{17}} can be challenging for teenagers. Students need to consider their interests, (18) {{18}} and future goals. Some dream of becoming (19) {{19}}, while others prefer creative professions. Career advisers can provide useful (20) {{20}} about different occupations.\n\nThey also explain the importance of gaining relevant experience and developing (21) {{21}} skills. Teenagers are sometimes (22) {{22}} about which path to follow. It is therefore helpful to examine several (23) {{23}} before making a final choice. Above all, students should remember that personal (24) {{24}} takes time and effort.",
+      "example": {
+        "number": 0,
+        "base_word": "PREPARE",
+        "answer": "PREPARATION"
+      },
+      "items": [
+        {
+          "number": 17,
+          "base_word": "DECIDE",
+          "answer": "DECISION",
+          "word_class": "noun",
+          "tier_source": 2,
+          "formation_path": "DECIDE → DECISION",
+          "explanation": "DECIDE → DECISION. Form the correct noun; check meaning and spelling.",
+          "qc_flags": []
+        },
+        {
+          "number": 18,
+          "base_word": "ABLE",
+          "answer": "ABILITIES",
+          "word_class": "noun",
+          "tier_source": 1,
+          "formation_path": "ABLE → ABILITIES",
+          "explanation": "ABLE → ABILITIES. Form the correct noun; check meaning and spelling.",
+          "qc_flags": []
+        },
+        {
+          "number": 19,
+          "base_word": "SCIENCE",
+          "answer": "SCIENTISTS",
+          "word_class": "noun",
+          "tier_source": 1,
+          "formation_path": "SCIENCE → SCIENTISTS",
+          "explanation": "SCIENCE → SCIENTISTS. Form the correct noun; check meaning and spelling.",
+          "qc_flags": []
+        },
+        {
+          "number": 20,
+          "base_word": "KNOW",
+          "answer": "KNOWLEDGE",
+          "word_class": "noun",
+          "tier_source": 1,
+          "formation_path": "KNOW → KNOWLEDGE",
+          "explanation": "KNOW → KNOWLEDGE. Form the correct noun; check meaning and spelling.",
+          "qc_flags": []
+        },
+        {
+          "number": 21,
+          "base_word": "VARY",
+          "answer": "VARIOUS",
+          "word_class": "adjective",
+          "tier_source": 1,
+          "formation_path": "VARY → VARIOUS",
+          "explanation": "VARY → VARIOUS. Form the correct adjective; check meaning and spelling.",
+          "qc_flags": []
+        },
+        {
+          "number": 22,
+          "base_word": "SURE",
+          "answer": "UNSURE",
+          "word_class": "adjective",
+          "tier_source": 2,
+          "formation_path": "SURE → UNSURE",
+          "explanation": "SURE → UNSURE. Form the correct adjective; check meaning and spelling.",
+          "qc_flags": []
+        },
+        {
+          "number": 23,
+          "base_word": "POSSIBLE",
+          "answer": "POSSIBILITIES",
+          "word_class": "noun",
+          "tier_source": 1,
+          "formation_path": "POSSIBLE → POSSIBILITIES",
+          "explanation": "POSSIBLE → POSSIBILITIES. Form the correct noun; check meaning and spelling.",
+          "qc_flags": []
+        },
+        {
+          "number": 24,
+          "base_word": "DEVELOP",
+          "answer": "DEVELOPMENT",
+          "word_class": "noun",
+          "tier_source": 2,
+          "formation_path": "DEVELOP → DEVELOPMENT",
+          "explanation": "DEVELOP → DEVELOPMENT. Form the correct noun; check meaning and spelling.",
+          "qc_flags": []
+        }
+      ],
+      "qc_status": "qc_checked_2026-11-25"
+    },
+    {
+      "id": "mixed-review-16",
+      "tier": "mixed",
+      "practice": 16,
+      "title": "A Remarkable Invention",
+      "topic": "Innovation",
+      "status": "new_assistant_authored",
+      "instructions": "For questions 17–24, use the word given in capitals to form a word that fits each gap. There is an example (0). Write your answers in CAPITAL LETTERS.",
+      "passage": "Careful (0) {{0}} is important when approaching a new challenge.\n\nThe (17) {{17}} of a new water-cleaning device has attracted worldwide attention. Its young (18) {{18}} wanted to help communities without access to safe drinking water. The device uses a surprisingly simple but highly (19) {{19}} process. During testing, the team tried several (20) {{20}} of the original design.\n\nUnfortunately, the first model was (21) {{21}} to remove certain dangerous chemicals. After further experiments, its (22) {{22}} improved considerably. The researchers reached the (23) {{23}} that the technology could be used in remote villages. Its success has created exciting new (24) {{24}} for future research.",
+      "example": {
+        "number": 0,
+        "base_word": "PREPARE",
+        "answer": "PREPARATION"
+      },
+      "items": [
+        {
+          "number": 17,
+          "base_word": "DEVELOP",
+          "answer": "DEVELOPMENT",
+          "word_class": "noun",
+          "tier_source": 2,
+          "formation_path": "DEVELOP → DEVELOPMENT",
+          "explanation": "DEVELOP → DEVELOPMENT. Form the correct noun; check meaning and spelling.",
+          "qc_flags": []
+        },
+        {
+          "number": 18,
+          "base_word": "CREATE",
+          "answer": "CREATOR",
+          "word_class": "noun",
+          "tier_source": 2,
+          "formation_path": "CREATE → CREATOR",
+          "explanation": "CREATE → CREATOR. Form the correct noun; check meaning and spelling.",
+          "qc_flags": []
+        },
+        {
+          "number": 19,
+          "base_word": "SCIENCE",
+          "answer": "SCIENTIFIC",
+          "word_class": "adjective",
+          "tier_source": 1,
+          "formation_path": "SCIENCE → SCIENTIFIC",
+          "explanation": "SCIENCE → SCIENTIFIC. Form the correct adjective; check meaning and spelling.",
+          "qc_flags": []
+        },
+        {
+          "number": 20,
+          "base_word": "VARY",
+          "answer": "VARIATIONS",
+          "word_class": "noun",
+          "tier_source": 1,
+          "formation_path": "VARY → VARIATIONS",
+          "explanation": "VARY → VARIATIONS. Form the correct noun; check meaning and spelling.",
+          "qc_flags": []
+        },
+        {
+          "number": 21,
+          "base_word": "ABLE",
+          "answer": "UNABLE",
+          "word_class": "adjective",
+          "tier_source": 1,
+          "formation_path": "ABLE → UNABLE",
+          "explanation": "ABLE → UNABLE. Form the correct adjective; check meaning and spelling.",
+          "qc_flags": []
+        },
+        {
+          "number": 22,
+          "base_word": "PERFORM",
+          "answer": "PERFORMANCE",
+          "word_class": "noun",
+          "tier_source": 2,
+          "formation_path": "PERFORM → PERFORMANCE",
+          "explanation": "PERFORM → PERFORMANCE. Form the correct noun; check meaning and spelling.",
+          "qc_flags": []
+        },
+        {
+          "number": 23,
+          "base_word": "CONCLUDE",
+          "answer": "CONCLUSION",
+          "word_class": "noun",
+          "tier_source": 2,
+          "formation_path": "CONCLUDE → CONCLUSION",
+          "explanation": "CONCLUDE → CONCLUSION. Form the correct noun; check meaning and spelling.",
+          "qc_flags": []
+        },
+        {
+          "number": 24,
+          "base_word": "POSSIBLE",
+          "answer": "POSSIBILITIES",
+          "word_class": "noun",
+          "tier_source": 1,
+          "formation_path": "POSSIBLE → POSSIBILITIES",
+          "explanation": "POSSIBLE → POSSIBILITIES. Form the correct noun; check meaning and spelling.",
+          "qc_flags": []
+        }
+      ],
+      "qc_status": "qc_checked_2026-11-25"
+    },
+    {
+      "id": "mixed-review-17",
+      "tier": "mixed",
+      "practice": 17,
+      "title": "The Psychology of First Impressions",
+      "topic": "Psychology",
+      "status": "new_assistant_authored",
+      "instructions": "For questions 17–24, use the word given in capitals to form a word that fits each gap. There is an example (0). Write your answers in CAPITAL LETTERS.",
+      "passage": "Careful (0) {{0}} is important when approaching a new challenge.\n\nFirst impressions can strongly influence the way people interact. Researchers have found that physical (17) {{17}} is not the only factor affecting our opinions. A person's (18) {{18}} and communication style are often equally important. Friendly (19) {{19}} can make others feel more comfortable. People who listen carefully and respond (20) {{20}} usually create a positive impression.\n\nHowever, it is (21) {{21}} to judge someone's character accurately after a single meeting. Cultural (22) {{22}} may also affect how gestures and expressions are understood. (23) {{23}}, people sometimes form strong opinions without enough information. This is why we should avoid making (24) {{24}} about others too quickly.",
+      "example": {
+        "number": 0,
+        "base_word": "PREPARE",
+        "answer": "PREPARATION"
+      },
+      "items": [
+        {
+          "number": 17,
+          "base_word": "APPEAR",
+          "answer": "APPEARANCE",
+          "word_class": "noun",
+          "tier_source": 1,
+          "formation_path": "APPEAR → APPEARANCE",
+          "explanation": "APPEAR → APPEARANCE. Form the correct noun; check meaning and spelling.",
+          "qc_flags": []
+        },
+        {
+          "number": 18,
+          "base_word": "PERSON",
+          "answer": "PERSONALITY",
+          "word_class": "noun",
+          "tier_source": 2,
+          "formation_path": "PERSON → PERSONALITY",
+          "explanation": "PERSON → PERSONALITY. Form the correct noun; check meaning and spelling.",
+          "qc_flags": []
+        },
+        {
+          "number": 19,
+          "base_word": "BEHAVE",
+          "answer": "BEHAVIOUR",
+          "word_class": "noun",
+          "tier_source": 2,
+          "formation_path": "BEHAVE → BEHAVIOUR",
+          "explanation": "BEHAVE → BEHAVIOUR. Form the correct noun; check meaning and spelling.",
+          "qc_flags": []
+        },
+        {
+          "number": 20,
+          "base_word": "RESPONSIBLE",
+          "answer": "RESPONSIBLY",
+          "word_class": "adverb",
+          "tier_source": 1,
+          "formation_path": "RESPONSIBLE → RESPONSIBLY",
+          "explanation": "RESPONSIBLE → RESPONSIBLY. Form the correct adverb; check meaning and spelling.",
+          "qc_flags": []
+        },
+        {
+          "number": 21,
+          "base_word": "LIKE",
+          "answer": "UNLIKELY",
+          "word_class": "adverb",
+          "tier_source": 1,
+          "formation_path": "LIKE → UNLIKELY",
+          "explanation": "LIKE → UNLIKELY. Form the correct adverb; check meaning and spelling.",
+          "qc_flags": []
+        },
+        {
+          "number": 22,
+          "base_word": "DIFFERENT",
+          "answer": "DIFFERENCES",
+          "word_class": "noun",
+          "tier_source": 2,
+          "formation_path": "DIFFERENT → DIFFERENCES",
+          "explanation": "DIFFERENT → DIFFERENCES. Form the correct noun; check meaning and spelling.",
+          "qc_flags": []
+        },
+        {
+          "number": 23,
+          "base_word": "FORTUNE",
+          "answer": "UNFORTUNATELY",
+          "word_class": "adverb",
+          "tier_source": 1,
+          "formation_path": "FORTUNE → UNFORTUNATELY",
+          "explanation": "FORTUNE → UNFORTUNATELY. Form the correct adverb; check meaning and spelling.",
+          "qc_flags": []
+        },
+        {
+          "number": 24,
+          "base_word": "CONCLUDE",
+          "answer": "CONCLUSIONS",
+          "word_class": "noun",
+          "tier_source": 2,
+          "formation_path": "CONCLUDE → CONCLUSIONS",
+          "explanation": "CONCLUDE → CONCLUSIONS. Form the correct noun; check meaning and spelling.",
+          "qc_flags": []
+        }
+      ],
+      "qc_status": "qc_checked_2026-11-25"
+    },
+    {
+      "id": "mixed-review-18",
+      "tier": "mixed",
+      "practice": 18,
+      "title": "Life in an Ancient City",
+      "topic": "History",
+      "status": "new_assistant_authored",
+      "instructions": "For questions 17–24, use the word given in capitals to form a word that fits each gap. There is an example (0). Write your answers in CAPITAL LETTERS.",
+      "passage": "Careful (0) {{0}} is important when approaching a new challenge.\n\nArchaeologists have recently investigated the remains of an ancient city. Its exact (17) {{17}} was unknown until satellite images revealed unusual patterns in the landscape. The (18) {{18}} of several stone buildings began more than two thousand years ago. Some towers were remarkable for their (19) {{19}}, rising far above the surrounding houses.\n\nResearchers measured the (20) {{20}} of the city's defensive walls and mapped its streets. One particularly interesting (21) {{21}} concerned the city's water supply. There was clear (22) {{22}} that engineers had built an advanced drainage system. The city's sudden (23) {{23}} remains unexplained. Nevertheless, the findings provide valuable (24) {{24}} about ancient urban life.",
+      "example": {
+        "number": 0,
+        "base_word": "PREPARE",
+        "answer": "PREPARATION"
+      },
+      "items": [
+        {
+          "number": 17,
+          "base_word": "LOCATE",
+          "answer": "LOCATION",
+          "word_class": "noun",
+          "tier_source": 2,
+          "formation_path": "LOCATE → LOCATION",
+          "explanation": "LOCATE → LOCATION. Form the correct noun; check meaning and spelling.",
+          "qc_flags": []
+        },
+        {
+          "number": 18,
+          "base_word": "CONSTRUCT",
+          "answer": "CONSTRUCTION",
+          "word_class": "noun",
+          "tier_source": 2,
+          "formation_path": "CONSTRUCT → CONSTRUCTION",
+          "explanation": "CONSTRUCT → CONSTRUCTION. Form the correct noun; check meaning and spelling.",
+          "qc_flags": []
+        },
+        {
+          "number": 19,
+          "base_word": "HIGH",
+          "answer": "HEIGHT",
+          "word_class": "noun",
+          "tier_source": 2,
+          "formation_path": "HIGH → HEIGHT",
+          "explanation": "HIGH → HEIGHT. Form the correct noun; check meaning and spelling.",
+          "qc_flags": []
+        },
+        {
+          "number": 20,
+          "base_word": "LONG",
+          "answer": "LENGTH",
+          "word_class": "noun",
+          "tier_source": 2,
+          "formation_path": "LONG → LENGTH",
+          "explanation": "LONG → LENGTH. Form the correct noun; check meaning and spelling.",
+          "qc_flags": []
+        },
+        {
+          "number": 21,
+          "base_word": "OBSERVE",
+          "answer": "OBSERVATION",
+          "word_class": "noun",
+          "tier_source": 2,
+          "formation_path": "OBSERVE → OBSERVATION",
+          "explanation": "OBSERVE → OBSERVATION. Form the correct noun; check meaning and spelling.",
+          "qc_flags": []
+        },
+        {
+          "number": 22,
+          "base_word": "EVIDENT",
+          "answer": "EVIDENCE",
+          "word_class": "noun",
+          "tier_source": 1,
+          "formation_path": "EVIDENT → EVIDENCE",
+          "explanation": "EVIDENT → EVIDENCE. Form the correct noun; check meaning and spelling.",
+          "qc_flags": []
+        },
+        {
+          "number": 23,
+          "base_word": "APPEAR",
+          "answer": "DISAPPEARANCE",
+          "word_class": "noun",
+          "tier_source": 1,
+          "formation_path": "APPEAR → DISAPPEARANCE",
+          "explanation": "APPEAR → DISAPPEARANCE. Form the correct noun; check meaning and spelling.",
+          "qc_flags": []
+        },
+        {
+          "number": 24,
+          "base_word": "KNOW",
+          "answer": "KNOWLEDGE",
+          "word_class": "noun",
+          "tier_source": 1,
+          "formation_path": "KNOW → KNOWLEDGE",
+          "explanation": "KNOW → KNOWLEDGE. Form the correct noun; check meaning and spelling.",
+          "qc_flags": []
+        }
+      ],
+      "qc_status": "qc_checked_2026-11-25"
+    },
+    {
+      "id": "mixed-review-19",
+      "tier": "mixed",
+      "practice": 19,
+      "title": "The Future of Food Production",
+      "topic": "Sustainability",
+      "status": "new_assistant_authored",
+      "instructions": "For questions 17–24, use the word given in capitals to form a word that fits each gap. There is an example (0). Write your answers in CAPITAL LETTERS.",
+      "passage": "Careful (0) {{0}} is important when approaching a new challenge.\n\nAs the world's population grows, food (17) {{17}} must become more efficient. Scientists are developing systems that use fewer resources while remaining highly (18) {{18}}. One approach involves growing vegetables in specially designed indoor farms. These farms can operate in a wide (19) {{19}} of climates.\n\nThe use of automatic lighting can (20) {{20}} that plants receive enough energy. Such technology may also help prevent food (21) {{21}} in crowded cities. However, building these facilities requires a (22) {{22}} amount of money. Researchers are therefore exploring more (23) {{23}} methods of growing crops. Their aim is to make modern farming more (24) {{24}} in the long term.",
+      "example": {
+        "number": 0,
+        "base_word": "PREPARE",
+        "answer": "PREPARATION"
+      },
+      "items": [
+        {
+          "number": 17,
+          "base_word": "PRODUCE",
+          "answer": "PRODUCTION",
+          "word_class": "noun",
+          "tier_source": 2,
+          "formation_path": "PRODUCE → PRODUCTION",
+          "explanation": "PRODUCE → PRODUCTION. Form the correct noun; check meaning and spelling.",
+          "qc_flags": []
+        },
+        {
+          "number": 18,
+          "base_word": "PRODUCE",
+          "answer": "PRODUCTIVE",
+          "word_class": "adjective",
+          "tier_source": 2,
+          "formation_path": "PRODUCE → PRODUCTIVE",
+          "explanation": "PRODUCE → PRODUCTIVE. Form the correct adjective; check meaning and spelling.",
+          "qc_flags": []
+        },
+        {
+          "number": 19,
+          "base_word": "VARY",
+          "answer": "VARIETY",
+          "word_class": "noun",
+          "tier_source": 1,
+          "formation_path": "VARY → VARIETY",
+          "explanation": "VARY → VARIETY. Form the correct noun; check meaning and spelling.",
+          "qc_flags": []
+        },
+        {
+          "number": 20,
+          "base_word": "SURE",
+          "answer": "ENSURE",
+          "word_class": "verb",
+          "tier_source": 2,
+          "formation_path": "SURE → ENSURE",
+          "explanation": "SURE → ENSURE. Form the correct verb; check meaning and spelling.",
+          "qc_flags": []
+        },
+        {
+          "number": 21,
+          "base_word": "SHORT",
+          "answer": "SHORTAGES",
+          "word_class": "noun",
+          "tier_source": 2,
+          "formation_path": "SHORT → SHORTAGES",
+          "explanation": "SHORT → SHORTAGES. Form the correct noun; check meaning and spelling.",
+          "qc_flags": []
+        },
+        {
+          "number": 22,
+          "base_word": "CONSIDER",
+          "answer": "CONSIDERABLE",
+          "word_class": "adjective",
+          "tier_source": 1,
+          "formation_path": "CONSIDER → CONSIDERABLE",
+          "explanation": "CONSIDER → CONSIDERABLE. Form the correct adjective; check meaning and spelling.",
+          "qc_flags": []
+        },
+        {
+          "number": 23,
+          "base_word": "NATURE",
+          "answer": "NATURAL",
+          "word_class": "adjective",
+          "tier_source": 1,
+          "formation_path": "NATURE → NATURAL",
+          "explanation": "NATURE → NATURAL. Form the correct adjective; check meaning and spelling.",
+          "qc_flags": []
+        },
+        {
+          "number": 24,
+          "base_word": "RESPONSIBLE",
+          "answer": "RESPONSIBLE",
+          "word_class": "adjective",
+          "tier_source": 1,
+          "formation_path": "RESPONSIBLE → RESPONSIBLE",
+          "explanation": "RESPONSIBLE → RESPONSIBLE. Form the correct adjective; check meaning and spelling.",
+          "qc_flags": []
+        }
+      ],
+      "qc_status": "qc_checked_2026-11-25"
+    },
+    {
+      "id": "mixed-review-20",
+      "tier": "mixed",
+      "practice": 20,
+      "title": "A Festival That Changed a Town",
+      "topic": "Community",
+      "status": "new_assistant_authored",
+      "instructions": "For questions 17–24, use the word given in capitals to form a word that fits each gap. There is an example (0). Write your answers in CAPITAL LETTERS.",
+      "passage": "Careful (0) {{0}} is important when approaching a new challenge.\n\nA small coastal town was once almost (17) {{17}} to international tourists. Its annual arts festival gradually brought it greater (18) {{18}}. Local organisers invited musicians, designers and other (19) {{19}} professionals to take part. Their first event attracted only a few visitors, but its success was (20) {{20}} encouraging.\n\nOver the following years, the festival expanded (21) {{21}}, eventually attracting thousands of visitors. Its programme now includes a wide range of artistic (22) {{22}}. The organisers also take special care to protect the town's (23) {{23}} beauty. For many residents, the festival has become a source of pride and a truly (24) {{24}} experience.",
+      "example": {
+        "number": 0,
+        "base_word": "PREPARE",
+        "answer": "PREPARATION"
+      },
+      "items": [
+        {
+          "number": 17,
+          "base_word": "KNOW",
+          "answer": "UNKNOWN",
+          "word_class": "adjective",
+          "tier_source": 1,
+          "formation_path": "KNOW → UNKNOWN",
+          "explanation": "KNOW → UNKNOWN. Form the correct adjective; check meaning and spelling.",
+          "qc_flags": []
+        },
+        {
+          "number": 18,
+          "base_word": "POPULAR",
+          "answer": "POPULARITY",
+          "word_class": "noun",
+          "tier_source": 1,
+          "formation_path": "POPULAR → POPULARITY",
+          "explanation": "POPULAR → POPULARITY. Form the correct noun; check meaning and spelling.",
+          "qc_flags": []
+        },
+        {
+          "number": 19,
+          "base_word": "CREATE",
+          "answer": "CREATIVE",
+          "word_class": "adjective",
+          "tier_source": 2,
+          "formation_path": "CREATE → CREATIVE",
+          "explanation": "CREATE → CREATIVE. Form the correct adjective; check meaning and spelling.",
+          "qc_flags": []
+        },
+        {
+          "number": 20,
+          "base_word": "SURPRISE",
+          "answer": "SURPRISINGLY",
+          "word_class": "adverb",
+          "tier_source": 2,
+          "formation_path": "SURPRISE → SURPRISINGLY",
+          "explanation": "SURPRISE → SURPRISINGLY. Form the correct adverb; check meaning and spelling.",
+          "qc_flags": []
+        },
+        {
+          "number": 21,
+          "base_word": "CONSIDER",
+          "answer": "CONSIDERABLY",
+          "word_class": "adverb",
+          "tier_source": 1,
+          "formation_path": "CONSIDER → CONSIDERABLY",
+          "explanation": "CONSIDER → CONSIDERABLY. Form the correct adverb; check meaning and spelling.",
+          "qc_flags": []
+        },
+        {
+          "number": 22,
+          "base_word": "ACT",
+          "answer": "ACTIVITIES",
+          "word_class": "noun",
+          "tier_source": 1,
+          "formation_path": "ACT → ACTIVITIES",
+          "explanation": "ACT → ACTIVITIES. Form the correct noun; check meaning and spelling.",
+          "qc_flags": []
+        },
+        {
+          "number": 23,
+          "base_word": "NATURE",
+          "answer": "NATURAL",
+          "word_class": "adjective",
+          "tier_source": 1,
+          "formation_path": "NATURE → NATURAL",
+          "explanation": "NATURE → NATURAL. Form the correct adjective; check meaning and spelling.",
+          "qc_flags": []
+        },
+        {
+          "number": 24,
+          "base_word": "MEMORY",
+          "answer": "MEMORABLE",
+          "word_class": "adjective",
+          "tier_source": 1,
+          "formation_path": "MEMORY → MEMORABLE",
+          "explanation": "MEMORY → MEMORABLE. Form the correct adjective; check meaning and spelling.",
+          "qc_flags": []
+        }
+      ],
+      "qc_status": "qc_checked_2026-11-25"
     }
   ]
 }
