@@ -1072,7 +1072,7 @@
       "topic": "Education",
       "status": "new_assistant_authored",
       "instructions": "For questions 17–24, use the word given in capitals to form a word that fits each gap. There is an example (0). Write your answers in CAPITAL LETTERS.",
-      "passage": "Careful (0) {{0}} is important when approaching a new challenge.\n\nOnline learning has changed education in many ways. One major (17) {{17}} is that students can study at their own pace. Modern platforms offer a wide (18) {{18}} of exercises designed for different levels. Their growing (19) {{19}} is partly due to the freedom they give learners. However, teachers must take students' individual needs into (20) {{20}} when designing online courses.\n\nSome learners have difficulty staying (21) {{21}} without regular classroom lessons. Fortunately, technology can (22) {{22}} teachers to monitor progress more easily. Many websites also provide clear (23) {{23}} of difficult grammar rules. With careful planning, online learning can support students' academic (24) {{24}}.",
+      "passage": "Careful (0) {{0}} is important when approaching a new challenge.\n\nOnline learning has changed education in many ways. Students' (17) {{17}} to study at their own pace is one of its main benefits. Modern platforms offer a wide (18) {{18}} of exercises designed for different levels. Their growing (19) {{19}} is partly due to the freedom they give learners. However, teachers must take students' individual needs into (20) {{20}} when designing online courses.\n\nSome learners have difficulty staying (21) {{21}} without regular classroom lessons. Fortunately, technology can (22) {{22}} teachers to monitor progress more easily. Many websites also provide clear (23) {{23}} of difficult grammar rules. With careful planning, online learning can support students' academic (24) {{24}}.",
       "example": {
         "number": 0,
         "base_word": "PREPARE",
@@ -1856,7 +1856,7 @@
       "topic": "Sustainability",
       "status": "new_assistant_authored",
       "instructions": "For questions 17–24, use the word given in capitals to form a word that fits each gap. There is an example (0). Write your answers in CAPITAL LETTERS.",
-      "passage": "Careful (0) {{0}} is important when approaching a new challenge.\n\nAs the world's population grows, food (17) {{17}} must become more efficient. Scientists are developing systems that use fewer resources while remaining highly (18) {{18}}. One approach involves growing vegetables in specially designed indoor farms. These farms can operate in a wide (19) {{19}} of climates.\n\nThe use of automatic lighting can (20) {{20}} that plants receive enough energy. Such technology may also help prevent food (21) {{21}} in crowded cities. However, building these facilities requires a (22) {{22}} amount of money. Researchers are therefore exploring more (23) {{23}} methods of growing crops. Their aim is to make modern farming more (24) {{24}} in the long term.",
+      "passage": "Careful (0) {{0}} is important when approaching a new challenge.\n\nAs the world's population grows, food (17) {{17}} must become more efficient. Scientists are developing systems that use fewer resources while remaining highly (18) {{18}}. One approach involves growing vegetables in specially designed indoor farms. These farms can operate in a wide (19) {{19}} of climates.\n\nThe use of automatic lighting can (20) {{20}} that plants receive enough energy. Such technology may also help prevent food (21) {{21}} in crowded cities. However, building these facilities requires a (22) {{22}} amount of money. Researchers are therefore exploring more (23) {{23}} methods of growing crops. Their aim is to manage modern farming more (24) {{24}} in the long term.",
       "example": {
         "number": 0,
         "base_word": "PREPARE",
@@ -1936,11 +1936,11 @@
         {
           "number": 24,
           "base_word": "RESPONSIBLE",
-          "answer": "RESPONSIBLE",
-          "word_class": "adjective",
+          "answer": "RESPONSIBLY",
+          "word_class": "adverb",
           "tier_source": 1,
-          "formation_path": "RESPONSIBLE → RESPONSIBLE",
-          "explanation": "RESPONSIBLE → RESPONSIBLE. Form the correct adjective; check meaning and spelling.",
+          "formation_path": "RESPONSIBLE → RESPONSIBLY",
+          "explanation": "RESPONSIBLE → RESPONSIBLY. The comparative adverb modifies 'manage'.",
           "qc_flags": []
         }
       ],
